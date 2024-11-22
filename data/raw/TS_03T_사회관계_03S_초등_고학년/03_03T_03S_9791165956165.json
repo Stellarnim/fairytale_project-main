@@ -1,0 +1,167 @@
+{
+  "title": "책 속에 답이 있어요",
+  "author": "선안나",
+  "illustrator": "전병준",
+  "isbn": "9791165956165",
+  "readAge": "초등_고학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 22,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5683",
+      "srcText": "역모. 왕의 자리를 탐내어 나라를 다스리는 힘을 빼앗으려 하는 것을 말해요. 감히 역모를 꾸며? 당장 잡아들여라! 우린 억울하다! 훈구파, 자네들이 꾸민 일이군.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5687",
+      "srcText": "조정에는 다시 훈구파가 들끓었어. “이제 다시 우리 마음대로 합시다.” 세상은 예전으로 돌아갔고, 나라도 어지러워졌어. ‘내가 왜 사약을 내렸던고.’ 중종은 조광조를 죽인 것을 후회했지만, 이미 때늦은 일이었지.",
+      "srcPage": 18,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "5684",
+      "srcText": "이때를 놓칠세라 훈구파 신하들이 나섰어. “조광조가 역모를 꾸미고 있답니다!” 중종은 그래도 망설였어.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5690",
+      "srcText": "퇴계 이황이 세운 도산 서원은 어떤 모습이었을까? 한석봉이 쓴 현판. 현판은 글씨를 새긴 나무판이에요.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5688",
+      "srcText": "건물 중앙에 한석봉이 쓴 ‘도산서원’이라는 현판이 걸려 있어요. 투호. 화살을 항아리에 던져 넣어 승부를 가리는 놀이예요. 잃어버린 유건. 공부하던 유생들이 쓰던 모자예요.",
+      "srcPage": 20,
+      "srcSentenceEA": 6,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5689",
+      "srcText": "서원 안이나 집 안에서만 썼고 거리에서는 쓰지 않았어요. 청려장. 퇴계 이황이 쓰던 지팡이예요. 명아주의 줄기로 만들어 가볍고 단단해요.",
+      "srcPage": 21,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5661",
+      "srcText": " “조금 더 때를 기다려 봅시다.” 훈구파. 이성계가 조선을 세울 때 공을 세운 사람들의 자손으로 큰 힘을 갖고 있었어요. 사림. 고려에 대한 의리를 지켜 지방으로 내려간 사람들의 자손이에요.",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "5665",
+      "srcText": "“연산군이 없앤 모든 법을 원래대로 되돌려라!” 중종은 나라를 바로 세우려 애썼지만, 공신들의 입김이 너무 세어 힘들었단다. 누구 덕분에 왕이 되셨는지 생각해 보세요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5692",
+      "srcText": "중종은 지방의 선비들이 공부할 수 있게 서원에 땅을 내려 주었어. 사림파는 서원에서 학생들을 가르치고 백성들에게 향약을 널리 알렸지. 그 뒤로도 사림파는 훈구파에 의해 몇 번씩이나 공격을 당해야 했어. ",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5681",
+      "srcText": "나뭇잎을 본 중종의 얼굴빛이 달라졌어. 조광조가 왕이 될 거란 말인가? 전하, 나뭇잎에 쓰인 글씨를 보십시오!",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5682",
+      "srcText": "“조광조를 잡아들여야 합니다.” “전하, 허락해 주십시오.” 중종은 결국 훈구파의 손을 들어 주었어.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5685",
+      "srcText": "“조광조에게 사약을 내리십시오!” 훈구파는 사림파를 모두 없애고 싶었어. “전하, 사약은 너무 심합니다.” ",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5686",
+      "srcText": "조광조를 감싸는 신하들도 있었지만, 중종은 끝내 사약을 내렸단다. “밝은 해가 세상을 굽어보고 있으니, 거짓 없는 내 마음을 환히 비춰 주리라!” 조광조는 시 한 수를 남기고 세상을 떠났어.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5677",
+      "srcText": "조광조의 인기는 날로 높아졌어. 그러자 훈구파 신하들의 불만이 커졌지. “사림파가 우리를 소인배라 부른답니다.”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5675",
+      "srcText": "“뭣이? 이런 괘씸한 자들이 있나!” 훈구파가 잔뜩 벼르고 있는데, 일이 터졌어. “공을 세우지도 않은 가짜 공신들의 땅과 노비를 빼앗아야 합니다!”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5676",
+      "srcText": "분해서 오늘 밤, 잠도 안 오겠군. 흐음, 사림파의 기세가 세졌다 이거지? 내 땅을 다시 내놔라!",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5664",
+      "srcText": "“훈구파들의 횡포를 더는 두고 볼 수 없소!” 사림들은 과거를 봐서 벼슬에 올랐어. 하지만 곧 훈구파에게 밀려나고 말았지.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5663",
+      "srcText": "“조선은 우리가 없으면 안 돼.” 높은 벼슬을 하는 훈구파들이 으스댔어. “우리는 공부나 합시다!”",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5668",
+      "srcText": "‘공신들에게 계속 휘둘릴 수 없어.’ 중종은 성균관을 다시 열었어. 과거 시험을 치러 새로운 인재도 뽑았지.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5670",
+      "srcText": "중종은 똑똑하고 올곧은 조광조가 마음에 들었지. 왕도 정치를 주장하는 조광조, 그대가 참 마음에 드는군.  왕도 정치. 어질고 베푸는 마음으로 나라를 다스려야 한다는 뜻이에요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5671",
+      "srcText": "아이고, 미안합니다. 제가 바빠서 그만. 아닐세. 내가 미처 못 봤네. 힘드시죠? 제가 밀어 드릴게요. 허허, 고맙구나!",
+      "srcPage": 8,
+      "srcSentenceEA": 7,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5667",
+      "srcText": "어느 날, 신하들이 연산군을 쫓아내고 중종을 왕으로 앉혔어. 말만 왕이지 중종은 아무 힘이 없었지. 공신들 눈치를 보느라 왕비와도 헤어졌어.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    }
+  ]
+}

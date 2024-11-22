@@ -1,0 +1,244 @@
+{
+  "title": "자꾸만 떨어지는 이유",
+  "author": "김준영",
+  "illustrator": "홍승연",
+  "isbn": "9791128211348",
+  "readAge": "초등_고학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 33,
+  "paragraphInfo": [
+    {
+      "srcTextID": "12743",
+      "srcText": "“하몽아, 어서 아침 먹어. 곧 나가야지.” 아차차! 오늘은 아침부터 면접시험을 보는 날이에요. 하몽 씨가 양복을 걸치며 허겁지겁 아침을 먹었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "12744",
+      "srcText": "쨍그랑! 그때 들고 있던 유리컵이 바닥에 떨어져 깨졌어요. “앗, 유리컵이 깨졌어요. 왜 떨어진 거죠?” “괜찮아, 원래 뭐든지 땅으로 떨어지는걸. 유리컵도 손에서 놓치면 떨어지는 게 당연하지.”",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "12749",
+      "srcText": "하몽 씨가 크게 소리치자 작은 새가 대답했어요. “미안해, 네가 거기 있는지 몰랐어.” 하몽 씨가 새를 흘겨보며 말했어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "12748",
+      "srcText": "“넌 좋겠다. 똥만 땅으로 떨어뜨리지, 넌 땅으로 떨어지지 않잖아!” 나도 날갯짓을 멈추면 땅으로 떨어질 거야. 지구가 뭐든지 끌어당기니까.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "12766",
+      "srcText": "하몽 씨는 이제 그만 쉬고 싶었어요. 사다리를 붙잡고 가까스로 아래쪽으로 내려가 의자에 궁둥이를 붙이고 안전띠를 꼭 채웠어요. 잠시 뒤 웅웅 소리가 그치고 우주선 문이 열렸어요.",
+      "srcPage": 24,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "12753",
+      "srcText": "하지만 책에서는 달도, 행성도 끌어당기는 힘이 있다고 적혀 있었어요. 달도 끌어당기는 힘이 있는데 지구보다는 약해요. 목성은 지구보다 크고 끌어당기는 힘도 더 세요. ",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "12751",
+      "srcText": "우주의 다른 행성들도 끌어당기는 힘이 있어요. 끌어당기는 힘이 어마어마하게 커지면 블랙홀이 돼요. 블랙홀은 모든 걸 빨아들이지요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "12754",
+      "srcText": "‘꿈에서는 절벽에서 떨어졌어. 아침에는 유리컵이 떨어졌고, 면접시험에서도 떨어진 것 같고, 새똥까지 내 코에 떨어졌잖아. 이 모든 게 지구가 끌어당기는 힘 때문이라면.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "12764",
+      "srcText": "“즐거우셨나요?” 안전 요원이 묻자, 하몽 씨는 고개를 가로저었어요. “얼른 나가서 밥도 실컷 먹고, 땅도 꾹꾹 밟고, 높은 곳에서 다이빙도 하고 싶네요.” 하몽 씨는 얼른 대답하고선 잠깐 밖으로 나왔어요.",
+      "srcPage": 25,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "12768",
+      "srcText": "지구가 나를 끌어당기고 있는 거야. 그래서 똑바로 설 수도 있어. 하몽 씨가 감나무 아래를 지나는데, 툭 하고 감이 떨어졌어요.",
+      "srcPage": 27,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "12771",
+      "srcText": "“마침 배고팠는데, 감이 떨어지다니 잘됐어.” 하몽 씨는 떨어진 감을 주워 맛있게 먹었어요. 하몽 씨는 제자리에서 쿵쿵 뛰어 보았어요. ",
+      "srcPage": 28,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "12770",
+      "srcText": "“감도, 빗방울도 아래로 떨어지지만 괜찮아. 감은 맛있게 먹을 수 있고, 비가 내리면 시원한걸.” 하몽 씨는 하늘을 향해 두 손을 펼쳐 떨어지는 빗방울을 받았어요. ",
+      "srcPage": 30,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "12772",
+      "srcText": " “아, 이제 집으로 돌아가야겠어.” 하몽 씨는 다시 우주 체험관으로 돌아가 옷을 갈아입고 나왔어요. 집으로 돌아온 하몽 씨는 곧장 침대로 가 누웠어요. ",
+      "srcPage": 31,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "12773",
+      "srcText": "“침대에 누울 수 있다니, 정말 좋은걸.” 그리고 바로 잠이 들었지요. 다음 날 하몽 씨는 아침 늦게까지 잠을 잤어요.",
+      "srcPage": 32,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "12756",
+      "srcText": "중력이 없는 곳으로 가고 싶어. 하몽 씨는 얼른 도서관을 나왔어요. 그때 하몽 씨의 눈에 현수막이 보였어요. ",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "12758",
+      "srcText": "하몽 씨가 탄 우주선이 웅웅 소리를 냈어요. 가방이며 인형이며 책이 둥둥 떠다녔어요. 우주선 안은 지구에서처럼 끌어당기는 힘이 없습니다. ",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "12757",
+      "srcText": "안전띠를 풀어 보세요. 놀라운 일이 벌어질 것입니다. 안내 방송이 나오자 하몽 씨는 안전띠를 풀었어요. ",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "12761",
+      "srcText": "하몽 씨의 몸도 가방처럼 둥둥 떠올랐어요. “하하, 여기서는 어떤 것도 떨어지지 않겠어.” 한참을 둥둥 떠다니던 하몽 씨는 심심해졌어요. ",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "12759",
+      "srcText": " “그림이나 그려 볼까?” 하몽 씨는 스케치북에 매직펜으로 그림을 그리려고 했어요. 그런데 매직펜을 아무리 그어도 색이 나오지 않았어요. “어, 왜 이러지? 지구에서는 잘 나왔는데.”",
+      "srcPage": 19,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "12760",
+      "srcText": "지구에서는 매직펜의 잉크가 중력에 이끌려 나왔던 거예요. 하지만 우주선 안에서는 끌어당기는 힘이 없으니까, 매직펜의 잉크가 나오지 않았지요. 할 수 없이 하몽 씨는 그림 그리기를 그만두었어요.",
+      "srcPage": 20,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "12763",
+      "srcText": "하몽 씨는 배가 고팠어요. 아침을 먹고 나서 아직 아무것도 먹지 못했거든요. 하몽 씨는 도시락을 꺼내 김밥을 먹으려고 했어요. ",
+      "srcPage": 21,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "12750",
+      "srcText": "하몽 씨는 풀이 죽어 터덜터덜 회사를 나왔어요. 하몽 씨가 어깨를 축 늘어뜨리고 집으로 돌아가는데 ‘후드득!’ 코 위로 새똥이 떨어졌어요. “이게 뭐야, 뭐가 떨어진 거야?”",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "8417",
+      "srcText": "“아, 안 돼, 으악!” 까마득한 절벽 아래로 떨어지는 순간, 하몽 씨가 소리를 지르며 잠에서 깼어요. “휴, 꿈이었잖아.” 하몽 씨는 한숨을 내쉬었어요. 요즘 날마다 회사에 면접시험을 보러 다니느라 하몽 씨는 스트레스를 많이 받았어요.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "12747",
+      "srcText": "엄마가 하몽 씨의 어깨를 다독여 주었어요. 하몽 씨는 면접시험 시간에 딱 맞춰 회사에 도착했어요. “하몽 씨, 왜 우리 회사에서 일하려고 하나요?” ",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "12746",
+      "srcText": "무서워 보이는 면접관이 하몽 씨에게 질문했어요. 그런데 하몽 씨는 떨려서 아무 생각도 나지 않았어요. 콧김이 퐁퐁, 땀이 주룩주룩, 심장이 쿵쿵.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "12745",
+      "srcText": "“어, 음, 저는, 그러니까 저는.” 면접관들이 말을 더듬는 하몽 씨를 굳은 얼굴로 쳐다보았어요. ‘하몽 씨, 떨어졌습니다.’ 이렇게 말하는 것 같았어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "12752",
+      "srcText": "하몽 씨는 쿵쾅쿵쾅 발을 구르며 도서관에 갔어요. 지구가 끌어당겨서 뭐든지 떨어지는 거라고? 끌어당기는 힘이 없는 곳이 있을 거야.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "12767",
+      "srcText": "바람을 쐬러 나온 하몽 씨가 땅에 발을 내디뎠어요. 커다란 발이 땅에 닿자, 하몽 씨가 빙그레 웃었어요. 이제 내 몸의 무게가 느껴져.",
+      "srcPage": 26,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "12769",
+      "srcText": " 잠시 뛰어올랐다가 다시 땅으로 떨어졌지요. “역시 지구가 나를 끌어당기고 있어.” 그때 갑자기 하늘에서 빗방울이 떨어졌어요. ",
+      "srcPage": 29,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "12774",
+      "srcText": "걱정된 엄마가 와서 하몽 씨를 깨웠어요. “하몽아, 그만 일어나.” 하몽 씨가 이불 밖으로 얼굴만 쏙 내밀고 말했어요. “엄마, 지구가 저를 끌어당겨서 못 일어나요.”",
+      "srcPage": 33,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "12755",
+      "srcText": "‘중력이 없는 우주 공간을 체험해 보세요!’ 우주 체험관에 간 하몽 씨는 우주복으로 갈아입었어요. 그리고 잔뜩 기대하며 우주선에 올라탔지요. ",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "12762",
+      "srcText": "그런데 김밥이 모두 둥둥 떠서 돌아다녔어요. 또 주스를 마시려고 병을 기울여도 주스가 흘러나오지 않았어요. “중력이 없으니 먹기가 힘들어.” ",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "12765",
+      "srcText": "우주선 안에서는 음식을 편하게 먹을 수 없어서 불편했어요. 하몽 씨는 계속 둥둥 떠다녔더니 어지러웠어요. 또 제대로 먹지 못해서 기운도 없었지요. ",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    }
+  ]
+}

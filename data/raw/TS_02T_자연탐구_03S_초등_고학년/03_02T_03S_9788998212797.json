@@ -1,0 +1,139 @@
+{
+  "title": "부랴부랴 뚝딱뚝딱",
+  "author": "정명숙",
+  "illustrator": "최재훈",
+  "isbn": "9788998212797",
+  "readAge": "초등_고학년",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 18,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5972",
+      "srcText": "바로 그때였어요. 빗자루를 탄 꼬마 마녀가 나타났어요. “아저씨는 가전제품을 잘 고친다지요? 제 청소기도 고쳐 주세요.”",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5973",
+      "srcText": "“그 청소기는 우리 할머니가 발명한 거예요. 윙윙 청소도 하고, 뽀득뽀득 설거지도 해요.” 꼬마 마녀는 간절하게 부탁했어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5974",
+      "srcText": "아저씨는 태어나서 처음으로 하늘을 날았어요. 꼬마 마녀의 빗자루를 타고서요. 꼬마 마녀의 집은 뒤죽박죽이었어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5977",
+      "srcText": "“먼지를 빨아들이는 환풍기가 망가졌어. 새것으로 갈아 끼우면 되는데, 이런 환풍기는 본 적이 없어서 말이야.” “아, 그거라면 문제없어요. 제가 만들어 드릴게요.” 꼬마 마녀는 씩씩하게 마법 주문을 외웠어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "5981",
+      "srcText": "꼬마 마녀도 신이 났는지 청소기와 춤을 추었어요. “어떻게 하면 아저씨처럼 가전제품을 척척 고칠 수 있어요?” 꼬마 마녀가 물었어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5969",
+      "srcText": "“아이고, 바쁘다 바빠.” 아저씨는 재빨리 아이스크림 가게로 갔어요. 가게 바닥은 녹아내린 아이스크림으로 끈적끈적, 질척질척 엉망이에요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5976",
+      "srcText": "“어쩌지? 이건 고칠 수가 없겠어.” 청소기를 살펴보던 아저씨가 고개를 절레절레 흔들었어요. “왜요? 많이 고장 났나요?”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5982",
+      "srcText": "아저씨는 씨익 웃으며 말했어요. “우선 기계를 아주아주 좋아해야 해. 냉장고나 텔레비전 같은 것들이 어떻게 움직이는지 공부하다 보면 훌륭한 가전제품 수리원이 될 수 있단다.”",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5983",
+      "srcText": "고 씨 아저씨는 집으로 돌아왔어요. “아함, 이제 좀 자야겠는걸.” 바쁜 하루였지만 마음만은 뿌듯했어요. 고 씨 아저씨는 금세 꿈나라로 떠났어요.",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5970",
+      "srcText": "“어이쿠! 냉장고 부품 하나가 고장 났군.” 고 씨 아저씨는 얼른 새 부품으로 바꾸었어요. 냉장고는 윙윙 찬 바람을 내면서 움직였어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5979",
+      "srcText": " “야호! 제가 새 환풍기를 만들었어요.” 고 씨 아저씨는 부랴부랴 청소기를 고쳤어요. 그러자 청소기가 윙윙 움직이며 인사했지요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5967",
+      "srcText": "전화를 받은 아저씨는 집을 나섰어요. 세상에! 온통 물바다에 엉망진창이에요. 덜컹덜컹 돌아가는 세탁기에서 비눗방울이 뽀글뽀글, 퐁퐁퐁! 아저씨는 세탁기를 뚝딱 고쳤어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5966",
+      "srcText": "“이제 다 됐어요. 고장 나면 또 전화 주세요.” “네, 감사합니다.” 아저씨는 싱글벙글 기분이 좋아졌어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5971",
+      "srcText": "“이제 다 됐어요. 고장 나면 또 전화 주세요.” “네, 감사합니다.” “어휴, 피곤하다.” 고 씨 아저씨는 아이스크림 가게를 나섰어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5965",
+      "srcText": "고 씨 아저씨는 뚝딱뚝딱 가전제품을 잘 고쳐요. 마을 사람들은 가전제품이 고장 나면 고 씨 아저씨를 부르지요. “아저씨, 세탁기가 고장 났어요!”",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5968",
+      "srcText": "돌아와서 한숨 돌리려는데, 또 전화가 왔어요. “고 씨 아저씨, 큰일 났어요! 냉장고가 고장 났어요.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5980",
+      "srcText": "“안녕하세요? 주인님. 오늘도 집이 엉망이네요.” 아저씨는 껄껄 웃었어요. “하하하! 아주 솔직한 청소기구나.”",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5975",
+      "srcText": "찻잔은 흔들흔들 춤을 추고, 소파는 뚜벅뚜벅 걸어 다녔어요. “허허, 참 신기한 집이구나!” 고 씨 아저씨는 정신이 얼얼했지만 고장 난 청소기를 살펴보기로 했어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    }
+  ]
+}

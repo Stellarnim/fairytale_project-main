@@ -1,0 +1,216 @@
+{
+  "title": "나는 피터를 이해할 수 있어",
+  "author": "장선혜",
+  "illustrator": "박진아",
+  "isbn": "9791165953140",
+  "readAge": "초등_저학년",
+  "publishedYear": 2021,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 29,
+  "paragraphInfo": [
+    {
+      "srcTextID": "75955",
+      "srcText": "“이거 내가 아껴 둔 건데 오빠 줄게. 혼자만 먹어.” “형, 혼자만 있기 심심하지? 내가 같이 있어 줄게.”",
+      "srcPage": 27,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "75926",
+      "srcText": "가끔 방에 들어와서는 소란스럽게 떠들다가 나갈 뿐이었어. ‘누가 나에게 말을 좀 걸어 줬으면.’ 침대에서 일어나 창밖을 바라보는 게 노엘이 하는 일의 전부였어.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "75931",
+      "srcText": "너의 영원한 친구 비어트릭스. 옛날옛날에 아기 토끼 네 마리가 살았어. 플롭시, 몹시, 코튼테일 그리고 피터야.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "75925",
+      "srcText": "노엘은 오늘도 침대에 누워 있어. 어릴 때부터 몸이 약해서 자주 아팠거든. 학교도 제대로 다니지 못해서 친구도 없었어.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "75924",
+      "srcText": "“노엘, 오늘은 분명 좋은 일이 생길 거야. 그러니까 기운 내렴.” 엄마는 늘 활짝 웃으며 말했지만 노엘은 웃지 않았어.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "75927",
+      "srcText": "사실 누워만 있는 노엘에게 좋은 일이 생기는 건 흔하지 않았어. 노엘에게는 동생이 셋 있었어. 하지만 동생들은 노엘에게 관심이 별로 없었지.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "75928",
+      "srcText": "“노엘, 노엘! 비어트릭스의 편지야!” 노엘은 엄마의 말에 눈을 크게 떴어. 노엘은 엄마의 제자이자 친구인 비어트릭스를 가장 좋아했거든. 비어트릭스의 편지라는 말에 시끄러운 세 동생도 모두 노엘 곁으로 모여들었어.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "75930",
+      "srcText": "나의 꼬마 친구 노엘, 침대에 누워서 얼마나 심심할까? 나의 가장 친한 친구인 피터의 이야기를 들려줄게. 너에게도 좋은 친구가 되길.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "75933",
+      "srcText": "하루는 엄마 토끼가 말했어. “맥그리거 아저씨네 농장에는 절대로 가면 안 돼. 너희 아빠도 거기에 갔다가 파이가 되고 말았단다.”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "75932",
+      "srcText": "플롭시, 몹시, 코튼테일은 엄마 말대로 오솔길에서 블랙베리를 따 먹었어. 하지만 개구쟁이 피터는 몰래 맥그리거 아저씨네 농장으로 갔어. 그곳에서 아삭아삭한 상추와 당근을 먹었지.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "75937",
+      "srcText": "그런데 맥그리거 아저씨와 딱 마주치고 만 거야. “어머, 어떡해?” “어머나!” 노엘도 동생들도 소리를 질렀어. 맥그리거 아저씨는 피터를 보자마자 갈퀴를 휘두르면서 뛰어왔지.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "75934",
+      "srcText": "“거기 서라, 요 도둑놈아!” 피터는 도망가다가 새 재킷과 신발을 모두 잃어버렸어. 그리고 농기구 창고로 들어갔어.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "75935",
+      "srcText": "그다음에 어디로 뛰어들었는지 아니? 바로 물뿌리개 속이었어! 그런데 하필이면 그 안에 차가운 물이 들어 있지 뭐야?",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "75936",
+      "srcText": "그때 맥그리거 아저씨가 창고로 들어왔어. “요놈, 어디 있는 거야?” 맥그리거 아저씨가 화분을 하나씩 들춰 보는데 피터가 “에취!” 하고 재채기를 했어.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "75938",
+      "srcText": "맥그리거 아저씨가 피터를 막 밟으려는 순간! “으악, 안 돼!” “맥그리거 아저씨, 그러지 말아요!” 노엘과 세 동생은 모두 얼굴을 찡그렸어.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "75941",
+      "srcText": "피터는 재빨리 달아났어. 집에 도착할 때까지 뒤도 돌아보지 않고 말이야. 그날 저녁 피터는 감기에 걸려 끙끙 앓았단다.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "75940",
+      "srcText": "엄마 말을 잘 들은 플롭시, 몹시, 코튼테일은 저녁으로 건포도가 든 달콤한 빵과 우유를 먹었어. 오랜만에 엄마가 맛있는 빵을 사 왔거든. 하지만 아픈 피터는 누워서 국화차만 겨우 한 모금 마셨지.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "75953",
+      "srcText": "그날 이후 노엘은 피터의 새로운 이야기를 매일매일 기다렸어. 피터 생각에 잠긴 노엘은 침대에서 일어나 조심조심 방을 걸어 다니기도 했어. ‘피터가 설마 신발과 옷을 찾으려고 맥그리거 아저씨네 농장에 또 가는 건 아니겠지?’",
+      "srcPage": 24,
+      "srcSentenceEA": 3,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "75956",
+      "srcText": "어느새 노엘은 피터가 되고, 피터는 노엘이 된 거야. 피터의 이야기를 들은 뒤, 세 동생도 많이 달라졌어. “노엘 오빠, 오늘은 기분이 어때?”",
+      "srcPage": 26,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "75957",
+      "srcText": "“노엘 오빠, 비어트릭스 이모가 왔어!” 몸이 많이 좋아진 노엘은 의자에 앉아 있다가 비어트릭스에게 달려갔어. “비어트릭스 이모! 어서 오세요. 내 친구 피터도 어서 와!” 노엘은 정말로 행복했어.",
+      "srcPage": 29,
+      "srcSentenceEA": 6,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "75929",
+      "srcText": "“엄마, 얼른 읽어 주세요.” 오랜만에 노엘이 환하게 웃었어. 편지와 함께 비어트릭스의 흥미진진한 이야기가 시작되었어.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "75939",
+      "srcText": "동생들은 얼굴을 찌푸렸어. “아, 불쌍한 피터.” “맛있는 빵을 못 먹다니!” “너무 불쌍해.”",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "75944",
+      "srcText": "다음 날, 노엘은 오랜만에 책상에 앉아 편지를 썼어. 내가 가장 좋아하는 비어트릭스 이모. 피터의 이야기가 정말 마음에 들어요.",
+      "srcPage": 21,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "75943",
+      "srcText": "둘째 동생이 말했어. “아픈 피터가 꼭 우리 노엘 오빠 같다.” 엄마와 세 동생은 모두 노엘을 바라보았어.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "75942",
+      "srcText": "“맞아, 노엘 오빠도 피터처럼 침대에 누워 있어서 답답할 것 같아.” “말하고 싶어도 말할 사람도 없고.” “힘들었겠다.” 그러고는 다들 아무 말도 하지 않았어.",
+      "srcPage": 20,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "75946",
+      "srcText": "피터도 나처럼 개구쟁이인가 봐요. 아파서 아무것도 못 먹을 때 얼마나 속상한지 나는 알거든요. 그래서 피터 이야기를 듣는데 눈물이 찔끔 나올 뻔했어요.",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "75945",
+      "srcText": "오늘부터 피터는 내 친구예요. 내 친구의 이야기를 더 듣고 싶어요. 당신의 친구, 노엘.",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "75954",
+      "srcText": "노엘은 마치 자기가 피터가 된 것만 같았어. 다들 뭐라고 해도 피터가 왜 모험을 즐기는지 이해할 수 있었지. 그리고 피터가 또 그 무시무시한 농장에 갈 거라는 것도 알 수 있었어.",
+      "srcPage": 25,
+      "srcSentenceEA": 3,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "75958",
+      "srcText": "노엘은 점점 몸이 나아졌고, 비어트릭스의 편지를 기다리느라 정원에 나가 앉아 있기도 했어. 비어트릭스의 편지를 기다리던 어느 날, 갑자기 세 동생이 우르르 정원으로 뛰어나갔어. 비어트릭스가 직접 피터 이야기를 들려주려고 노엘을 찾아온 거야.",
+      "srcPage": 28,
+      "srcSentenceEA": 3,
+      "srcWordEA": 33
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "title": "교과서 전래 동요",
+  "author": "춤추는 코끼리",
+  "illustrator": "소연정",
+  "isbn": "9791128213571",
+  "readAge": "초등_고학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 27,
+  "paragraphInfo": [
+    {
+      "srcTextID": "7721",
+      "srcText": "우리 마을. 저 달 봤나 나도 봤다. 저 해 봤나 나도 봤다. 저 구름 봤나 나도 봤다. 저 물 봤나 나도 봤다.",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "7723",
+      "srcText": "다 따 먹은 난두박. 처마 끝에 대롱박. 꼬부랑 막대 탁 치니 꼬부랑 꼬부랑 꼬부랑 깽.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "7727",
+      "srcText": "몇 닷 냥 주었나 열닷 냥 주었지. 어디 골 기완가 경상도 기와지. 몇 닷 냥 주었나 스물닷 냥 주었지.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "7756",
+      "srcText": "배가 아파 배나무 따끔따끔 가시나무. 바귀 바귀 씀바귀 매끈매끈 기름나물. 강강술래. 강강술래 강강술래. 전라도 우수영은 강강술래.",
+      "srcPage": 19,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "7766",
+      "srcText": "산에 올라 도라지 캐니 당기 둥당기 둥당기 허. 들고 보니 산삼일세 당기 둥당기 둥당기 허. 당기 둥당기 둥당기 허 당기 둥당기 둥당기 허.",
+      "srcPage": 24,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "7747",
+      "srcText": "실구대 소리. 실구대 실구대 실구대 틀이 늘어 가네. 앞뜰에 일 나간 엄마 빨리 돌아오소 엄마 빨리 돌아오소. 꼬꾸대 꼬꾸대 꼬꾸대 틀이 늘어 가네.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "7748",
+      "srcText": "앞뜰에 일 나간 아빠 빨리 돌아오소 아빠 빨리 돌아오소. 절이세 절이세 배추김치 절이세. 앞뜰에 일 나간 아빠 엄마 돌아오소 아빠 엄마 돌아오소.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "7754",
+      "srcText": "청어 엮자. 청청 청어 엮자 위도 군산 청어 엮자. 청청 청어 엮자 위도 군산 청어 엮자. 청청 청어 엮자 위도 군산 청어 엮자.",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "7752",
+      "srcText": " 청청 청어 엮자 위도 군산 청어 엮자. 풀자 풀자 청어 풀자 위도 군산 청어 풀자. 풀자 풀자 청어 풀자 위도 군산 청어 풀자.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "7753",
+      "srcText": "아리랑. 아리랑 아리랑 아라리요. 아리랑 고개로 넘어간다. 나를 버리고 가시는 임은. 십 리도 못 가서 발병 난다.",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "7755",
+      "srcText": "나물 노래. 꼬불꼬불 고사리 이 산 저 산 넘나물. 가자 가자 갓나무 오자 오자 옻나무. 말랑말랑 말냉이 잡아 뜯어 꽃다지.",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "7759",
+      "srcText": "새 노래. 후여딱 딱새야 꼬두박딱 딱새야. 우리 논에 앉지 말고. 남의 논에 다 가거라.",
+      "srcPage": 20,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "7758",
+      "srcText": "고사리 꺾자. 고사리 대사리 꺾자 나무 대사리 꺾자. 유자꽁꽁 재미나 넘자 아장장장 벌이여. 꺾자 꺾자 고사리 대사리 꺾자. 앞동산 고사리 꺾어다가 우리 아빠 반찬 하세.",
+      "srcPage": 21,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "7765",
+      "srcText": "둥당기타령. 당기 둥당기 둥당기 허 당기 둥당기 둥당기 허. 산에 올라 옥을 캐니 당기 둥당기 둥당기 허. 이름 좋아 산옥이냐 당기 둥당기 둥당기 허.",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "7764",
+      "srcText": "꽃을 꺾어 머리 꽂고 당기 둥당기 둥당기 허. 잎은 훑어 입에 물고 당기 둥당기 둥당기 허. 산에 올라 절 구경하니 당기 둥당기 둥당기 허. 나를 보고 모두 웃네 당기 둥당기 둥당기 허.",
+      "srcPage": 25,
+      "srcSentenceEA": 4,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "7769",
+      "srcText": "풍년가. 풍년이 왔네 풍년이 왔네. 금수강산에 풍년이 왔네. 지화자 좋다 얼씨구나 좋구 좋다. 명년 춘삼월에 화전놀이 가세.",
+      "srcPage": 27,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "7722",
+      "srcText": "우리 형제. 우물가엔 나무 형제. 하늘에는 별이 형제. 우리 집엔 나와 언니.",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "7726",
+      "srcText": "기와밟기. 어디 골 기완가 장자골 기와지. 몇 닷 냥 주었나 석닷 냥 주었지. 어디 골 기완가 전라도 기와지.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "7744",
+      "srcText": "문지기 문지기 문 열어라 열쇠 없어 못 열겠네. 어떤 대문에 들어갈까 남대문에 들어가. 문지기 문지기 문 열어라 덜커덩떵 열렸다.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "7760",
+      "srcText": "강가 사람은 강냉이떡 요 내 요기는 고구마떡. 떡 떡배비떡 경상도 골미떡. 조청간에 다 띄워 놓고 요 내 목으로 홀라당.",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "7768",
+      "srcText": "싸름싸름 산천초목 우거진 곳. 싸름 우는 소리가 처량도 하네. 싸름싸름 내 맘도 살살. 다 녹여낸다.",
+      "srcPage": 26,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "7720",
+      "srcText": "남생아 놀아라. 남생아 놀아라. 촐래촐래가 잘 논다. 새는 새는. 새는 새는 남게 자고. 쥐는 쥐는 궁게 자고. 우리 같은 아이들은 엄마 품에 잠을 잔다.",
+      "srcPage": 1,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "7724",
+      "srcText": "두꺼비. 두껍아 두껍아 헌 집 줄게 새 집 다오. 두껍아 두껍아 물 길어 오너라 너희 집 지어 줄게. 두껍아 두껍아 너희 집에 불났다. 쇠스랑 가지고 뚤레뚤레 오너라.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "7730",
+      "srcText": "널뛰기. 쿵더쿵 쿵더쿵 널뛰는데. 싸래기 받아서 닭 주고. 왕겨를 받아서 개 주고.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "7733",
+      "srcText": "꼭꼭 숨어라. 꼭꼭 숨어라 꼭꼭 숨어라. 텃밭에도 안 된다 상추 씨앗 밟는다. 꽃밭에도 안 된다 꽃모종을 밟는다.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "7734",
+      "srcText": "울타리도 안 된다 호박순을 밟는다. 꼭꼭 숨어라 꼭꼭 숨어라. 종종머리 찾았네 장독대에 숨었네. 까만 머리 찾았네 방앗간에 숨었네. 빨간 댕기 찾았네 기둥 뒤에 숨었네.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "7738",
+      "srcText": " 셋 하면 새색시가 거울을 본다고 잘잘잘. 넷 하면 냇가에서 빨래를 빤다고 잘잘잘. 다섯 하면 다람쥐가 알밤을 깐다고 잘잘잘.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    }
+  ]
+}

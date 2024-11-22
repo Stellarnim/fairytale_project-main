@@ -1,0 +1,125 @@
+{
+  "title": "행복한 미용사 툴라",
+  "author": "윤민재",
+  "illustrator": "윤공주",
+  "isbn": "9788998212582",
+  "readAge": "초등_고학년",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5362",
+      "srcText": "툴라는 솜씨 좋은 애완동물 미용사예요. 여덟 개의 손으로 동물들을 예쁘게 꾸며 주지요. 이른 아침, 툴라의 미용실은 손님맞이 준비로 바빠요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5371",
+      "srcText": "툴라는 소리를 지를 뻔했지만, 꾹 참았어요. “휴, 너무 지저분한걸. 하지만 걱정하지 마. 나는 예쁘게 꾸미기 전문가란다.”",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5361",
+      "srcText": "“오늘은 어떤 손님이 올까? 어이쿠, 첫 손님이 햄돌이네!” 성질 고약한 햄돌이 때문에 한바탕 소동이 일어나겠군요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5364",
+      "srcText": "저는 냄새 없애기 전문가랍니다. 뽀글뽀글, 툴라는 샴푸로 거품을 잔뜩 냈어요. 첨벙! 앗, 햄돌이가 욕조 속에 빠졌어요!",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5365",
+      "srcText": "“어머나, 향긋한 냄새가 나요. 당신은 정말 솜씨 좋은 미용사군요.” 햄돌이의 주인이 말했어요. 온몸이 물에 흠뻑 젖었지만, 툴라는 행복했어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5367",
+      "srcText": "딸랑딸랑! “어서 오세요!” 두 번째 손님이 찾아왔어요. “토순이 발톱이랑 이빨이 너무 길어요.” 네, 걱정하지 마세요. 저는 깎기 전문가랍니다.”",
+      "srcPage": 8,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5368",
+      "srcText": "똑깍똑깍, 툴라는 토순이 발톱을 다듬었어요. 사각 사각 사각. 앗, 토순이가 탁자를 갉고 있어요! 이빨이 너무 길게 자라서 간지러운가 봐요. “헉!” 툴라는 소리를 지를 뻔했지만, 꾹 참았어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5372",
+      "srcText": "벌써 점심시간이 되었어요. “이제 맛있는 점심을 먹어 볼까?” 그 순간, 갑자기 떠돌이 강아지가 나타나 툴라의 도시락을 꿀꺽 먹어 버렸어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5375",
+      "srcText": "짜잔! 강아지가 몰라보게 예뻐졌네요. 툴라는 강아지를 데리고 공원에 갔어요. 산책 나온 할머니가 강아지를 보고 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5363",
+      "srcText": "딸랑딸랑! “어서 오세요!” 드디어 첫 번째 손님이 왔어요. “안녕하세요? 우리 햄돌이 몸에서 고약한 냄새가 나요.” 네, 걱정하지 마세요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5366",
+      "srcText": "놀란 햄돌이가 툴라 손을 콱 물었어요. “으윽!” 툴라는 소리를 지를 뻔했지만, 꾹 참았어요. 탈탈탈탈, 위이이잉! 툴라는 햄돌이의 털을 말려 주었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5374",
+      "srcText": "“어쩜 이렇게 예쁠까? 당신은 정말 솜씨 좋은 미용사군요.” 강아지는 할머니와 같이 살기로 했어요. 오늘 하루 툴라는 너무너무 행복했어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5360",
+      "srcText": "철커덕, 철커덕, 철커덕! 으악! 괴 괴물이 나타났어요! 아하, 거미 툴라였군요!",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5370",
+      "srcText": "“이야, 토순이가 아주 예뻐졌어요. 당신은 정말 솜씨 좋은 미용사군요.” 토순이의 주인이 말했어요. 우지직, 쿵! 탁자가 기우뚱 쓰러졌지만, 툴라는 행복했어요.",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "128700",
+      "srcText": "쓱쓱 싹싹, 툴라는 강아지의 엉킨 털을 빗고, 서걱서걱, 가위로 잘랐어요. 뽀득뽀득, 목욕을 시키고, 위잉위잉, 드라이어로 털을 말렸어요. 쏘옥, 귓속 잔털을 뽑고, 똑깍똑깍, 발톱도 잘랐어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "128701",
+      "srcText": "애완동물 미용사는 무슨 일을 하나요? 애완동물 미용사는 애완동물을 예쁘게 꾸며 주는 만능 디자이너예요. 애완동물 미용사는 다양한 종류의 애완동물의 털을 예쁘게 다듬어 주고 염색도 해 주어요. 미용뿐 아니라 목욕, 발톱 정리, 귀 청소 등 위생 관리까지 도맡아 하는 애완동물의 전문가지요. 저는 강아지들을 전문으로 하는 애견 미용사예요.",
+      "srcPage": 16,
+      "srcSentenceEA": 5,
+      "srcWordEA": 49
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "title": "새들의 왕 뽑기",
+  "author": "이솝",
+  "illustrator": "김서영",
+  "isbn": "9791128210648",
+  "readAge": "초등_저학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "18783",
+      "srcText": "“내가 왕이야.” “아니야, 왕은 내가 할 거야.” “무슨 소리! 왕이라면 당연히 나지.” 삐삐삐, 쪼쪼쪼, 삐요오, 치치칫, 삑삑, 짹짹, 왁왁! 서로 왕이 되겠다고 새들이 나서는 바람에 조용하던 숲속이 시끄러워졌어요. “아니, 이게 웬 소란이야?”",
+      "srcPage": 1,
+      "srcSentenceEA": 7,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "18785",
+      "srcText": "참다못한 산신령이 버럭 소리를 질렀어요. 숲속이 갑자기 조용해졌어요. 새들은 모두 산신령의 말에 귀를 기울였어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "18787",
+      "srcText": "“아무리 봐도 내가 가장 아름다워. 당연히 내가 왕이 되겠지?” 두루미가 연못에 몸을 비춰 보며 말했어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "18790",
+      "srcText": "꾀꼬리는 날개를 활짝 펴고, 자신의 노란 깃털을 한껏 뽐냈어요. ‘아, 나에게도 화사한 노란 깃털이 있다면.’ 까마귀의 한숨 소리가 더 커졌어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18794",
+      "srcText": "약속한 날 새들은 산신령 앞에 모였어요. 산신령은 하나하나 살펴보았지요. “그래, 아주 우아하구나.”",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "18795",
+      "srcText": "“이렇게 아름다운 새가 있었다니! 무지갯빛 깃털을 가진 네가 바로 새들의 왕이다!” 그 말에 새들이 모두 놀라 산신령이 가리킨 새를 쳐다보았어요. “누구지?” “처음 보는 새인데?”",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "18797",
+      "srcText": "그때 꾀꼬리가 화들짝 놀라며 소리쳤어요. “이건 내 깃털이잖아?” 그러고는 노란 깃털을 뽑아 갔어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "18796",
+      "srcText": "“이건 내 건데.” 두루미는 하얀 깃털을 뽑아 갔어요. “이건 내 거야.” “이것도, 이것도!” 새들이 모두 달려들어 자신의 깃털을 뽑아 갔어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18798",
+      "srcText": "가장 아름다웠던 새가 있던 자리에는 온몸이 온통 까만 까마귀가 서 있었어요. 까마귀는 너무 창피해서 얼굴을 들 수 없었지요. “하하하, 남의 깃털을 자기 깃털인 척하다니!”",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "18784",
+      "srcText": "“내 말을 잘 들어라! 가장 아름다운 새를 왕으로 삼겠다. 일주일 뒤에 이곳에 모이도록 해라.”",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "18786",
+      "srcText": "새들이 바빠졌어요. 깃털을 고르고 예쁘게 꾸미느라 통통한 지렁이가 지나가도 잡아먹을 겨를이 없었어요. 새벽이면 연못에서 먼저 목욕을 하려고 줄을 섰어요. 잠꾸러기 부엉이가 대낮에 돌아다닐 정도였다니까요.",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "18788",
+      "srcText": "까마귀는 나무 위에서 두루미를 바라보았어요. ‘나에게도 눈부시게 하얀 깃털이 있다면.’ 까마귀는 제 몸을 쳐다보며 한숨을 후유 내쉬었어요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "18792",
+      "srcText": "“흥, 실컷 꾸며 보라지. 내 꽁지를 따라올 수 있을까? 어림없어, 암!” 공작이 오색찬란한 꽁지를 활짝 펴며 우쭐댔어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "18793",
+      "srcText": "“멋지긴 한데 그렇게 졸린 눈을 해서야. 쯧쯧.” “오! 정말 아름답구나. 왕관 같은 깃털이며 오색찬란한 꽁지며 나무랄 데가 없어. 너를 왕으로.” 바로 그때였어요. 산신령의 입이 딱 벌어졌지요.",
+      "srcPage": 10,
+      "srcSentenceEA": 7,
+      "srcWordEA": 32
+    },
+    {
+      "srcTextID": "18801",
+      "srcText": "다른 새들이 까마귀를 놀려 댔어요. 조용하던 숲속이 다시 시끄러워졌어요. “산신령님, 왕을 다시 뽑아야 해요!”",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "128764",
+      "srcText": "《새들의 왕 뽑기》는 그리스의 작가 이솝이 지은 이야기예요. 그리스는 신화의 나라예요. 그리스 북부에 있는 올림포스산은 그리스 신화에 나오는 신들이 사는 곳으로 그리스에서 가장 높은 산이에요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "128765",
+      "srcText": "자신이 초라하다고 생각한 까마귀는 다른 새들이 버린 깃털을 주워 자신의 몸을 예쁘게 치장했어요. 자신의 부족한 점을 기발한 생각으로 극복한 까마귀를 무조건 나무랄 수 있을까요? 새들의 왕은 아름다운 새가 아닌 까마귀처럼 지혜로운 새가 되어야 하지 않을까요?",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 37
+    }
+  ]
+}

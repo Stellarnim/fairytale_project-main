@@ -1,0 +1,174 @@
+{
+  "title": "사람도 동물도 행복하게!",
+  "author": "김미애",
+  "illustrator": "김민준",
+  "isbn": "9791165436414",
+  "readAge": "초등_고학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 23,
+  "paragraphInfo": [
+    {
+      "srcTextID": "9328",
+      "srcText": "“앗, 여기 알도 쌓여 있어!” 노란 닭이 외쳤어. “맙소사! 내 털로 만든 옷도 있잖아!” 거위가 날개를 파닥거리며 깜짝 놀라 말했어.",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "9331",
+      "srcText": "“여긴 위험해. 달아나자!” 흰 닭이 외쳤어. “쉿! 잡힐지도 몰라. 조용조용 빠져나가자.” 토끼가 살금살금 앞장서고, 셋은 그 뒤를 따랐어. 그런데 가게에 이렇게 쓰여 있지 뭐야.",
+      "srcPage": 18,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "9329",
+      "srcText": " 동물 실험 반대! 토끼도 좋아하는 유기농 화장품! 사람 피부에도 좋아요! ",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "9330",
+      "srcText": " 만드는 곳  착한 농장 신소재로 만든 털옷! 동물 털만큼 따뜻한 착한 옷! 사람 마음도 착해질걸요! 착한 농장에서 행복하게 뛰어논 닭이 낳은 건강한 알! 사람도 건강해져요! ",
+      "srcPage": 20,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "9297",
+      "srcText": " “참, 우리 어디로 가는 거야? 내가 살던 곳은 끔찍해. 돌아가기 싫어.” 흰 닭이 한숨을 포옥 쉬며 말했어.",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "9300",
+      "srcText": "“함께 새집을 찾자. 우리가 안전하고, 행복하게 살 수 있는 곳으로!” 노란 닭이 말하자 흰 닭이 냉큼 좋다고 대답했어.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "9326",
+      "srcText": "그래서 우리에서 달아났지. 거위가 말했어. “아팠겠다. 거위야, 너도 같이 갈래? 우린 안전한 새집을 찾아가는 길이거든.” 토끼가 말했어. 거위는 좋아서 날개를 파닥거렸어.",
+      "srcPage": 15,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "9327",
+      "srcText": " 넷은 한참 동안 걸어가다 나무와 꽃이 가득한 곳을 발견했어. “멋지다. 여기서 살면 어때?” 노란 닭과 흰 닭과 거위가 뛰어가려는데, “잠깐!”  토끼가 코를 찡긋거리며 소리쳤어. “화장품 냄새가 나.” 잠깐! 뭔가 이상해. ",
+      "srcPage": 16,
+      "srcSentenceEA": 7,
+      "srcWordEA": 37
+    },
+    {
+      "srcTextID": "9295",
+      "srcText": " 그러다 무언가와 퍽! 부딪쳤어. “꼬꼬댁, 누구야?” 노란 닭이 소리쳤어. “쉿! 나 지금 탈출하는 중이야.” ",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "9298",
+      "srcText": "“맞아. 나는 거의 한 번도 못 뛰었어. “나도. 맨날 서서 알만 낳았어. 그래야 알을 많이 얻을 수 있다나.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "9301",
+      "srcText": "그때 토끼가 헉헉대며 뛰어왔어. “토끼야, 왜 그렇게 헐떡이니?” “앗, 깜짝이야! 난 실험실에서 도망치는 중이야.” 토끼가 눈을 찡그리며 말했어. 헉헉 ",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "9303",
+      "srcText": "“토끼야, 눈이 아파?” 흰 닭이 물었어. “응, 사람들이 내 눈에 따가운 물을 넣었거든. ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "9302",
+      "srcText": " 화장품을 만들 때 몸에 좋은지 나쁜지 알기 위해 동물 실험을 하는 거라나. 실험은 아프고 무서워.” “사람들은 너무해! 토끼야, 너도 같이 갈래? 우린 안전한 새집을 찾아가는 길이거든.” 흰 닭이 말했어. ",
+      "srcPage": 9,
+      "srcSentenceEA": 6,
+      "srcWordEA": 34
+    },
+    {
+      "srcTextID": "9296",
+      "srcText": " 흰 닭이 속삭였어. “너도? 나도!” “정말? 그럼 일단 뛰어!” 흰 닭이 노란 닭을 앞지르며 말했어. ",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "9299",
+      "srcText": "둘은 앞서거니 뒤서거니 같이 산으로 뛰어 올라갔어. “야호! 뛰니까 신나.”  노란 닭이 말했어. 맞아. 나는 거의 한 번도 못 뛰었어. ",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "9305",
+      "srcText": "토끼야, 기운 내! 그런데 안전한 곳이 있을까? 사람들은 우릴 괴롭혀서 물건을 만들어 팔고, 또 그 물건을 사잖아. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "9304",
+      "srcText": "토끼가 귀를 축 늘어뜨리며 말했어. “토끼야, 힘내. 우리랑 같이 찾아 보자!” 노란 닭이 힘주어 말했어. 셋은 나란히 걷기 시작했지. ",
+      "srcPage": 11,
+      "srcSentenceEA": 5,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "9323",
+      "srcText": "연못가를 지날 때였어. 한쪽 구석에서 새 한 마리가 끙끙대고 있지 뭐야. “새야, 어디 아프니?” ",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "9324",
+      "srcText": "흰 닭이 물었어. “잠깐! 나는 멋진 깃털 거위라고 불러 줘.” “멋진 깃털 거위라고?” 노란 닭이 의아해하며 물었어. 거위는 비쩍 마르고 털이 듬성듬성했거든. ",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "9325",
+      "srcText": "그래. 내 깃털은 원래 보들보들 풍성했어. 그런데 사람들이 몽땅 뽑아 갔어. 내 털이 따뜻해서 옷을 만들 때 쓴다나.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "9334",
+      "srcText": "“우리 새집으로, 착한 물건을 만드는 ‘착한 농장’이 어때?” “좋아!” “빨리 가고 싶어!” 넷은 서로를 쳐다보았어. 그리고 힘차게 걸어갔지. ",
+      "srcPage": 23,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "9333",
+      "srcText": "“와! 나한테 실험하지 않고 만든 물건이라고?” 토끼가 외쳤어. “우리를 괴롭히지 않고 만든 물건을 판대.” 거위가 말했어. “착한 물건을 파는 착한 가게구나.”",
+      "srcPage": 21,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "9332",
+      "srcText": " 노란 닭이 말했어. “응, 착한 가게가 많아지면 우리도 행복해질 거야.” 흰 닭이 맞장구쳤지. ",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    }
+  ]
+}

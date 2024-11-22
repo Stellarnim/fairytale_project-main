@@ -1,0 +1,125 @@
+{
+  "title": "도레미 트리오",
+  "author": "이지현",
+  "illustrator": "전혜령",
+  "isbn": "9788998212681",
+  "readAge": "초등_고학년",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5905",
+      "srcText": "둘째 레레는 얼룩 부인이 불러 주는 자장가에 맞추어 바이올린을 켰지요. 막내 미미는 다락방에 있던 첼로를 보자 바로 아름다운 연주를 시작했어요. 세 아이들의 음악 연주를 들으면 동물들의 마음이 따뜻해졌지요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5906",
+      "srcText": "얼룩 부인의 집이에요. 얼룩 부인의 세 아이들은 어릴 때부터 악기를 잘 다루었어요. 첫째 도도는 라디오에서 흘러나오는 음악을 피아노로 똑같이 쳤어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5904",
+      "srcText": "따라란 따라라란. 아름다운 음악 소리가 울려 퍼져요. 꾀꼴꾀꼴 꾀꼬리의 집일까요? 귀뚤귀뚤 귀뚜라미의 집일까요? 아니에요! ",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5907",
+      "srcText": "그리고 ‘도레미 트리오’라는 별명도 붙여 주었어요. 동물들은 한결같이 말했어요. “이 아이들은 훌륭한 음악가가 될 거야.”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5908",
+      "srcText": "얼룩 부인은 도레미 트리오에게 각각 음악 선생님을 찾아 주었어요. 도도의 피아노 선생님은 말했어요. 정말 피아노를 잘 치는구나.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5918",
+      "srcText": "몇 달 후, 도레미 트리오는 랄랄라 교향악단과 함께 연주를 했어요. 얼룩 부인은 너무나 행복했어요. 도레미 트리오를 가장 사랑하는 엄마이자 후원자였으니까요.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5909",
+      "srcText": "넌 세계적인 피아니스트가 될 거야! 레레의 바이올린 선생님은 말했어요. “열심히 연습하면 멋진 바이올리니스트가 되겠어.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5912",
+      "srcText": "얼룩 부인이 말했어요. “선생님, 우리 아이들의 연주를 한 번만 들어 주세요.” “좋아요. 얘들아, 이 악보를 연주해 보겠니?”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5914",
+      "srcText": "도레미 트리오는 입을 모아 대답했어요. “네!” 도레미 트리오는 연주를 시작했어요. 도도의 피아노 연주는 하늘에서 떨어지는 빗방울처럼 맑고 경쾌했어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5913",
+      "srcText": "“코끼리 지휘자님이라면 잘 가르쳐 주실 거예요.” 얼룩 부인과 도레미 트리오는 랄랄라 교향악단을 찾아 큰 도시로 떠났어요. 도레미 트리오는 드디어 코끼리 지휘자를 만났어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5911",
+      "srcText": "음악 선생님들은 얼룩 부인에게 말했어요. “아이들에게 더 훌륭한 선생님이 필요해요.” “랄랄라 교향악단으로 가 보세요.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5916",
+      "srcText": "“아주 멋진 음악을 만들어 내는군요. 하지만 음악 공부도 더 하고, 연습도 더 해야 해요. 우리 랄랄라 음악 학교에서 공부하는 게 좋겠어요.”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5917",
+      "srcText": "“음악가에게 가장 중요한 것은 뭘까?” 코끼리 지휘자가 도레미 트리오에게 물었어요. “뛰어난 재능이요!” “끊임없는 연습이요!” “훌륭한 악기요!” “그래. 모두 맞다. 하지만 가장 중요한 것은 음악을 사랑하는 마음이란다.”",
+      "srcPage": 14,
+      "srcSentenceEA": 7,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "5910",
+      "srcText": "미미의 첼로 선생님도 말했어요. “첼로를 가장 아름답게 연주하는 음악가가 될 거야.” 도레미 트리오의 연주는 점점 더 아름다워졌어요.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5915",
+      "srcText": "레레의 바이올린 연주는 숲속에서 들려오는 새소리처럼 사랑스러웠고요. 미미의 첼로 연주는 호수를 헤엄치는 백조처럼 곱고 우아했지요. 코끼리 지휘자는 가만히 고개를 끄덕였어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "146947",
+      "srcText": "지휘자는 커다란 배의 선장과 같아요. 같은 곡이라도 지휘자가 곡을 어떻게 해석하느냐에 따라 그 느낌이 달라져요. 연주의 빠르기나 강약에 따라 다른 곡이 되지요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    }
+  ]
+}

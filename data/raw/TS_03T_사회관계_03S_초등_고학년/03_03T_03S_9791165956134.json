@@ -1,0 +1,209 @@
+{
+  "title": "육룡과 함께 날아요",
+  "author": "백미숙",
+  "illustrator": "한동훈",
+  "isbn": "9791165956134",
+  "readAge": "초등_고학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 28,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5204",
+      "srcText": "바라던 것을 다 이루고 나니 아버지가 떠올랐어. 아버지를 모셔 오려고 신하들을 보냈지. 그러나 한번 가면 아무도 돌아오지 못했어.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5202",
+      "srcText": "“어허, 또 함흥차사가 되었구나!” 이번엔 아버지를 꼭 모셔 와야 하는데, 느낌이 안 좋아. 왠지 한양에 다시 돌아가지 못할 것 같아.  감히 또 차사를 보내? 내가 얼마나 무서운 사람인지 보여 주겠어.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 35
+    },
+    {
+      "srcTextID": "5208",
+      "srcText": "난 무슨 일이든 내가 맨 먼저 알아야 한다고 생각했어. 무엇이든 내 뜻대로 결정했지. 그러자 신하들의 힘이 저절로 약해졌어.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5207",
+      "srcText": "‘너무 내 멋대로만 하고 있나?’ 왠지 불안한 마음이 들어서 바른말을 하는 신하들을 곁에 두었어. “전하, 사냥은 그만 하시옵소서!”",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5195",
+      "srcText": "눈치채지 못하게 재빨리 움직여야 한다! 네, 걱정 마십시오. 불이야, 불! 이게 웬 날벼락이야?",
+      "srcPage": 3,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5196",
+      "srcText": "둘째 방과 왕자가 왕이 되었대. 왜 방원 왕자가 왕이 안 됐을까? 욕먹을까 봐 형을 억지로 앉힌 거 아냐?",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5205",
+      "srcText": "‘나라를 굳건하게 세워야 해. 그러려면 왕의 힘이 강해야 하지.’ 난 골똘히 생각했어.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5194",
+      "srcText": "난 조선의 세 번째 왕 태종 이방원이야. 조선을 세운 태조 이성계의 아들이지. “나를 따르라! 가서 싸우자!” 난 아버지가 왕이 될 수 있도록 형제들과 함께 목숨을 걸고 도왔어.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5193",
+      "srcText": "그런데 아버지와 정도전은 그걸 까맣게 잊었나 봐. “막내 방석을 세자로 삼겠다!\" 우리는 어쩌란 말인가. 내가 세운 공을 무시하는 거야?",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5197",
+      "srcText": "안 그러면 제가 죽었을 겁니다. 방번아! 방석아! 가기 싫어요, 아바마마! 동생들을 살려 둘 순 없지.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5199",
+      "srcText": "조용히 가서 죽여라.  예, 알겠습니다! 방원 왕자님이 왕이 되셔야죠. 아니오! 사양하겠소. ",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5201",
+      "srcText": "둘째 방과 형이 아버지 태조의 뒤를 이어 왕이 되었어. 그러나 왕은 이름뿐이고 모든 힘은 내가 쥐고 있었지. 난 형 대신 왕 노릇을 한 거야.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "5200",
+      "srcText": "“쳇, 난 이게 뭐람. 나도 왕이 되고 싶다!” 어느 날 넷째 형 방간이 싸움을 걸어 왔어. 난 군사를 이끌고 가서 단숨에 물리쳤지.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "5210",
+      "srcText": " “왕보다 왕비의 힘이 셀 수는 없소.” 난 왕비의 남동생들을 잡아다 죽였단다. 나를 넘어서려는 자는 절대 용서할 수 없었지.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5213",
+      "srcText": "나라에는 질서가 있어야 해. “누가 세금을 안 냈는지도 모른다고?” 그래서 난 호패법을 만들었어.",
+      "srcPage": 21,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "5214",
+      "srcText": "열여섯 살이 넘은 남자들은 이름과 나이, 직업 등을 적은 호패를 차고 다니게 한 거야. 그러면 세금도 걷기 쉽고, 군대에 빠지는 사람도 없을 테니까. 호패법. 호패는 그 사람의 이름, 직업, 계급 등이 적혀 있는 나뭇조각이에요.",
+      "srcPage": 22,
+      "srcSentenceEA": 4,
+      "srcWordEA": 37
+    },
+    {
+      "srcTextID": "5216",
+      "srcText": "내게는 아들이 여럿 있었지만 그중에서 셋째 충녕이 가장 똑똑했어. “맏아들은 아니지만 충녕에게 왕위를 물려주겠다.” 충녕이 바로 세종 대왕이야.",
+      "srcPage": 26,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "5218",
+      "srcText": "평생 신나게 놀면서 살 거야. 난 조선을 강한 나라로 만들고 싶어. 그래야 백성들이 잘살 수 있을 테니까. 나 효령은 나라를 다스리는 일보다 부처님을 따르는 게 더 좋아.",
+      "srcPage": 28,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5203",
+      "srcText": "드디어 왕이 된 난 경복궁 옆에 궁궐을 지었어. 바로 창덕궁이야. 이곳에서 새로운 마음으로 시작하고 싶었지. ‘아버지는 함흥에서 잘 지내실까?’",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5206",
+      "srcText": "“왕자들과 지위가 높은 신하들은 군사를 모두 내놓아라!” 그때까지만 해도 왕자나 지위 높은 신하들은 자기 군사를 가질 수 있었거든. 난 먼저 그것부터 막기로 했지. 오직 왕만 군사를 가질 수 있게 되자 다시는 형제끼리 싸우는 일도 없어졌어.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 38
+    },
+    {
+      "srcTextID": "5209",
+      "srcText": "왜 사냥을 하지 못하게 하는 것이냐? 백성들이 불편을 겪고 있습니다. 아직 여물지도 않은 벼를 베라니! 임금님께서 사냥하러 오신대. 짐승 잡는다고 멀쩡한 수풀을 다 깎으라고? ",
+      "srcPage": 17,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "5217",
+      "srcText": "세종은 기대만큼 나라를 잘 다스렸지. 난 용이 하늘로 날아오르듯 마음 편히 세상을 떠날 수 있었단다. 나 양녕은 공부 따윈 정말 싫어!",
+      "srcPage": 27,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5211",
+      "srcText": "“그만 좀 이래라저래라 하시오!” 왕비 원경 왕후는 잔소리가 너무 심했어. 왕이 될 때 많이 도와주어 고맙지만, 도저히 참을 수 없었지.",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5212",
+      "srcText": "정말 무서운 분이시군. 정말 억울합니다. 내 앞길을 막는 자는 용서할 수 없다! 내 귀한 동생들을 죽이려 하시다니, 절대 용서할 수 없어!",
+      "srcPage": 20,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "11006",
+      "srcText": "태종은 나라의 기틀을 다지기 위해 무엇을 만들었을까? 신문고. 억울한 일을 당한 백성이 왕에게 하소연하기 위해 치는 북이에요. 저화. 닥나무 껍질로 만든 종이돈이에요. 돈을 찍을 수 있는 곳이 드물고 종이 질이 안 좋아 금방 없어졌어요. ",
+      "srcPage": 23,
+      "srcSentenceEA": 6,
+      "srcWordEA": 39
+    },
+    {
+      "srcTextID": "11007",
+      "srcText": "호패는 내가 누구인지 나타내는 물건이에요. 16세가 넘은 남자는 누구나 호패를 차고 다녔어요. 계미자. 조선에서 제일 처음으로 만들어진 구리로 찍어 낸 글자예요.",
+      "srcPage": 24,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5215",
+      "srcText": "“나 혼자 나라 곳곳을 살피려니 힘들구나.” 난 조선을 8개의 도로 나눠 그곳에 나 대신 일할 사람들을 보냈어. 그리고 각 고을 수령들이 할 일을 제대로 하고 있는지 잘 살펴보라고 했지. 백성들을 괴롭히는 못된 수령이 있으면 혼쭐내 주라고 말이야.",
+      "srcPage": 25,
+      "srcSentenceEA": 4,
+      "srcWordEA": 40
+    },
+    {
+      "srcTextID": "5198",
+      "srcText": "윽, 아직 할 일이 많은데. 그러게 왜 내 군사를 빼앗으려고 했습니까? 감히 내가 아끼는 정도전을 죽이다니!",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    }
+  ]
+}

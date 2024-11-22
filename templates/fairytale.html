@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/static/main.css"/>
+    <title></title>
+</head>
+<body>
+<div class="relative flex h-full w-full overflow-hidden transition-colors">
+    <div class="flex h-full bg-surface overflow-x-hidden"
+         style="width: 400px; visibility: visible; will-change: auto; height: 100vh;" id="sidebar">
+        <div class="h-full w-[400px]">
+            <div class="flex h-full min-h-0 flex-col">
+                <nav class="flex w-full h-full flex-col px-3">
+                    <div class="flex justify-between item-center h-[60px] header-height">
+                                <span class="flex">
+                                    <button aria-label="사이드바 닫기" id="close-sidebar-button"
+                                            class="h-10 rounded-ic px-2 hover" onclick="sidebar_onclick()"><div
+                                            id="close"
+                                            style="font-size:16px; width: 24px; display: block;">☰</div></button>
+                                </span>
+                    </div>
+                    <div class="flex item-center flex-col h-full">
+
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <a class="flex h-full max-w-full overflow-x-hidden flex-1 nanum-pen-script-regular flex-col" style="height: 100vh">
+        <nav class="flex w-full px-3">
+            <div class="flex item-center h-[60px] header-height">
+                            <span class="flex">
+                                <button aria-label="사이드바 열기" id="open-sidebar-button" class="h-10 rounded-ic px-2 hover"
+                                        style="visibility: hidden; display: none;" onclick="sidebar_onclick()"><div
+                                        id="open" style="font-size: 16px; width: 24px; display: block;">☰</div></button>
+                            </span>
+                <p class="px-3" style="font-size: 42px;"> 동화 생성기 </p>
+            </div>
+        </nav>
+        <div class="flex-row flex item-center h-full min-h-0 px-20 py-3" id="story_container">
+            <div class="flex-1 flex-col flex w-full h-full px-2 py-2" style="border: solid black">
+                <div class="w-full h-full" id="story-box_left"></div>
+                <div class="flex-row h-10 px-2">
+                    <textarea class="h-full w-4 bg-transparent resize-none button-size"
+                              id="left_page_number"></textarea>
+                    <button class="icon-button" id="prev-btn">
+                        <img src="./static/icon/left-arrow.png"/>
+                    </button>
+                    <button class="icon-button" id="left-tts">
+                        <img src="./static/icon/tts.png"/>
+                    </button>
+                </div>
+            </div>
+            <div class="w-10 h-full"></div>
+            <div class="flex-1 flex-col flex w-full h-full px-2 py-2" style="border: solid black">
+                <div class="w-full h-full" id="story-box_right"></div>
+                <div class="flex-row h-10 px-2 text-right">
+                    <button class="icon-button" id="right-tts">
+                        <img src="./static/icon/tts.png"/>
+                    </button>
+                    <button class="icon-button" id="next-btn">
+                        <img src="./static/icon/right-arrow.png"/>
+                    </button>
+                    <textarea class="h-full w-4 bg-transparent resize-none button-size"
+                              id="right_page_number"></textarea>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="m-auto px-3 w-full">
+                <div class="mx-auto flex flex-1 text-bar-surface rounded-[26px] max-w-[48rem] min-h-10 w-full pt-0 px-3 item-end"
+                     id="question_bar">
+                    <div class="py-1">
+                        <button id="ageselect" class="h-10 rounded-ic px-3 hover" onmouseover="showMenu()">A</button>
+                    </div>
+                    <div id="floatingMenu" class="floating-menu" onmouseenter="keepMenu()" onmouseleave="hideMenu()">
+                        <form>
+                            <label><input type="radio" name="option" value="유아"> 유아</label>
+                            <label><input type="radio" name="option" value="초등_저학년"> 초등 저학년</label>
+                        </form>
+                    </div>
+                    <div class="relative w-full px-3">
+                        <label><textarea class="block h-12 w-full px-0 py-2 border-0 bg-transparent resize-none"
+                                         autofocus placeholder="동화 키워드를 입력해주세요" style="outline: none;"
+                                         oninput="autosize()" id="keyword-area"></textarea></label>
+                    </div>
+                    <div class="py-1">
+                        <button aria-label="동화 생성" id="gen-story" class="h-10 rounded-ic px-3 hover"
+                                onclick="start_onclick()"> &crarr;
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="relative w-full px-2 py-2 text-center text-xs">
+                <div class="min-h-4">
+                    <div>동의대학교 생성형AI 5팀 정성윤, 전규민</div>
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.0/socket.io.min.js"></script>
+<script>
+    const socket = io.connect('http://localhost:5000');
+
+    let storyParts = []; // 전체 동화의 문장 그룹
+    let currentIndex = 0; // 현재 표시 중인 첫 번째 문장 그룹의 인덱스
+
+    socket.on("gen_run_done", (message) => {
+        console.log("동화 생성 준비 완료:", message);
+    });
+
+    socket.on('start_story', function (data) {
+        const leftStoryBox = document.getElementById('story-box_left');
+        const rightStoryBox = document.getElementById('story-box_right');
+        leftStoryBox.innerHTML = '';
+        rightStoryBox.innerHTML = '';
+
+        // 동화 문장 그룹 저장
+        storyParts = data.stories;
+        currentIndex = 0; // 초기화
+
+        // 첫 번째 두 그룹을 표시
+        displayStory();
+    })
+
+    socket.on('story_error', function (errorMessage) {
+        const storybox = document.getElementById('story-box_left');
+        const errorParagraph = document.createElement('p');
+        errorParagraph.style.color = 'red';
+        errorParagraph.textContent = errorMessage;
+        storybox.appendChild(errorParagraph);
+    });
+
+    function displayStory() {
+        const leftStoryBox = document.getElementById('story-box_left');
+        const rightStoryBox = document.getElementById('story-box_right');
+
+        // 좌측 박스에 현재 문장 표시
+        leftStoryBox.innerHTML = storyParts[currentIndex] || '';
+
+        // 우측 박스에 다음 문장 표시
+        rightStoryBox.innerHTML = storyParts[currentIndex + 1] || '';
+    }
+
+    function displayPageNumber() {
+        const leftPageNumber = document.getElementById('left_page_number');
+        const rightPageNumber = document.getElementById('right_page_number');
+
+        leftPageNumber.innerHTML = currentIndex + 1;
+        rightPageNumber.innerHTML = currentIndex + 2;
+    }
+
+    document.getElementById('prev-btn').addEventListener('click', () => {
+        if (currentIndex > 0) {
+            currentIndex -= 2;
+            displayStory();
+            displayPageNumber();
+        } else {
+            alert('첫 페이지입니다.');
+        }
+    });
+
+    // 다음 버튼 동작
+    document.getElementById('next-btn').addEventListener('click', () => {
+        if (currentIndex + 2 < storyParts.length) {
+            currentIndex += 2;
+            displayStory();
+            displayPageNumber();
+        } else {
+            alert('마지막 페이지입니다.');
+        }
+    });
+
+    function start_onclick() {
+        const keywordsTextarea = document.querySelector('#keyword-area');
+        const keywords = keywordsTextarea.value;
+        // 'readage' 값을 선택된 값으로 가져옵니다. 예를 들어, 'readage'는 radio button이나 dropdown에서 선택된 값일 수 있습니다.
+        const readage = document.querySelector('input[name="option"]:checked')?.value;  // radio 버튼에서 선택된 값 가져오기
+        if (!readage) {
+            alert('연령을 입력해주세요.');
+            return;
+        }
+        socket.emit('start_story', {keywords: keywords, readage: readage});
+        keywordsTextarea.value = '';
+    }
+
+    function showMenu() {
+        const menu = document.getElementById("floatingMenu");
+        const button = document.getElementById("ageselect");
+        if (menu.style.display === "none" || menu.style.display === "") {
+            // 버튼 위치를 기준으로 메뉴 위치 설정
+            const rect = button.getBoundingClientRect();
+            menu.style.top = `${rect.top - menu.offsetHeight - 100}px`; // 버튼 바로 위
+            menu.style.left = `${rect.left}px`;
+            menu.style.display = "block";
+        } else {
+            menu.style.display = "none";
+        }
+    }
+
+    function titledisplay() {
+        const leftPageNumber = document.getElementById('left_page_number');
+        const leftstorybox = document.getElementById('story-box_left');
+
+        if (leftPageNumber.value = 1){
+            leftstorybox.style.textAlign = 'center';
+            leftstorybox.style.fontWeight = 'bold';
+            leftstorybox.style.alignItems = 'center';
+        }
+        else
+            leftstorybox.style.textAlign = 'start';
+            leftstorybox.style.fontWeight = 'normal';
+            leftstorybox.style.alignItems = 'normal';
+    }
+
+    function keepMenu() {
+        const menu = document.getElementById("floatingMenu");
+        menu.style.display = 'block';
+    }
+
+    function hideMenu() {
+        const menu = document.getElementById("floatingMenu");
+        menu.style.display = "none";
+    }
+
+    autosize(document.querySelectorAll('.block.h-12.w-full.px-0.py-2.border-0.bg-transparent.resize-none'));
+
+    function sidebar_onclick() {
+        const sidebar = document.getElementById("sidebar");
+        const button_open = document.getElementById("open-sidebar-button");
+        const button_close = document.getElementById("close-sidebar-button");
+        const isCollapsed = sidebar.style.width === '0px';
+
+        button_open.disabled = true;
+        button_close.disabled = true;
+
+        setTimeout(() => {
+            button_open.disabled = false;
+            button_close.disabled = false;
+        }, 500);
+
+        sidebar.style.width = isCollapsed ? '400px' : '0';
+
+        if (!isCollapsed) {
+            button_open.style.visibility = 'visible';
+            button_open.style.display = 'block';
+            setTimeout(() => {
+                sidebar.style.visibility = 'hidden';
+            }, 500);
+        } else {
+            sidebar.style.visibility = 'visible';
+            button_open.style.visibility = 'hidden';
+            button_open.style.display = 'none';
+        }
+    }
+</script>
+</body>
+</html>

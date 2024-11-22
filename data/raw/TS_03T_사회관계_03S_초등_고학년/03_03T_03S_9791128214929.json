@@ -1,0 +1,125 @@
+{
+  "title": "달라요 달라",
+  "author": "주미화",
+  "illustrator": "김유대",
+  "isbn": "9791128214929",
+  "readAge": "초등_고학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3139",
+      "srcText": "“우아, 세뱃돈이 두둑한걸. 얼마나 되나? 천 원, 이천 원, 삼천 원, 사천 원.” 돈을 모아 쥐고 한 장씩 넘기면서 세는 모습이 멋있지.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "3140",
+      "srcText": "그런데 카자흐스탄에서는 달라. 돈을 한 장씩 내려놓으면서 센다고! 하나, 둘, 셋, 넷.",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "3141",
+      "srcText": " 온통 줄이 쫙쫙 그어졌네. 다 틀린 것 같은데? 아니라고? 아, 맞았다는 뜻으로 줄을 쫙쫙 그은 거구나.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "3129",
+      "srcText": "나라마다 개 짖는 소리를 흉내 내는 말이 달라. 나라마다 다른 건 이것뿐만이 아니야. 또 뭐가 다른지 한번 알아볼까?",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "3132",
+      "srcText": "과일 껍질을 깎을 때 밖에서 안으로 돌려 깎잖아. 하지만 베트남에서는 달라. 안에서 밖으로 돌려 깎아야 손을 다치지 않는다고 생각해.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "3135",
+      "srcText": "화장실 변기에 앉아서 재잘재잘 떠들기도 해! 어떻게 그럴 수 있냐고? 문이 없는 화장실도 많거든.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "3130",
+      "srcText": "맛있는 고깃국! 숟가락으로 국물이랑 고기랑 한꺼번에 듬뿍 떠서 먹으면 얼마나 맛있는지 몰라! 그런데 일본에서는 달라. 건더기는 젓가락으로 건져서 따로 먹고, 국물은 그릇째 들고 마셔. 숟가락을 쓰지 않지.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "3143",
+      "srcText": "산타 할아버지가 선물을 나눠 주느라 땀을 뻘뻘 흘려. 왜냐하면 크리스마스가 더운 여름에 있거든. “시원한 수영장에서 쉬었다 가세요.” 얘들아, 뭐라고?",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "3133",
+      "srcText": "콜라를 마시고 ‘끄억’, ‘꺽!’ 하고 트림하면 다른 사람들이 눈살을 찌푸리지. 트림할 때는 소리가 나지 않게 조심해야 해. 그런데 인도에서는 달라. 여기서 ‘끄윽!’, 저기서 ‘꺽!’ 해도 아무도 신경 쓰지 않아.",
+      "srcPage": 5,
+      "srcSentenceEA": 8,
+      "srcWordEA": 36
+    },
+    {
+      "srcTextID": "3138",
+      "srcText": "할아버지가 용돈을 주시면, 두 손으로 공손히 받아. 하지만 필리핀에서는 달라. 할아버지가 용돈을 주시면, 오른손만 내밀어서 돈을 받아. 화장실에서 쓰는 왼손을 내미는 건 예의에 어긋나거든.",
+      "srcPage": 10,
+      "srcSentenceEA": 4,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "3142",
+      "srcText": "“우아, 동그라미가 10개다! 다 맞았어.” 잘했다고 엄마가 등을 토닥토닥 두드려 줘. 기분이 좋은걸. 그런데 타이에서는 달라.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "3144",
+      "srcText": "산타 할아버지가 추운 겨울에 선물을 나눠 주느라 얼굴도 손도 꽁꽁 얼었어. “따뜻한 이불 속에서 쉬었다 가세요.” 하지만 남아프리카 공화국에서는 달라.",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "3131",
+      "srcText": "맛있는 간식을 잔뜩 먹어서 배부르면, 친구가 “이거 더 먹어!” 해도 싫다고 말하고 먹지 않지. 그런데 마다가스카르에서는 달라. 친구가 “이거 더 먹어!” 하면 아무리 배불러도 웃으면서 먹는대.",
+      "srcPage": 3,
+      "srcSentenceEA": 7,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "3134",
+      "srcText": "“아이고, 배야! 급하다, 급해!” 아무리 급해도 화장실 문을 닫고 볼일을 보잖아. 그러지 않으면 창피해. 그런데 중국에서는 달라.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "3136",
+      "srcText": "“자, 주사 맞아야지.” “으악! 싫어, 싫어!” 세상에 주사 맞는 걸 좋아하는 아이는 없어. 주사를 맞으면서도 싫다고 머리를 절레절레 흔들잖아. ",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "3137",
+      "srcText": "그런데 그리스에서는 달라. 주사를 맞을 때 고개를 끄덕끄덕해. 설마, 주사 맞는 게 좋다는 거야? 아, 끄덕끄덕하면 싫다는 뜻이라고? 그럼 그렇지!",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    }
+  ]
+}

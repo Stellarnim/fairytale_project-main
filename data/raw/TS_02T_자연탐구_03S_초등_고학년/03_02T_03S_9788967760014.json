@@ -1,0 +1,132 @@
+{
+  "title": "뭐든지 가게",
+  "author": "조은주",
+  "illustrator": "홍우리",
+  "isbn": "9788967760014",
+  "readAge": "초등_고학년",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3868",
+      "srcText": "\"어제저녁에 주문한 물건들이구나!” 퐁이 언니는 노란 앞치마를 꺼내 입고서 물건들이 제대로 왔는지 살폈어요. 첫 번째 상자는 기린 아줌마가 부탁한 점박이 무늬 목도리.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "3874",
+      "srcText": "“네, 포실포실 귀마개가 여기 있어요.” 두 번째 손님은 멋쟁이 타조 언니예요. “예쁜 내 발에 어울릴 양말을 찾고 있어요.”",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "3865",
+      "srcText": "“새들아, 안녕! 다들 잘 잤니?” 오늘도 생글생글 퐁이 언니는 아침 일찍 집을 나섰어요. 퐁이 언니가 일하는 ‘뭐든지 가게’는 동네에서 가장 먼저 문을 열거든요.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "3866",
+      "srcText": "뭐든지 가게는 없는 게 없어요. 뭐든지 다 있는 신기한 가게예요. 딸깍! 가게 문을 열자 문 앞에 크고 작은 상자들이 놓여 있어요. ",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "3876",
+      "srcText": "달콤한 꿀단지가 세 개나 있는걸요. “퐁이 언니, 어제 부탁한 목도리를 찾으러 왔어요.” 기린 아줌마, 어서 오세요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "3879",
+      "srcText": "목도리는 여기 있어요. “저녁 모임에 쓰고 갈 모자가 필요해요.” 멋지게 차려입은 학 부인이 왔어요. ",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "3882",
+      "srcText": "“할머니, 따뜻한 차 한 잔 드시고 가세요. 마스크가 안 맞으면 언제라도 바꾸러 오시고요.” “에구구, 고마워요. 콜록콜록.” 그런데 아까부터 꼬마 원숭이가 두리번두리번. “푸푸 있어요?” “푸푸라고?” “푸푸 하면 커다란 방울들이 나오는 거요.” “아! 비눗방울 놀이를 말하는 거니?” “맞아요. 바로 그거예요!”",
+      "srcPage": 15,
+      "srcSentenceEA": 9,
+      "srcWordEA": 43
+    },
+    {
+      "srcTextID": "3872",
+      "srcText": "퐁이 언니는 돈과 영수증도 챙겼어요. “모든 준비 끝!” 퐁이 언니는 가게 문을 활짝 열었어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "3867",
+      "srcText": "두 번째 상자는 몽글몽글 너구리 아저씨의 호호 파이프. 그리고 마지막 상자는 개구쟁이 다람쥐들이 기다리는 도토리 구슬이지요. 퐁이 언니는 물건들을 제자리에 예쁘게 정리해 두었어요. ",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "3871",
+      "srcText": "“안녕, 퐁이 언니!” 깡충깡충 토끼 아줌마가 첫 번째 손님이네요. “우리 아기에게 따뜻한 귀마개가 필요해요.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "3875",
+      "srcText": "“이 흰 양말이 잘 어울릴 것 같아요.” 타조 언니는 방긋 웃었어요. 우당탕탕! 개구쟁이 다람쥐들도 왔어요. ",
+      "srcPage": 8,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "3877",
+      "srcText": "땡땡땡! 어느새 점심시간이에요. 그런데 손님들이 끊이질 않네요. “빵에 바를 달콤한 꿀이 필요해요.” 걱정하지 마세요, 곰돌이 아줌마. ",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "3878",
+      "srcText": "“파란색은 마음에 안 들어. 이것도 별로인걸.” 어느새 탁자 위에는 모자들로 수북수북. 하지만 퐁이 언니는 생글생글 웃으며 열심히 모자를 골라 주었지요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "3881",
+      "srcText": "“퐁이 누나, 친구 생일 선물은 뭐가 좋을까요?” 꼬마 친구 오소리가 왔어요. “여자 친구라면 이 빨간 리본 핀이 어떨까?”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "3880",
+      "srcText": "“네, 잘 어울릴 것 같아요!” 퐁이 언니는 예쁘게 포장도 해 주었어요. 잠시 후, 콜록콜록! 악어 할머니가 기침이 심한가 봐요.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "3884",
+      "srcText": "오늘도 퐁이 언니는 눈코 뜰 새 없이 바빴어요. “다들 찾는 물건이 있어서 참 다행이야.” 어? 밖에서 무슨 소리가 들리는 것 같아요. ",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "3883",
+      "srcText": "“오세요! 뭐든지 가게는 없는 게 없어요. 정말 신기한 가게예요. 푸푸, 푸푸!” 퐁이 언니의 입가에 살며시 미소가 번졌지요.",
+      "srcPage": 17,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    }
+  ]
+}

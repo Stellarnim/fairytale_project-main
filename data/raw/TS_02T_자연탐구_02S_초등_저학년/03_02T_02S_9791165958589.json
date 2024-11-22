@@ -1,0 +1,125 @@
+{
+  "title": "엄마, 지금 몇 시예요?",
+  "author": "김지윤",
+  "illustrator": "박정인",
+  "isbn": "9791165958589",
+  "readAge": "초등_저학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "21352",
+      "srcText": "다음 날 아침, 나는 눈을 뜨자마자 벌떡 일어났어요. “엄마! 내 동생 맘마는요?” “호호호, 6시에 먹었단다. 이제 9시에 먹으면 돼!”",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "21351",
+      "srcText": "“동생이 맘마 먹는 걸 보고 싶었는데. 엄마, 9시가 되면 내가 꼭 알려 줄게요!” 내가 씩씩하게 말하자, 엄마는 활짝 웃었어요. “우리 후니는 정말 멋진 형이네!”",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "23187",
+      "srcText": "작은 입을 오물오물, 작은 몸을 꼼지락꼼지락. 봐도 봐도 신기했어요. “엄마, 동생은 언제 커요?” “잘 먹고 잘 자면, 쑥쑥 클 거야.”",
+      "srcPage": 2,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "21321",
+      "srcText": "그런데 잠시 후, 동생이 큰 소리로 울기 시작했어요. “응애, 응애, 으앙!” 나는 깜짝 놀랐지요. ",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "21325",
+      "srcText": "“엄마, 어떡해요? 동생이 울어요! 배고픈 거 아닐까요?” “맘마 먹은 지 얼마 안 됐는데. 아, 오줌을 눴네.” ",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "21327",
+      "srcText": "“동생이 배고파서 우는 줄 알았어요.” “3시에 맘마 먹었으니, 1시간밖에 안 지났어.” “1시간? 엄마, 1시간이 뭐예요?” ",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "21344",
+      "srcText": "6시! 동생이 맘마를 먹는 동안 쓱쓱 싹싹 그림을 그렸어요. 7시! 냠냠 쩝쩝 맛있게 저녁을 먹었지요. 8시! 뽀득뽀득 세수하고 치카치카 양치한 뒤. 두근두근, 9시가 되기를 기다렸어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 6,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "21328",
+      "srcText": "“우리 후니가 시간이 궁금하구나. 여기 짧은바늘과 긴바늘이 있지? 긴바늘이 1바퀴 돌면 1시간이야.” ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "21331",
+      "srcText": "“그럼 동생은 언제 또 맘마 먹어요?” “3시에 먹었으니, 6시에 먹으면 되겠다. 3시간 후에 먹거든.” ",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "21332",
+      "srcText": "나는 고개를 갸웃갸웃! “그럼 6시는 언젠데요?” “짧은바늘이 6, 긴바늘이 12에 오면 6시란다.” ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 12
+    },
+    {
+      "srcTextID": "21338",
+      "srcText": "째깍, 째깍, 째깍! 앗, 드디어 짧은바늘이 6, 긴바늘이 12에 왔어요. 나는 엄마에게 쏜살같이 달려갔어요. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "21340",
+      "srcText": "“엄마, 다음에는 또 언제 먹어요?” “3시간 후니까 9시에 먹지. 짧은바늘이 9, 긴바늘이 12에 오면 9시야. 후니가 저녁 먹고, 씻은 다음 잠자리에 들 때쯤 동생은 맘마를 먹겠네!” “엄마! 내가 안 자고 꼭 알려 줄게요!” ",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 36
+    },
+    {
+      "srcTextID": "21347",
+      "srcText": "두근두근, 9시가 되기를 기다렸어요. 짧은바늘이 9를 가리킬 때쯤 나는 까무룩 잠이 들었어요. 그래서 동생이 맘마 먹는 걸 보지 못했지요. ",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "21333",
+      "srcText": "나는 동생이 배고플까 봐 시계만 쳐다보았어요. 그림책을 보다가 똑딱똑딱 시계 보고, 그림을 그리다가 째깍째짝 시계 보고. 6시가 되기를 기다리고, 또 기다렸지요. ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "21337",
+      "srcText": "“엄마, 엄마 6시예요!” “호호! 형 덕분에 동생이 배고프지 않겠네. 고마워!” 엄마의 칭찬을 들으니 기분이 좋아졌어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "23186",
+      "srcText": "“야호! 이제 나는 형이야!” 오늘은 내 동생을 처음 만나는 날이에요. 드디어 엄마, 아빠가 동생을 안고 집에 왔어요. “우아! 정말 쪼그맣네!”",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 24
+    }
+  ]
+}

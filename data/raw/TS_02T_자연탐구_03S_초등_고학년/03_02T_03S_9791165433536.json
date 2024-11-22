@@ -1,0 +1,153 @@
+{
+  "title": "의사 선생님이 될래요",
+  "author": "최수복",
+  "illustrator": "황미선",
+  "isbn": "9791165433536",
+  "readAge": "초등_고학년",
+  "publishedYear": 2021,
+  "publisher": "아람키즈",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 20,
+  "paragraphInfo": [
+    {
+      "srcTextID": "26393",
+      "srcText": "다른 환자들이 엘리를 붙잡고 사정했어요. “엉엉! 이가 아파.” “나는 이가 몽땅 빠져 버렸다고, 흑흑!” 엘리는 다시 지구별로 날아갔어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "26397",
+      "srcText": "다른 환자들이 엘리에게 도와 달라고 외쳤어요. “애고, 목이 아파서 침도 삼킬 수 없어.” “나는 콧물이 계속 나와. 훌쩍!”",
+      "srcPage": 15,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "18739",
+      "srcText": "폴라리스 별에는 의사 선생님이 없어서 외계인들이 힘들어한다는 거였어요. 엘리네 아빠는 나무에서 떨어져 허리를 다쳤어요. 엄마는 이가 아파서 아무것도 먹지 못했어요. ",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18740",
+      "srcText": "동생은 콜록콜록 기침을 하고, 열도 났어요. 오직 엘리만 건강했지요. 엘리는 폴라리스 별을 구하기 위해 지구별로 날아갔어요.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "18738",
+      "srcText": "여기는 폴라리스 별. 폴라리스 별의 외계인들은 모두 행복하게 살고 있었어요. 그런데 한 가지 큰 걱정거리가 있었지요.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "18742",
+      "srcText": "의사 선생님은 서둘러 엘리를 따라나섰어요. 환자들이 우르르 의사 선생님에게 몰려왔어요. 하지만 엘리의 동생처럼 어린아이와 청소년 환자들을 더 잘 치료할 수 있대요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "121936",
+      "srcText": "환자들이 우르르 의사 선생님에게 달려왔어요. 하지만 엘리의 아빠처럼 허리를 다쳤거나, 뼈가 부러진 환자들만 치료할 수 있대요. 외과 의사 선생님이었거든요.",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "121935",
+      "srcText": "“콜록콜록, 기침을 하고 열이 나요.” “감기에 걸렸군요. 약을 지어 줄게요. 씩씩하게 주사도 잘 맞을 수 있죠?” “이제 안 아파요. 다 나았어요!”",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "26390",
+      "srcText": "엘리는 다시 지구별로 날아갔어요. 그리고 다른 의사 선생님을 찾아가 부탁했지요. “그래, 좋아. 빨리 가 보자.” ",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "26395",
+      "srcText": "모두 이비인후과 의사 선생님을 기다렸거든요. 의사 선생님은 환자들을 정성껏 치료해 주었지요. “아야, 아야! 이가 아파요.” “썩은 이를 치료해야 해요.” “이제 잘 먹을 수 있어요!”",
+      "srcPage": 14,
+      "srcSentenceEA": 6,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "26396",
+      "srcText": " 엘리는 몹시 지쳤지만, 다시 지구별로 날아갔어요. 또 다른 의사 선생님을 찾아가 부탁했지요. “그렇다면 어서 가 봐야지. 서두르자.” 의사 선생님은 엘리를 따라나섰어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "26399",
+      "srcText": "폴라리스 별은 더 살기 좋게 변했어요. 아픈 외계인들을 위해 종합 병원이 생겼거든요. 여러 의사 선생님이 있는 폴라리스 별은 가장 행복한 별나라가 되었어요.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "26398",
+      "srcText": "“목이 아파서 말이 안 나와요.” “목이 많이 부었네요.” “이제 노래도 잘 부를 수 있어요! 랄랄라.”",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "26394",
+      "srcText": "그리고 또 다른 의사 선생님을 찾아가 부탁했지요. “어서 가자. 환자들을 치료해야지.” 의사 선생님은 엘리를 따라나섰어요. 남은 환자들이 의사 선생님을 반겼어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "26400",
+      "srcText": "폴라리스 별의 외계인들은 다시 건강해졌어요. 엘리네 가족의 병도 깨끗이 나았지요. 폴라리스 별의 외계인들은 기뻤어요.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "26401",
+      "srcText": "그런데 이번에는 엘리가 시름시름 아팠어요. 폴라리스 별을 구하느라 너무 힘들었나 봐요. 하지만 걱정하지 않아도 되었어요. 훌륭한 의사 선생님들이 지구 별로 돌아가지 않고 엘리를 보살펴 주었거든요.",
+      "srcPage": 20,
+      "srcSentenceEA": 4,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "26389",
+      "srcText": "다른 환자들이 엘리에게 투덜댔어요. “애고고, 허리를 다쳐서 꼼짝도 못 하겠어.” “엉엉, 나는 코뼈가 부러진 것 같아.” ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "26391",
+      "srcText": "의사 선생님은 엘리를 따라나섰어요.  환자들이 의사 선생님에게 우르르 몰려들었어요. 하지만 엘리의 엄마처럼 이가 아픈 환자들만 치료할 수 있대요.",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "26392",
+      "srcText": "치과 의사 선생님이었거든요. “코뼈가 부러졌어요. 수술을 해야 해요.” “수술이 잘되었어요. 조심하며 지내세요.”  “야호! 코뼈가 잘 붙었네.”",
+      "srcPage": 11,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "18741",
+      "srcText": "지구 별에는 훌륭한 의사 선생님이 많다고 들었거든요. 엘리는 의사 선생님을 찾아가 부탁했어요. “좋아, 아픈 환자들이 있으면 가야지.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    }
+  ]
+}

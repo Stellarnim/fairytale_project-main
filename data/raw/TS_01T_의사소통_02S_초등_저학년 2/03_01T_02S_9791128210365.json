@@ -1,0 +1,139 @@
+{
+  "title": "빨간 암탉",
+  "author": "러시아 옛이야기",
+  "illustrator": "노성빈",
+  "isbn": "9791128210365",
+  "readAge": "초등_저학년",
+  "publishedYear": 2018,
+  "publisher": "아람북스",
+  "classification": "의사소통",
+  "paragraphInfoCount": 18,
+  "paragraphInfo": [
+    {
+      "srcTextID": "18187",
+      "srcText": "“나 혼자 씨를 뿌리고, 나 혼자 옥수수를 가꾸고, 나 혼자 옥수수 껍질을 벗겼잖니? 그리고 나 혼자 옥수수를 빻고, 나 혼자 빵을 만들었어. 그러니까 나 혼자 다 먹을래!”",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "18180",
+      "srcText": "바구니에 노란 옥수수가 가득 찼어. “누가 나랑 같이 옥수수를 빻을래?” “난 싫어, 멍멍.” “나도 싫어, 야옹.” “나도 싫어, 꿀꿀.”",
+      "srcPage": 10,
+      "srcSentenceEA": 5,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "18182",
+      "srcText": "나는야, 빨간 꼬꼬! 가장 신나는 일은 옥수수를 빻는 일. 꼬꼬댁 꼬꼬, 나는야 부지런한 빨간 꼬꼬.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "18184",
+      "srcText": "커다란 그릇에 노란 옥수숫가루가 듬뿍! 집에 들어온 빨간 꼬꼬는 친구들에게 물었지. “누가 나랑 같이 옥수수빵을 만들래?”",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "18171",
+      "srcText": "오늘도 부지런한 빨간 암탉은 해님보다 빨리 일어났어. 앞치마를 두른 빨간 암탉은 이리 꼬꼬, 저리 꼬꼬. 그래서 모두 빨간 꼬꼬라고 불렀지.",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18170",
+      "srcText": "다른 친구들은 어디에 있지? 뱃살이 출렁출렁! 뚱보 돼지 꿀꿀이는 2층에, 뒹굴뒹굴! 게으름뱅이 고양이 까망이는 3층에, 드르렁드르렁! 잠꾸러기 강아지 누렁이는 4층에.",
+      "srcPage": 2,
+      "srcSentenceEA": 5,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "18173",
+      "srcText": "쓱싹쓱싹 마당을 쓸고 또 쓸고 빨간 꼬꼬는 언제나 신나게 청소했어. “어, 노란 옥수수 씨앗이네?” 빨간 꼬꼬는 마당 한구석에서 옥수수 씨앗을 발견했어.",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "18174",
+      "srcText": "빨간 꼬꼬는 옥수수 씨앗을 심기로 했어. “누가 나랑 같이 옥수수 씨앗을 심을래?” “난 싫어 꿀꿀\" “나도 싫어 야옹” “나도 싫어 멍멍”",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "18175",
+      "srcText": "“그럼 나 혼자 해야겠네!” 빨간 꼬꼬는 햇볕이 잘 드는 땅에 씨앗을 콕콕 심었어. 흙으로 꾹꾹 누르고 졸졸졸 물을 주었어. 하루, 이틀, 사흘이 지나자, 옥수수 싹이 쏘옥 고개를 내밀었지.",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "18178",
+      "srcText": "하루, 이틀, 사흘이 더 지나자 드디어 옥수수가 주렁주렁 열렸어. 빨간 꼬꼬는 혼자서 옥수수를 따 바구니에 담았어. “누가 나랑 같이 옥수수 껍질을 벗길래?”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "18188",
+      "srcText": "고소한 빵 냄새가 솔솔. 보들보들한 옥수수빵이 먹음직스럽게 구워졌어. 그러자 돼지 꿀꿀이, 고양이 까망이, 강아지 누렁이가 부엌으로 어슬렁어슬렁 들어왔어. “빨간 꼬꼬야, 누구랑 같이 옥수수빵을 먹을래?”",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "18179",
+      "srcText": "“그럼 나 혼자 해야겠네!” 거칠거칠한 옥수수 껍질을 벗기니 매끈매끈한 노란 옥수수가 방긋. 나는야, 빨간 꼬꼬! 가장 신나는 일은 옥수수를 따서 껍질을 벗기는 일. 꼬꼬댁 꼬꼬, 나는야 부지런한 빨간 꼬꼬.",
+      "srcPage": 9,
+      "srcSentenceEA": 5,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "18176",
+      "srcText": "나는야, 빨간 꼬꼬! 가장 신나는 일은 옥수수 씨앗을 심는 일. 꼬꼬댁 꼬꼬, 나는야 부지런한 빨간 꼬꼬.",
+      "srcPage": 7,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "18186",
+      "srcText": "나는야, 빨간 꼬꼬! 가장 신나는 일은 빵을 만드는 일. 꼬꼬댁 꼬꼬, 나는야 부지런한 빨간 꼬꼬.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "128685",
+      "srcText": "“그럼 나 혼자 해야겠네!” 빨간 꼬꼬는 옥수수를 빻았어. 매끈매끈한 옥수수 알갱이가 보슬보슬한 옥수숫가루로 변신!",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "128686",
+      "srcText": "“그럼 나 혼자 해야겠네!” 빨간 꼬꼬는 큰 그릇에 달걀을 톡! 설탕이랑 버터를 넣고 휘휘! 우유랑 옥수숫가루를 넣고 휘휘! 주물럭주물럭 반죽하고, 오븐에 쏙 넣었어.",
+      "srcPage": 18,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "128687",
+      "srcText": "빨간 꼬꼬는 옥수수빵을 혼자 다 먹었어. 부스러기까지 남기지 않고 말이야. 그 뒤로 돼지 꿀꿀이, 고양이 까망이, 강아지 누렁이는 빨간 꼬꼬를 잘 도와주었대!",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "128682",
+      "srcText": "《빨간 암탉》은 러시아의 옛이야기예요. 러시아는 세계에서 가장 큰 나라로 수도는 모스크바예요. 모스크바에는 크렘린 궁전이 있고, 크렘린 궁전의 성벽 아래 붉은 광장에는 성 바실리 대성당이 있어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    }
+  ]
+}

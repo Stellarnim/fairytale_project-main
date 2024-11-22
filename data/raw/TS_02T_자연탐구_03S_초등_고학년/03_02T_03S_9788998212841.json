@@ -1,0 +1,132 @@
+{
+  "title": "책들은 내 친구",
+  "author": "정명숙",
+  "illustrator": "송수은",
+  "isbn": "9788998212841",
+  "readAge": "초등_고학년",
+  "publishedYear": 2012,
+  "publisher": "한얼에듀",
+  "classification": "자연탐구",
+  "paragraphInfoCount": 17,
+  "paragraphInfo": [
+    {
+      "srcTextID": "3579",
+      "srcText": "휘이잉! 회오리바람이 불어왔어요. 아저씨의 모자도 날아가고, 우산도 뒤집혔어요. 꿈갈피 도서관의 사서 소희 씨도 하늘 높이 날아가 버렸지요. 어쩌지? 도서관 문을 열어야 하는데.",
+      "srcPage": 1,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "3578",
+      "srcText": " 사람들이 기다리고 있을 거야. 새 책들도 들어오는 날인데! 소희 씨는 날아가면서도 계속해서 시계를 들여다보았어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "3583",
+      "srcText": "그때, 하늘을 보던 날씨책이 소리쳤어요. “으악! 소희 씨가 회오리바람에 날아가고 있어!” 책들은 깜짝 놀랐어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "3582",
+      "srcText": " 추리 소설책이 벌떡 일어나 말했어요. “소희 씨를 구하러 가자!” 과학책은 울상을 지었어요. “우리는 하늘을 날 수 없잖아.”",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "3590",
+      "srcText": "사람들이 빌려 갔던 책들은 제자리에 꽂아 놓았지요. “휴! 이제 다 됐다.” 소희 씨는 도서관 문을 활짝 열었어요. 낡은 책은 깨끗이 손질해 주고, 찢어진 책은 다시 붙여 주었어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "3591",
+      "srcText": "바람이 멎고 햇살이 따뜻해지자 사람들이 하나둘씩 도서관에 왔어요. “이야, 재미있는 책들이 아주 많아!” 사람들은 앉아서 책을 보기도 하고, 빌려 간 책을 돌려주기도 했어요. 소희 씨는 친절하게 사람들을 도왔지요.",
+      "srcPage": 14,
+      "srcSentenceEA": 4,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "3593",
+      "srcText": "도서관 문을 닫을 시간이 되자 여자아이가 소희 씨에게 다가왔어요. “이 책을 아직 다 못 읽었어요.” “내가 도서 대출증을 만들어 줄게. ",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "3594",
+      "srcText": "대출증이 있으면 책을 빌려 갈 수 있어. 여자아이는 그제야 방긋 웃었어요. “도서관에 재미있는 책이 이렇게 많은 줄 몰랐어요. 나도 커서 언니처럼 사서가 될래요.” 소희 씨는 활짝 웃었어요. “그래, 우리 책들의 소중한 친구가 되어 주렴.”",
+      "srcPage": 17,
+      "srcSentenceEA": 6,
+      "srcWordEA": 37
+    },
+    {
+      "srcTextID": "3585",
+      "srcText": "“왜 이 사실을 몰랐을까?” 책들은 파닥파닥 날갯짓을 하며 힘차게 하늘로 날아올랐어요. 책들은 소희 씨에게 날아가 소리쳤어요. ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "3586",
+      "srcText": "“우리가 구해 줄게요!” 소희 씨는 눈물을 글썽였어요. “나를 마중 나와 주었네. 정말 고마워.” ",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "3589",
+      "srcText": "“걱정 마세요. 우리가 도와줄게요!” 책들은 제자리를 찾아 쏙쏙 들어갔어요.  도서관은 순식간에 말끔해졌지요. 소희 씨는 새로 들어온 책들에게 번호표를 붙여 주었어요. ",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "3592",
+      "srcText": "그런데 한 여자아이가 책장 앞에서 이리저리 서성이고 있었어요. “도서관에 처음 왔구나. 그럼 이 책을 읽어 볼래?” 소희 씨는 새로 들어온 책을 꺼내 주었어요. 여자아이는 꼼짝 않고 책을 읽었어요.",
+      "srcPage": 15,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "3581",
+      "srcText": "도서관에 있는 책들은 툴툴거렸어요. 소희 씨는 왜 안 오는 거야? 지각이야, 지각! 벌써 2,537초나 지났다고!  수학책이 빽 소리쳤어요. ",
+      "srcPage": 3,
+      "srcSentenceEA": 5,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "3580",
+      "srcText": "그러자 의학책이 한숨을 쉬었어요. “후유, 혹시 어디 아픈 게 아닐까?” 여행책은 느긋하게 말했어요. “후후, 소희 씨는 여행을 떠난 게 분명해.”",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "3584",
+      "srcText": "“우리가 왜 못 날아? 잘 봐.” 동화책이 두 팔을 벌려 날아갔어요. “와, 우리에게 날개가 있었다니!”  ",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "3588",
+      "srcText": "소희 씨는 책들 위에 사뿐히 앉았어요. 책들은 소희 씨를 태우고 펄럭펄럭 날아갔어요. 마침내 소희 씨는 도서관에 도착했어요. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "3587",
+      "srcText": "“꺅! 책장이 텅텅 비었어!” 소희 씨는 엉망이 된 도서관을 보고 깜짝 놀랐어요. 그러자 책들이 깔깔 웃으며 말했어요. ",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    }
+  ]
+}

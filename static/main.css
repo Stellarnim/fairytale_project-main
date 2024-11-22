@@ -1,0 +1,339 @@
+:host, html {
+    -webkit-text-size-adjust: 100%;
+    font-feature-settings: normal;
+    -webkit-tap-highlight-color: transparent;
+    font-family: ui-sans-serif, -apple-system, system-ui, Segoe UI, Helvetica, Apple Color Emoji, Arial, sans-serif, Segoe UI Emoji, Segoe UI Symbol;
+    line-height: 1.5;
+    tab-size: 4
+}
+
+body {
+    font-size: 1.5rem;
+    margin: 0;
+    line-height: inherit;
+}
+
+div {
+    display: block;
+}
+
+button {
+    cursor: pointer;
+    -webkit-appearance: button;
+    background-color: transparent;
+    background-image: none;
+    text-transform: none;
+}
+
+button, input, optgroup, select, textarea {
+    font-feature-settings: inherit;
+    color: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    font-variation-settings: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    line-height: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.transition-width {
+    transition-duration: 0.15s;
+    transition-property: width;
+    transition-timing-function: ease;
+}
+
+.transition-colors {
+    transition-duration: 0.15s;
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: ease;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1 1 0%;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.block {
+    display: block;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.max-w-full {
+    max-width: 100%;
+}
+
+.max-h-full {
+    max-height: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-xs {
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.item-end {
+    align-items: flex-end;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+* {
+    scrollbar-color: #8c531b transparent;
+}
+
+*, :after, :before {
+    border: 0 solid #e3e3e3;
+    box-sizing: border-box;
+}
+
+.bg-surface {
+    background-color: #8c531b;
+    transition: width .5s ease;
+}
+
+.bg-surface button:hover {
+    background-color: #81531b;
+}
+
+.text-bar-surface {
+    background-color: #dca39b;
+}
+
+.text-bar-surface button:hover {
+    background-color: #cc938b;
+}
+
+.bg-transparent {
+    background-color: transparent;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.overflow-x-hidden {
+    overflow-x: hidden;
+}
+
+.overflow-y-hidden {
+    overflow-y: hidden;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
+
+.overflow-x-auto {
+    overflow-x: auto;
+}
+
+.overflow-y-auto {
+    overflow-y: auto;
+}
+
+.p-1\.5 {
+    padding: .375rem;
+}
+
+.pt-0 {
+    padding-top: 0;
+}
+
+.pb-4 {
+    padding-bottom: 1rem;
+}
+
+.px-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.px-2 {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.px-3 {
+    padding-left: .75rem;
+    padding-right: .75rem;
+}
+
+.py-1 {
+    padding-bottom: .25rem;
+    padding-top: .25rem;
+}
+
+.py-2 {
+    padding-bottom: .5rem;
+    padding-top: .5rem;
+}
+
+.py-3 {
+    padding-bottom: .75rem;
+    padding-top: .75rem;
+}
+
+.px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+
+.h-10 {
+    height: 2.5rem;
+}
+
+.h-12 {
+    height: 3rem;
+}
+
+.h-\[60px\] {
+    height: 60px;
+}
+
+.w-4 {
+    width: 1rem;
+}
+
+.icon-button {
+    padding: 0;
+    border: none;
+    background: none;
+    width: 36px;
+    height: 36px;
+}
+
+.icon-button img {
+    width: 36px;
+    height: 36px;
+}
+
+.button-size {
+    width: 36px;
+    height: 36px;
+
+}
+
+.w-10 {
+    width: 2.5rem;
+}
+
+.w-\[400px\] {
+    width: 400px;
+}
+
+.min-h-0 {
+    min-height: 0;
+}
+
+.min-h-4 {
+    min-height: 1rem;
+}
+
+.min-h-10 {
+    min-height: 2.5rem;
+}
+
+.max-w-\[48rem\] {
+    max-width: 48rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rounded-ic {
+    border-radius: .5rem;
+}
+
+.rounded-\[26px\] {
+    border-radius: 26px;
+}
+
+.header_height {
+    height: 3.5rem;
+}
+
+.relative {
+    position: relative;
+}
+
+.border-0 {
+    border-width: 0;
+}
+
+.resize-none {
+    resize: none;
+}
+
+.floating-menu {
+    display: none; /* 기본적으로 숨김 */
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 200px;
+    z-index: 10;
+}
+
+/* 라디오 버튼 스타일 */
+.floating-menu label {
+    display: block;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.nanum-pen-script-regular {
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

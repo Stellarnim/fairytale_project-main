@@ -1,0 +1,181 @@
+{
+  "title": "말을 돌려라",
+  "author": "서지원",
+  "illustrator": "김영수",
+  "isbn": "9791165956127",
+  "readAge": "초등_고학년",
+  "publishedYear": 2022,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 24,
+  "paragraphInfo": [
+    {
+      "srcTextID": "5179",
+      "srcText": "귀족들이 얼마나 많은 땅을 가졌는지 낱낱이 밝혀내야 합니다. 귀족의 땅을 빼앗겠다는 거야? 귀족들은 얼마나 이성계가 미웠겠어? ",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5178",
+      "srcText": "나라를 위해 새로운 법을 만듭시다! 귀족의 힘을 꺾어야 합니다! 불쌍한 백성들만 피해를 보고 있습니다. ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5169",
+      "srcText": "“내 말을 못 알아들었소? 당장 가서 싸우시오.” 이성계는 어쩔 수 없이 요동 땅으로 떠났어. ",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5176",
+      "srcText": " 나랏일을 걱정하는 젊은 신하들이 이성계에게 말했어. “맞소! 새로운 법을 만드시오.” 이성계는 귀족들의 땅을 나라 것으로 만드는 ‘과전법’을 만들었어.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5180",
+      "srcText": "그래서 이성계가 뭔가 하려고만 하면 언제나 똘똘 뭉쳐서 반대했지. 이성계는 뜻을 제대로 펼칠 수가 없었단다. “안 되겠소! 우리 새 나라를 만듭시다.” ",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5181",
+      "srcText": "이성계가 젊은 신하들에게 말했어. “좋습니다, 장군을 따르겠소.” “안 됩니다, 그래도 고려를 지켜야 하오.”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "5183",
+      "srcText": "신하들은 이성계와 함께 새 나라를 세우자는 쪽과 고려를 지켜야 한다는 쪽으로 나뉘었어. 어느 날, 이성계의 아들 이방원이 정몽주를 찾아갔지.  정몽주는 고려를 지키자는 신하들의 대표였어.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5173",
+      "srcText": "‘조금만 더 가면 명나라 요동 땅인데 어쩌지?’ 이성계는 고민하고 또 고민했어. “안 되겠다, 개경으로 돌아가자.”",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5177",
+      "srcText": "“장군, 귀족들이 가진 땅을 빼앗아야 합니다!” “나라에 세금도 안 내잖아요.” “백성들의 재산도 마구 빼앗는 사람들입니다.”",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "5170",
+      "srcText": "고려에 활을 잘 쏘는 아이가 살았어. 그 아이는 커서 용감한 장군이 되었지. 장군의 이름은 이성계란다. ",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "5171",
+      "srcText": "어느 날 임금님이 이성계를 불렀어. “장군, 명나라 요동땅을 빼앗아 오시오.” “명나라와 전쟁을 하면 질 게 뻔합니다.” ",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5172",
+      "srcText": " “임금님의 명령인데요.” “임금을 바꿔야 나라가 살고 백성이 산다. 말을 돌려라!” 개경으로 돌아온 이성계는 궁궐로 들어가 임금인 우왕을 내쫓았단다. ",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "5174",
+      "srcText": "그런데 말이야, 임금을 두 번이나 바꿨는데도 조금도 나아질 기미가 안 보이는 거야. 너무 어려서 일을 제대로 못 하거나 흥청망청 놀기만 하는 것 같았지. “이토록 제대로 된 임금이 없단 말인가?” ",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 30
+    },
+    {
+      "srcTextID": "5175",
+      "srcText": "이성계는 한숨을 푹푹 쉬었단다. 임금님, 술맛이 참 좋으시죠? 나랏일은 어떻게든 되겠지. 호호, 제가 노래 불러 드릴까요? 아직까지도 제대로 된 왕이 없다니, 정말 큰일이야.",
+      "srcPage": 7,
+      "srcSentenceEA": 5,
+      "srcWordEA": 27
+    },
+    {
+      "srcTextID": "5189",
+      "srcText": "얼마 뒤 이성계와 무학대사는 산으로 둘러싸여 있는 땅에 다다랐어. 나라의 한가운데에 있는 그 땅에는 한강이 흐르고 있었지. 이성계가 찾은 땅은 바로 한양이었어. ",
+      "srcPage": 21,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "5184",
+      "srcText": "정몽주가 고집을 꺾지 않자 결국 이방원은 정몽주를 없애 버렸어. 이런, 이방원이 사람을 보냈군. 목숨을 내놓으시지요. 도망치지 못할 것이오. ",
+      "srcPage": 16,
+      "srcSentenceEA": 4,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5182",
+      "srcText": "“백성을 위해 새 나라를 세워야 합니다.” “난 끝까지 고려를 지키겠네. 두 나라를 섬길 순 없지.”",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "5185",
+      "srcText": "뜻은 달랐지만 친구였던 정몽주를 잃고 이성계는 몹시 슬펐어. “아버지, 더는 망설이면 안 됩니다!” “그래, 이제 내 뜻을 펼쳐야겠다.” ",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5186",
+      "srcText": "이성계는 마침내 새 나라를 세우고 임금이 되었어. “전하, 어째서 나라 이름을 바꾸지 않으십니까?” “백성들의 마음을 돌본 뒤 차차 바꿔 갈 것이다.” ",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "5187",
+      "srcText": "나라가 안정되자 이성계는 나라의 새 이름을 지었어. “이곳은 본디 고조선이 있던 땅이다. 고조선을 이어받아 ‘조선’으로 하겠다!” ",
+      "srcPage": 19,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "5188",
+      "srcText": "백성들은 두 팔 벌려 새 나라 조선을 반겼어. 이제 이성계는 새로운 도읍을 세울 곳을 찾기로 했어. 나라를 세울 때 큰 공을 세운 무학대사와 함께 도읍지를 찾아 나섰지.",
+      "srcPage": 20,
+      "srcSentenceEA": 3,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "5190",
+      "srcText": "큰 강이 있으니 뱃길을 이용할 수 있었어. 산으로 둘러싸여 외적을 막기에도 유리했지. 게다가 주위에 넓은 들판이 펼쳐져 있어 도읍으로 안성맞춤이었어. ",
+      "srcPage": 22,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "5191",
+      "srcText": " “옳거니! 이곳이 새 도읍지로 딱 맞겠군.” 새로운 도읍 한양의 모습을 만드는 일은 정도전이 맡았어. 조선을 세우는 데 누구보다 앞장섰던 신하였지. ",
+      "srcPage": 23,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "5192",
+      "srcText": "“한양을 빙 둘러 성을 쌓고 궁궐을 지어라!” “오래오래 큰 복을 누리라는 뜻으로 궁궐의 이름을 경복궁이라 하겠습니다!” 궁궐의 이름과 성문, 건물의 이름에 유교의 덕목과 가치를 담았지. 이렇게 해서 조선의 500년 역사가 시작되었단다.",
+      "srcPage": 24,
+      "srcSentenceEA": 4,
+      "srcWordEA": 33
+    }
+  ]
+}

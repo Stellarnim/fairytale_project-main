@@ -1,0 +1,125 @@
+{
+  "title": "마녀의 꿈",
+  "author": "글깨비",
+  "illustrator": "이윤선",
+  "isbn": "9788929118938",
+  "readAge": "초등_저학년",
+  "publishedYear": 2018,
+  "publisher": "글뿌리",
+  "classification": "의사소통",
+  "paragraphInfoCount": 16,
+  "paragraphInfo": [
+    {
+      "srcTextID": "151048",
+      "srcText": "그렇게 얼마나 헤맸을까요? “오빠! 저기 과자로 만든 집이 있어!” “야호, 배고팠는데 잘됐다!”",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "151049",
+      "srcText": "헨젤과 그레텔은 허겁지겁 달려갔어요. 그리고 과자집을 뜯어 먹기 시작했지요. 그때, 마녀가 문을 열고 나왔어요!",
+      "srcPage": 12,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "151052",
+      "srcText": "그러던 어느 날, 마녀가 말했어요. “더는 못 기다리겠어. 그레텔, 어서 장작에 불을 지펴!”",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "151043",
+      "srcText": "‘흥, 저거로군. 모두 없애야겠다.’ 다음 날, 새엄마는 헨젤과 그레텔을 다시 숲속에 남겨 놓고 달아나 버렸어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "151046",
+      "srcText": "“누가 내 집을 망가뜨리는 거냐?” 헨젤과 그레텔은 깜짝 놀라 어쩔 줄 몰랐어요. 마녀는 헨젤과 그레텔을 보더니 빙그레 웃으며 말했어요.",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "151039",
+      "srcText": "그해 마을에 큰 가뭄이 들었어요. “이제 먹을 것이 얼마 안 남았는데 어쩌지?” 아빠는 한숨을 푹 쉬었어요.",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "151037",
+      "srcText": "“그럼, 다 같이 굶어 죽을 생각이에요?” “휴, 알았소.” 그 말을 엿들은 헨젤과 그레텔은 심장이 쿵쾅쿵쾅 뛰었어요. “이제 우린 어떡하지?”\n\n",
+      "srcPage": 4,
+      "srcSentenceEA": 4,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "151038",
+      "srcText": "그때 새엄마가 다가와 말했어요. “애들을 숲속에 버리고 오면 되지요.” “뭐라고? 어떻게 아이들을.”",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "151041",
+      "srcText": "며칠 뒤 새엄마가 남매를 불렀어요. “얘들아, 다 함께 나무하러 가자꾸나. 어서!” 헨젤은 주머니 속에서 조약돌을 꺼내 길 위에 하나씩 떨어뜨렸어요. 그사이 새엄마와 아빠는 아이들을 버리고 다른 길로 도망쳤지요.",
+      "srcPage": 6,
+      "srcSentenceEA": 5,
+      "srcWordEA": 31
+    },
+    {
+      "srcTextID": "151042",
+      "srcText": "“오빠, 아빠와 새엄마가 안 보여. 이제 우린 어떡해!” “그레텔, 발밑에 하얀 조약돌이 보이니? 내가 집에서 나올 때부터 길 위에 떨어뜨려 둔 거야.” “그럼, 이 조약돌만 따라가면 집에 갈 수 있겠네!” 헨젤과 그레텔은 조약돌을 따라 무사히 집으로 돌아올 수 있었어요.\n\n",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 42
+    },
+    {
+      "srcTextID": "151045",
+      "srcText": "새엄마는 깜짝 놀랐어요. ‘아니, 어떻게 집을 찾아왔지?’ 밖을 살펴보던 새엄마는 조약돌을 찾아냈어요.",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 14
+    },
+    {
+      "srcTextID": "151040",
+      "srcText": "‘하얀 조약돌을 길 위에 떨어뜨려 두자. 그러면 숲속에서 길을 잃어도 집으로 돌아올 수 있을 거야.’ 그날부터 헨젤은 하얀 조약돌을 모았어요.",
+      "srcPage": 5,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "151053",
+      "srcText": "아이들이 집 안으로 들어오자, 마녀는 헨젤을 우리에 가두었어요. “너는 살이 포동포동 찌면 잡아먹겠다!” 그리고 그레텔에게는 온갖 일을 시켰지요.\n\n",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "151036",
+      "srcText": "“오빠, 엄마가 보고 싶어.” “그레텔, 이제는 새엄마가 우리 엄마야.” 마음 여린 그레텔은 헨젤에게 다가와 울먹거렸어요. 헨젤과 그레텔은 심술궂은 새엄마와 함께 살았거든요.",
+      "srcPage": 1,
+      "srcSentenceEA": 4,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "151044",
+      "srcText": "“앗, 조약돌이 없어졌어.” “그럼, 집에 못 돌아가는 거야?” 아이들은 울먹이며 숲속을 헤맸어요.\n\n",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "151047",
+      "srcText": "“얘들아, 집 안으로 들어오렴. 더 맛난 걸 주마.” 헨젤과 그레텔은 신이 나서 마녀를 따라 집 안으로 들어갔어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    }
+  ]
+}

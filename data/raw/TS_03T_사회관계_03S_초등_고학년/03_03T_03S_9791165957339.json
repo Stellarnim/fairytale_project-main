@@ -1,0 +1,153 @@
+{
+  "title": "다파라 가게에서 물건을 사는 방법",
+  "author": "김민진",
+  "illustrator": "강윤주",
+  "isbn": "9791165957339",
+  "readAge": "초등_고학년",
+  "publishedYear": 2023,
+  "publisher": "아람북스",
+  "classification": "사회관계",
+  "paragraphInfoCount": 20,
+  "paragraphInfo": [
+    {
+      "srcTextID": "4861",
+      "srcText": "컴퓨터 화면을 보던 표범 아저씨는 깜짝 놀랐어. 화면에 커피란 커피는 종류별로 다 있었거든. 우아, 브라질 커피가 여기 있네요. ",
+      "srcPage": 8,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "4864",
+      "srcText": "표범 아저씨가 큰 소리로 물었어. “생쥐 씨, 도대체 무엇을 파는 가게인가요?” 무엇이든 다 팔지요! ",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "4862",
+      "srcText": "말만 하면 물건을 집까지 가져다드려요. “아, 그래요? 혹시 브라질 커피를 구해 줄 수 있나요?” 표범 아저씨의 말에 생쥐 청년은 톡톡 컴퓨터 자판을 두드렸어. ",
+      "srcPage": 11,
+      "srcSentenceEA": 4,
+      "srcWordEA": 25
+    },
+    {
+      "srcTextID": "4863",
+      "srcText": "무슨 일이 생겼을까? 토끼 아줌마도 컴퓨터 화면을 보고 눈이 똥그래졌어. 알록달록 멋진 옷과 가방, 새로 나온 책들이 가득했거든. 물건을 사용해 보고 적는다는 ‘사용 후기’에도 칭찬뿐이었어.",
+      "srcPage": 12,
+      "srcSentenceEA": 5,
+      "srcWordEA": 29
+    },
+    {
+      "srcTextID": "4870",
+      "srcText": "토끼 아줌마는 새로 산 바지가 너무 작았어. 그래서 어쩔 수 없이 바꿔야 했어. “다음번에는 좀 더 넉넉한 크기로 주문해야지.”",
+      "srcPage": 18,
+      "srcSentenceEA": 3,
+      "srcWordEA": 20
+    },
+    {
+      "srcTextID": "4857",
+      "srcText": "그러던 어느 날, 마을에 ‘다파라’ 가게가 새로 생겼어. “창밖에 내놓은 물건이 하나도 없네? 도대체 무슨 가게지?” ",
+      "srcPage": 6,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "4856",
+      "srcText": "궁금해진 동물들이 가게 앞으로 하나둘 모여들었어. ‘대체 가게 안에는 무엇이 있을까?’ 동물들이 가게 안을 들여다보았지. 가게에서 생쥐 청년은 컴퓨터 화면을 뚫어져라 보고 있었어.",
+      "srcPage": 7,
+      "srcSentenceEA": 4,
+      "srcWordEA": 26
+    },
+    {
+      "srcTextID": "4872",
+      "srcText": "동물들이 너도나도 컴퓨터로 인터넷 쇼핑을 하자, 다파라 가게에는 손님이 뚝 끊겼지. “또 이사 갈 때가 되었군. 인터넷 쇼핑을 모르는 마을이 또 어디 있으려나?” ",
+      "srcPage": 20,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "4851",
+      "srcText": "표범 아저씨는 잠시 생각해 보았어. 멋쟁이 표범 아저씨는 문득 브라질에서 마셨던 커피가 생각났어. “은은한 향기에 맛이 참 고소했지.” ",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "4852",
+      "srcText": "표범 아저씨는 커피를 사러 슈퍼에 가 보았어. 그런데 아무리 찾아봐도 브라질에서 먹던 커피는 없었지. ‘직접 브라질에 가서 커피를 사 올까?’ ",
+      "srcPage": 2,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "4854",
+      "srcText": "수다쟁이 토끼 아줌마도 필요한 것이 많았어. 그런데 아이들 때문에 꼼짝달싹할 수가 없었지. 예쁜 바지도 사고 싶고, 새로 나온 가방도 사고 싶었어. ",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "4853",
+      "srcText": "눈물 나게 재미있다는 책도 사고 싶었고 말이야. ‘나가서 쇼핑을 좀 할까?’ 토끼 아줌마는 잠시 고민했지.",
+      "srcPage": 4,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "4855",
+      "srcText": "일단 나갈 준비를 하면 아기 토끼들이 나가지 말라고 울기 시작할 거고, 신발을 신으면 같이 가자고 발버둥 칠 테고, 문을 열고 나가면 같이 간다고 여기 매달리고, 저기 매달릴 거야. 아이고, 생각만 해도 머리가 아프네. “그냥 사지 말아야겠다. 나가기 너무 힘들겠어.” 토끼 아줌마는 늘어진 바지로 갈아입었어.",
+      "srcPage": 5,
+      "srcSentenceEA": 5,
+      "srcWordEA": 47
+    },
+    {
+      "srcTextID": "4871",
+      "srcText": "하지만 인터넷 쇼핑이 생각만큼 쉽지는 않았어. 표범 아저씨는 직접 고른 커피가 입맛에 맞지 않았어. 미리 먹어 볼 수 없으니, 어쩔 수 없었지.",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 24
+    },
+    {
+      "srcTextID": "4860",
+      "srcText": "주문을 하면 어떤 일이 생기는 줄 알아?  커피를 파는 가게의 컴퓨터가 딩동! 염소 아저씨가 컴퓨터를 보고는 주문한 커피를 포장해. ",
+      "srcPage": 9,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "4865",
+      "srcText": "토끼 아줌마는 예뻐 보이는 나팔바지를 주문했지. 나팔바지는 다음 날 토끼 아줌마에게 배달되었어. 소문을 들은 숲속 마을 동물들은 날마다 다파라 가게로 몰려왔어. ",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "4867",
+      "srcText": "그러고는 컴퓨터로 직접 인터넷 쇼핑을 하기 시작했지. 컴퓨터 대신 스마트폰을 장만한 동물들도 생겼어. 온 마을에는 빈 상자들이 쌓이고 또 쌓였지.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 22
+    },
+    {
+      "srcTextID": "4869",
+      "srcText": "부엉이 아저씨는 작품 재료가 떨어질 때마다 스마트폰으로 재료를 사들였어. 낮이건 밤이건 말이야.  “스마트폰으로 물건을 바로바로 살 수 있어 정말 편하군.” ",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "4866",
+      "srcText": "구하기 힘들다는 귀한 레코드판도 살 수 있었고, 냉장고나 피아노처럼 무거운 물건도 집까지 가져다준다니 무척이나 편리했지. 화면 안에서 물건을 고른 후 마우스 단추를 딸깍딸깍하기만 하면, 고른 물건이 다음 날이나 그다음 날까지 집으로 배달되었어. 그런데 꼭 다파라 가게에 가야 할까요? ",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 40
+    },
+    {
+      "srcTextID": "4868",
+      "srcText": "집에 컴퓨터가 있으면 집에서 물건을 주문할 수 있잖아요? “맞아요, 당장 컴퓨터를 주문해야겠어요.” 동물들은 하나둘 컴퓨터를 장만했어. ",
+      "srcPage": 15,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "title": "올래올래 레스토랑",
+  "author": "이미영",
+  "illustrator": "최희영",
+  "isbn": "9791188565955",
+  "readAge": "초등_저학년",
+  "publishedYear": 2017,
+  "publisher": "엄마마음",
+  "classification": "의사소통",
+  "paragraphInfoCount": 19,
+  "paragraphInfo": [
+    {
+      "srcTextID": "148066",
+      "srcText": "올래올래 레스토랑의 스파게티는 이 숲속에서 제일 맛있어요. 그런데 레스토랑의 친절은 빵점이에요. “돼지 아저씨, 물 좀 주세요!”",
+      "srcPage": 1,
+      "srcSentenceEA": 3,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "148065",
+      "srcText": "“이크, 포크가 떨어졌네. 새것으로 가져다주실래요?” 그럴 때면 돼지 아저씨는 잔뜩 인상을 쓰며 말해요. “물은 직접 갖다 드슈!” “새 포크요? 조심 좀 하지. 귀찮게 말이야!”",
+      "srcPage": 2,
+      "srcSentenceEA": 7,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "148073",
+      "srcText": "쨍그랑! 곰 아저씨가 접시를 깨뜨렸어요. “어머, 곰 아저씨. 괜찮으세요?” 릴리가 놀란 얼굴로 달려왔어요.",
+      "srcPage": 9,
+      "srcSentenceEA": 4,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "148076",
+      "srcText": "“왜 손님들이 네 칭찬만 늘어놓는 거지?” “아저씨도 손님들한테 친절하게 대해 보세요.” “귀찮게 왜 그래야 하는데?”",
+      "srcPage": 13,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "148079",
+      "srcText": "“무엇을 도와드릴까요?” “필요한 것은 없으세요?” “괜찮아요, 제가 할게요!” 돼지 아저씨는 한참 동안 릴리만 쳐다보았어요. ‘릴리의 말이 정말 맞는 걸까?’ 흠\n\n",
+      "srcPage": 15,
+      "srcSentenceEA": 6,
+      "srcWordEA": 23
+    },
+    {
+      "srcTextID": "148083",
+      "srcText": "신나는 음악 소리와 함께 올래올래 레스토랑의 문이 열렸어요. “양은 부족하지 않으신가요?” “앗, 조금 짜다고요?” “시원한 오렌지 주스를 가져다드릴게요!”\n\n",
+      "srcPage": 18,
+      "srcSentenceEA": 4,
+      "srcWordEA": 18
+    },
+    {
+      "srcTextID": "148068",
+      "srcText": "‘뭐? 문을 닫는다고?’ 꼬마 양 릴리는 그 말을 듣고 헐레벌떡 레스토랑으로 뛰어갔어요. “아저씨, 아저씨! 정말 레스토랑이 문을 닫나요?” “손님들이 하도 귀찮게 해서 그럴까 생각 중이다.”",
+      "srcPage": 4,
+      "srcSentenceEA": 5,
+      "srcWordEA": 28
+    },
+    {
+      "srcTextID": "148077",
+      "srcText": "하지만 돼지 아저씨는 여전히 투덜거렸어요. 뭐야? 접시를 버리게 생겼는데. 손님들이 모두 돌아간 뒤에 돼지 아저씨가 물었어요.",
+      "srcPage": 12,
+      "srcSentenceEA": 4,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "148067",
+      "srcText": "손님들은 늘 화가 난 채 레스토랑을 나왔어요. “주인이 얼마나 퉁명스러운지, 맛을 모르겠어.” “그러니까 곧 문을 닫는다잖아요.”",
+      "srcPage": 3,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    },
+    {
+      "srcTextID": "148069",
+      "srcText": "“아저씨가 만든 스파게티가 얼마나 맛있는데요. 손님들도 좋아하잖아요.” “하지만 너무 귀찮아. 왜 이렇게 바라는 게 많은지.”",
+      "srcPage": 5,
+      "srcSentenceEA": 4,
+      "srcWordEA": 17
+    },
+    {
+      "srcTextID": "148071",
+      "srcText": "쿵작쿵작! 흥겨운 음악 소리와 함께 릴리의 목소리가 숲속에 퍼졌어요. “안녕하세요. 올래올래 레스토랑입니다. 오늘 맛있는 스파게티가 준비되어 있으니, 오셔서 드셔 보세요.” “무슨 일이지? 주인이 바뀌었나?” “오늘 점심은 여기서 먹어 보자.”",
+      "srcPage": 7,
+      "srcSentenceEA": 6,
+      "srcWordEA": 33
+    },
+    {
+      "srcTextID": "148082",
+      "srcText": "“감사합니다. 다음에도 꼭 찾아 주세요!” “이곳에 오면 기분이 좋아진단 말이야.” 이제 올래올래 레스토랑에서 화를 내며 나오는 손님은 하나도 없답니다.",
+      "srcPage": 19,
+      "srcSentenceEA": 3,
+      "srcWordEA": 21
+    },
+    {
+      "srcTextID": "148070",
+      "srcText": "“한 달만 기다려 주세요. 그동안 제가 레스토랑을 바꿔 볼게요.” “네가? 흠,그렇다면 한번 지켜보지.”",
+      "srcPage": 6,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "148072",
+      "srcText": "레스토랑은 금세 손님들로 북적거렸어요. “여기 주문할게요!” “치즈를 더 얹어 주실래요?” “물 좀 더 주세요!” “네, 네. 지금 갑니다!”",
+      "srcPage": 8,
+      "srcSentenceEA": 6,
+      "srcWordEA": 19
+    },
+    {
+      "srcTextID": "148075",
+      "srcText": "하지만 돼지 아저씨는 얼굴을 잔뜩 찌푸렸지요. 아이고, 아까운 내 접시! “다치지 않아서 정말 다행이에요!”",
+      "srcPage": 10,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "148074",
+      "srcText": "릴리가 깨진 접시를 치우며 말했어요. “역시, 릴리는 참 친절해!” 손님들은 릴리에게 칭찬을 아끼지 않았어요.",
+      "srcPage": 11,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "148078",
+      "srcText": "\"그러면 손님들도, 아저씨도 행복해질 거예요.\" \"행복해질 수 있다고?\" 다음날도 레스토랑은 손님들로 북적북적했어요.",
+      "srcPage": 14,
+      "srcSentenceEA": 3,
+      "srcWordEA": 13
+    },
+    {
+      "srcTextID": "148080",
+      "srcText": "돼지 아저씨가 재료를 사러 밖으로 나왔어요. “안녕하세요, 돼지 아저씨!” 전날 접시를 깨뜨린 곰 아저씨였어요.",
+      "srcPage": 16,
+      "srcSentenceEA": 3,
+      "srcWordEA": 15
+    },
+    {
+      "srcTextID": "148081",
+      "srcText": "돼지 아저씨는 밀가루 부대를 나르는 곰 아저씨에게 슬쩍 말을 걸었어요. “제,제가 좀 도와드릴까요?” “도와주신다면 저야 영광이죠!”",
+      "srcPage": 17,
+      "srcSentenceEA": 3,
+      "srcWordEA": 16
+    }
+  ]
+}
