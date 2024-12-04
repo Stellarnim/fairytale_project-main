@@ -1135,3 +1135,3214 @@
 2024-11-22 14:57:55,180 - INFO - 悼拳 积己 肯丰.
 2024-11-22 14:58:27,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2024-11-22 14:58:43,112 - INFO - 悼拳 积己 肯丰.
+2024-11-28 11:10:00,247 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:10:15,234 - INFO - 悼拳 积己 肯丰.
+2024-11-28 11:13:15,765 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:13:52,792 - INFO - 悼拳 积己 肯丰.
+2024-11-28 11:13:53,530 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:14:11,184 - INFO - 悼拳 积己 肯丰.
+2024-11-28 11:19:58,018 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:20:04,740 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: peer closed connection without sending complete message body (incomplete chunked read)
+2024-11-28 11:27:18,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:27:54,649 - INFO - 悼拳 积己 肯丰.
+2024-11-28 11:29:16,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:29:39,167 - INFO - 悼拳 积己 肯丰.
+2024-11-28 11:29:52,679 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:29:54,859 - INFO -  * Restarting with stat
+2024-11-28 11:29:59,243 - WARNING -  * Debugger is active!
+2024-11-28 11:29:59,246 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:30:01,004 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:30:01,054 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:30:01,054 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:30:10,323 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:30:10,323 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:30:19,786 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 11:30:23,253 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 11:30:23,253 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 11:30:24,208 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 11:33:24,328 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 11:33:24,328 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 11:33:24,345 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 11:38:33,574 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 11:38:45,164 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:38:46,469 - INFO -  * Restarting with stat
+2024-11-28 11:38:48,763 - WARNING -  * Debugger is active!
+2024-11-28 11:38:48,765 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:38:48,795 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:38:48,837 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:38:48,838 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:38:57,655 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:38:57,655 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:39:01,457 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 11:39:04,429 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 11:39:04,429 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 11:39:04,906 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 11:40:42,322 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:40:43,533 - INFO -  * Restarting with stat
+2024-11-28 11:40:45,455 - WARNING -  * Debugger is active!
+2024-11-28 11:40:45,457 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:40:46,018 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:40:46,058 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:40:46,059 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:40:57,782 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:40:57,782 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:41:02,459 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 11:41:05,426 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 11:41:05,426 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 11:41:05,810 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 11:41:17,090 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:41:17,918 - INFO -  * Restarting with stat
+2024-11-28 11:41:19,963 - WARNING -  * Debugger is active!
+2024-11-28 11:41:19,966 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:41:20,019 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:41:20,065 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:41:20,065 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:41:24,043 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:41:24,355 - INFO -  * Restarting with stat
+2024-11-28 11:41:26,486 - WARNING -  * Debugger is active!
+2024-11-28 11:41:26,488 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:41:26,768 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:41:26,806 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:41:26,806 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:41:36,877 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:41:36,878 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:41:38,797 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:41:39,287 - INFO -  * Restarting with stat
+2024-11-28 11:41:41,485 - WARNING -  * Debugger is active!
+2024-11-28 11:41:41,489 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:41:41,510 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:41:41,562 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:41:41,562 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:41:43,532 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:41:43,756 - INFO -  * Restarting with stat
+2024-11-28 11:41:45,910 - WARNING -  * Debugger is active!
+2024-11-28 11:41:45,912 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:41:46,020 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:41:46,059 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:41:46,059 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:41:48,004 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:41:48,243 - INFO -  * Restarting with stat
+2024-11-28 11:41:50,230 - WARNING -  * Debugger is active!
+2024-11-28 11:41:50,248 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:41:50,493 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:41:50,539 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:41:50,539 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:42:00,516 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:42:00,756 - INFO -  * Restarting with stat
+2024-11-28 11:42:02,725 - WARNING -  * Debugger is active!
+2024-11-28 11:42:02,728 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:42:02,761 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:42:02,802 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:42:02,802 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:42:11,332 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:42:11,332 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:42:14,484 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 11:42:17,369 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 11:42:17,369 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 11:42:17,781 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 11:44:11,554 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:44:12,695 - INFO -  * Restarting with stat
+2024-11-28 11:44:16,146 - WARNING -  * Debugger is active!
+2024-11-28 11:44:16,148 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:44:18,691 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:44:18,729 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:44:18,729 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:44:20,217 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:44:20,466 - INFO -  * Restarting with stat
+2024-11-28 11:44:22,592 - WARNING -  * Debugger is active!
+2024-11-28 11:44:22,594 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:44:22,766 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:44:22,810 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:44:22,810 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:44:26,673 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:44:26,885 - INFO -  * Restarting with stat
+2024-11-28 11:44:29,321 - WARNING -  * Debugger is active!
+2024-11-28 11:44:29,326 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:44:29,377 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:44:29,477 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:44:29,477 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:44:35,445 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:44:35,697 - INFO -  * Restarting with stat
+2024-11-28 11:44:37,603 - WARNING -  * Debugger is active!
+2024-11-28 11:44:37,605 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:44:38,018 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:44:38,066 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:44:38,066 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:44:47,693 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:44:47,694 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:44:49,879 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:44:50,348 - INFO -  * Restarting with stat
+2024-11-28 11:44:52,448 - WARNING -  * Debugger is active!
+2024-11-28 11:44:52,450 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:44:52,500 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:44:52,549 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:44:52,550 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:44:53,477 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:44:53,777 - INFO -  * Restarting with stat
+2024-11-28 11:44:56,255 - WARNING -  * Debugger is active!
+2024-11-28 11:44:56,257 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:44:56,506 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:44:56,555 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:44:56,555 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:45:05,414 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 11:45:05,649 - INFO -  * Restarting with stat
+2024-11-28 11:47:13,085 - INFO -  * Restarting with stat
+2024-11-28 11:47:14,749 - WARNING -  * Debugger is active!
+2024-11-28 11:47:14,751 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 11:47:17,004 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 11:47:17,045 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 11:47:17,045 - INFO - 单捞磐 盒且 吝...
+2024-11-28 11:47:26,163 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 11:47:26,164 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 11:47:29,236 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 11:47:32,650 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 11:47:32,651 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 11:47:33,021 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 11:50:26,997 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 11:50:26,997 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 11:50:27,019 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 13:10:51,651 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 13:10:53,266 - INFO -  * Restarting with stat
+2024-11-28 13:10:56,743 - WARNING -  * Debugger is active!
+2024-11-28 13:10:56,747 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 13:11:00,230 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 13:11:00,302 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 13:11:00,302 - INFO - 单捞磐 盒且 吝...
+2024-11-28 13:11:10,315 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 13:11:10,315 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 13:11:14,343 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 13:11:18,396 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 13:11:18,396 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 13:11:18,870 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 13:13:59,767 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 13:13:59,767 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 13:13:59,787 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 13:14:39,034 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 13:15:00,005 - INFO - 悼拳 积己 肯丰.
+2024-11-28 13:15:46,044 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 13:15:47,043 - INFO -  * Restarting with stat
+2024-11-28 13:15:49,129 - WARNING -  * Debugger is active!
+2024-11-28 13:15:49,131 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 13:15:49,327 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 13:15:49,383 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 13:15:49,383 - INFO - 单捞磐 盒且 吝...
+2024-11-28 13:16:00,272 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 13:16:00,272 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 13:16:04,890 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 13:16:09,023 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 13:16:09,024 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 13:16:09,511 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 13:17:39,862 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\preprocess.py', reloading
+2024-11-28 13:17:41,313 - INFO -  * Restarting with stat
+2024-11-28 13:17:43,603 - WARNING -  * Debugger is active!
+2024-11-28 13:17:43,605 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 13:17:43,722 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 13:17:43,787 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 13:17:43,787 - INFO - 单捞磐 盒且 吝...
+2024-11-28 13:17:54,937 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 13:17:54,938 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 13:17:58,216 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 13:18:02,226 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 13:18:02,226 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 13:18:02,639 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 13:20:51,726 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 13:20:51,726 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 13:20:51,745 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 13:21:17,382 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\preprocess.py', reloading
+2024-11-28 13:21:18,437 - INFO -  * Restarting with stat
+2024-11-28 13:21:20,489 - WARNING -  * Debugger is active!
+2024-11-28 13:21:20,491 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 13:21:20,733 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 13:21:20,782 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 13:21:20,782 - INFO - 单捞磐 盒且 吝...
+2024-11-28 13:21:32,543 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 13:21:32,543 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 13:21:32,886 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\preprocess.py', reloading
+2024-11-28 13:21:33,259 - INFO -  * Restarting with stat
+2024-11-28 13:21:35,579 - WARNING -  * Debugger is active!
+2024-11-28 13:21:35,581 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 13:21:35,745 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 13:21:35,800 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 13:21:35,800 - INFO - 单捞磐 盒且 吝...
+2024-11-28 13:21:47,143 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 13:21:47,143 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 13:21:50,895 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 13:21:54,391 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 13:21:54,391 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 13:21:54,834 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 13:23:12,266 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 13:23:13,302 - INFO -  * Restarting with stat
+2024-11-28 13:23:15,268 - WARNING -  * Debugger is active!
+2024-11-28 13:23:15,270 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 13:23:15,477 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 13:23:15,547 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 13:23:15,547 - INFO - 单捞磐 盒且 吝...
+2024-11-28 13:23:25,581 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 13:23:25,582 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 13:23:28,655 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 13:23:32,306 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 13:23:32,306 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 13:23:32,708 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 13:26:13,880 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 13:26:13,881 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 13:26:13,904 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 13:26:31,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 13:27:00,405 - INFO - 悼拳 积己 肯丰.
+2024-11-28 14:17:23,546 - INFO -  * Restarting with stat
+2024-11-28 14:17:26,450 - WARNING -  * Debugger is active!
+2024-11-28 14:17:26,455 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 14:17:26,731 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 14:17:26,817 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 14:17:26,817 - INFO - 单捞磐 盒且 吝...
+2024-11-28 14:17:41,581 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 14:17:41,581 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 14:17:46,090 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 14:17:49,614 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 14:17:49,614 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 14:17:50,068 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 14:20:32,025 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 14:20:32,025 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 14:20:32,050 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 14:27:22,941 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 14:27:42,382 - INFO - 悼拳 积己 肯丰.
+2024-11-28 15:04:53,923 - INFO -  * Restarting with stat
+2024-11-28 15:04:55,392 - WARNING -  * Debugger is active!
+2024-11-28 15:04:55,396 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:05:01,304 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:05:01,349 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:05:01,350 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:05:09,972 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:05:09,972 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:05:14,565 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:05:18,441 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:05:18,441 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:05:18,898 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:07:58,981 - ERROR - 巩辑 八祸 吝 坷幅啊 惯积沁嚼聪促: 'NoneType' object has no attribute 'as_retriever'
+2024-11-28 15:08:16,363 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 15:08:16,364 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 15:08:16,382 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 15:08:27,720 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 15:08:56,376 - INFO - 悼拳 积己 肯丰.
+2024-11-28 15:13:08,995 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 15:13:10,289 - INFO -  * Restarting with stat
+2024-11-28 15:22:30,224 - INFO -  * Restarting with stat
+2024-11-28 15:22:31,613 - WARNING -  * Debugger is active!
+2024-11-28 15:22:31,616 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:22:36,152 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:22:36,198 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:22:36,198 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:22:44,631 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:22:44,632 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:22:47,423 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:22:50,892 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:22:50,892 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:22:51,260 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:25:24,753 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 15:25:24,753 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 15:25:24,769 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 15:25:34,114 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: 'ChatOpenAI' object has no attribute 'invoke_stream'
+2024-11-28 15:28:05,811 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 15:28:06,698 - INFO -  * Restarting with stat
+2024-11-28 15:33:18,708 - INFO -  * Restarting with stat
+2024-11-28 15:33:20,092 - WARNING -  * Debugger is active!
+2024-11-28 15:33:20,094 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:33:25,156 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:33:25,169 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:33:25,170 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:33:27,761 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:33:27,761 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:33:30,082 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:33:33,362 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:33:33,362 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:33:33,605 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:34:13,944 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 15:34:13,944 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 15:34:13,963 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 15:35:08,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 15:35:08,197 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: 'AIMessageChunk' object is not subscriptable
+2024-11-28 15:35:40,005 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 15:35:40,764 - INFO -  * Restarting with stat
+2024-11-28 15:35:42,273 - WARNING -  * Debugger is active!
+2024-11-28 15:35:42,275 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:35:42,418 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:35:42,436 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:35:42,436 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:35:44,909 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:35:44,909 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:35:47,191 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:35:50,107 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:35:50,107 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:35:50,320 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:36:34,123 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 15:36:34,123 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 15:36:34,141 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 15:39:24,029 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 15:40:05,305 - INFO - 悼拳 积己 肯丰.
+2024-11-28 15:47:30,211 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 15:47:31,579 - INFO -  * Restarting with stat
+2024-11-28 15:47:33,065 - WARNING -  * Debugger is active!
+2024-11-28 15:47:33,066 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:47:33,141 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:47:33,154 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:47:33,155 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:47:35,931 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:47:35,931 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:47:38,865 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:47:42,274 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:47:42,274 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:47:42,550 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:47:51,415 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\app.py', reloading
+2024-11-28 15:47:52,244 - INFO -  * Restarting with stat
+2024-11-28 15:47:54,000 - WARNING -  * Debugger is active!
+2024-11-28 15:47:54,004 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:47:54,155 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:47:54,172 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:47:54,173 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:47:57,289 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:47:57,289 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:47:59,803 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:48:02,356 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:48:02,356 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:48:02,582 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:48:47,989 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 15:48:47,990 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 15:48:48,007 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 15:49:19,559 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 15:49:20,838 - INFO -  * Restarting with stat
+2024-11-28 15:49:22,476 - WARNING -  * Debugger is active!
+2024-11-28 15:49:22,478 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 15:49:22,668 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 15:49:22,683 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 15:49:22,683 - INFO - 单捞磐 盒且 吝...
+2024-11-28 15:49:25,670 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 15:49:25,670 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 15:49:28,419 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 15:49:31,597 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 15:49:31,597 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 15:49:31,851 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 15:50:17,401 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 15:50:17,402 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 15:50:17,419 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:06:00,541 - INFO -  * Restarting with stat
+2024-11-28 16:06:02,146 - WARNING -  * Debugger is active!
+2024-11-28 16:06:02,148 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:06:06,143 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:06:06,157 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:06:06,157 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:06:08,961 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:06:08,962 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:06:11,426 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:06:14,199 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:06:14,199 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:06:14,426 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:07:01,777 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:07:01,777 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:07:01,802 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:07:25,925 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:07:27,046 - INFO -  * Restarting with stat
+2024-11-28 16:07:46,028 - INFO -  * Restarting with stat
+2024-11-28 16:07:47,601 - WARNING -  * Debugger is active!
+2024-11-28 16:07:47,603 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:07:47,646 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:07:47,661 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:07:47,662 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:07:51,253 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:07:51,253 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:07:54,051 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:07:57,512 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:07:57,513 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:07:57,780 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:08:46,818 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:08:46,819 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:08:46,838 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:27:18,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:27:43,495 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: unsupported operand type(s) for +: 'builtin_function_or_method' and 'str'
+2024-11-28 16:30:19,017 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:30:19,974 - INFO -  * Restarting with stat
+2024-11-28 16:30:21,834 - WARNING -  * Debugger is active!
+2024-11-28 16:30:21,836 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:30:21,908 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:30:21,923 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:30:21,924 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:30:24,452 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:30:24,452 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:30:27,292 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:30:30,207 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:30:30,207 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:30:30,467 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:31:13,664 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:31:13,664 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:31:13,681 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:31:29,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:31:29,657 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: 'AIMessageChunk' object has no attribute 'text'
+2024-11-28 16:32:39,312 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:32:40,454 - INFO -  * Restarting with stat
+2024-11-28 16:32:41,952 - WARNING -  * Debugger is active!
+2024-11-28 16:32:41,953 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:32:42,138 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:32:42,152 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:32:42,152 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:32:42,980 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:32:43,208 - INFO -  * Restarting with stat
+2024-11-28 16:32:44,765 - WARNING -  * Debugger is active!
+2024-11-28 16:32:44,766 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:32:45,170 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:32:45,182 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:32:45,183 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:32:47,893 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:32:47,893 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:32:50,266 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:32:53,630 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:32:53,630 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:32:53,834 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:33:37,813 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:33:39,382 - INFO -  * Restarting with stat
+2024-11-28 16:33:41,215 - WARNING -  * Debugger is active!
+2024-11-28 16:33:41,217 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:33:41,417 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:33:41,432 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:33:41,432 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:33:44,478 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:33:44,478 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:33:47,054 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:33:49,659 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:33:49,660 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:33:49,883 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:34:33,905 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:34:33,905 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:34:33,923 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:34:58,916 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:35:49,153 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: unsupported operand type(s) for +: 'builtin_function_or_method' and 'str'
+2024-11-28 16:36:36,166 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:36:37,207 - INFO -  * Restarting with stat
+2024-11-28 16:36:38,856 - WARNING -  * Debugger is active!
+2024-11-28 16:36:38,858 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:36:38,908 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:36:38,920 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:36:38,920 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:36:41,672 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:36:41,672 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:36:44,185 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:36:46,922 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:36:46,923 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:36:47,227 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:37:37,269 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:37:37,269 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:37:37,286 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:41:58,740 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:41:59,874 - INFO -  * Restarting with stat
+2024-11-28 16:42:01,337 - WARNING -  * Debugger is active!
+2024-11-28 16:42:01,338 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:42:01,403 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:42:01,414 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:42:01,415 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:42:04,151 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:42:04,151 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:42:07,319 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:42:10,381 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:42:10,381 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:42:10,602 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:42:56,372 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:42:56,372 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:42:56,390 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:43:55,059 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:44:28,206 - INFO - 
+
+悼拳 积己 肯丰.
+
+2024-11-28 16:45:27,450 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:45:28,336 - INFO -  * Restarting with stat
+2024-11-28 16:45:29,817 - WARNING -  * Debugger is active!
+2024-11-28 16:45:29,819 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:45:29,919 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:45:29,930 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:45:29,930 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:45:32,534 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:45:32,534 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:45:34,969 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:45:37,913 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:45:37,913 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:45:38,144 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:50:25,050 - INFO -  * Restarting with stat
+2024-11-28 16:50:26,485 - WARNING -  * Debugger is active!
+2024-11-28 16:50:26,487 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:50:27,164 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:50:27,175 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:50:27,175 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:50:30,060 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:50:30,061 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:50:32,810 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:50:36,714 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:50:36,714 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:50:37,003 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:51:20,838 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:51:20,838 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:51:20,855 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:52:39,393 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:53:02,288 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 16:53:02,368 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 16:53:03,142 - INFO -  * Restarting with stat
+2024-11-28 16:53:04,539 - WARNING -  * Debugger is active!
+2024-11-28 16:53:04,541 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 16:53:05,147 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 16:53:05,159 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 16:53:05,160 - INFO - 单捞磐 盒且 吝...
+2024-11-28 16:53:07,904 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 16:53:07,904 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 16:53:10,522 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 16:53:13,804 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 16:53:13,804 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 16:53:14,021 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 16:53:57,777 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 16:53:57,777 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 16:53:57,795 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 16:56:00,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:56:29,826 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 16:57:43,006 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:58:10,867 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 16:59:26,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 16:59:54,231 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:02:41,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:03:09,839 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:04:57,799 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:05:23,064 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:07:51,809 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:08:20,467 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:10:44,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:11:07,282 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:13:20,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:13:38,419 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:15:00,396 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:15:26,385 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:15:42,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:16:27,367 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:19:58,261 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 17:19:59,504 - INFO -  * Restarting with stat
+2024-11-28 17:20:01,358 - WARNING -  * Debugger is active!
+2024-11-28 17:20:01,360 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:20:01,402 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:20:01,413 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:20:01,413 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:20:03,929 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:20:03,929 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:20:06,985 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:20:10,238 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:20:10,239 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:20:10,509 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:20:36,178 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 17:20:37,488 - INFO -  * Restarting with stat
+2024-11-28 17:20:39,189 - WARNING -  * Debugger is active!
+2024-11-28 17:20:39,191 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:20:39,402 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:20:39,414 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:20:39,414 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:20:42,680 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:20:42,680 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:20:45,490 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:20:48,351 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:20:48,352 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:20:48,626 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:20:56,624 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 17:20:57,558 - INFO -  * Restarting with stat
+2024-11-28 17:20:59,291 - WARNING -  * Debugger is active!
+2024-11-28 17:20:59,293 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:20:59,411 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:20:59,423 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:20:59,424 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:21:02,283 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:21:02,283 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:21:04,778 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:21:08,462 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:21:08,463 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:21:08,691 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:21:54,541 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 17:21:54,542 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 17:21:54,560 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 17:22:34,200 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:23:01,423 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:24:09,011 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 17:24:10,037 - INFO -  * Restarting with stat
+2024-11-28 17:24:11,432 - WARNING -  * Debugger is active!
+2024-11-28 17:24:11,434 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:24:11,680 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:24:11,691 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:24:11,692 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:24:14,211 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:24:14,211 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:24:16,597 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:24:19,668 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:24:19,668 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:24:19,876 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:25:00,685 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 17:25:00,685 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 17:25:00,704 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 17:26:08,465 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:26:43,552 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:27:56,793 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 17:27:57,974 - INFO -  * Restarting with stat
+2024-11-28 17:27:59,433 - WARNING -  * Debugger is active!
+2024-11-28 17:27:59,435 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:27:59,564 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:27:59,578 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:27:59,578 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:28:02,087 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:28:02,087 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:28:04,465 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:28:08,241 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:28:08,242 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:28:08,454 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:28:48,768 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 17:28:48,768 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 17:28:48,787 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 17:29:35,247 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:29:59,317 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:29:59,317 - INFO - 悼拳力格:脚犁瓤客 累篮 家府槽狼 厕
+2024-11-28 17:43:41,895 - INFO -  * Restarting with stat
+2024-11-28 17:43:43,351 - WARNING -  * Debugger is active!
+2024-11-28 17:43:43,353 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:43:48,839 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:43:48,850 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:43:48,850 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:43:51,307 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:43:51,307 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:43:53,824 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:43:57,944 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:43:57,944 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:43:58,171 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:44:38,833 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 17:44:38,833 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 17:44:38,852 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 17:51:14,990 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 17:51:15,980 - INFO -  * Restarting with stat
+2024-11-28 17:51:17,386 - WARNING -  * Debugger is active!
+2024-11-28 17:51:17,388 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 17:51:17,430 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 17:51:17,442 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 17:51:17,442 - INFO - 单捞磐 盒且 吝...
+2024-11-28 17:51:19,983 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 17:51:19,983 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 17:51:22,401 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 17:51:25,161 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 17:51:25,162 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 17:51:25,366 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 17:52:05,517 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 17:52:05,517 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 17:52:05,535 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 17:52:38,531 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 17:52:57,125 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 17:52:57,126 - INFO - 悼拳啊荐侥付阑狼 漂魂拱 捞具扁.json俊 历厘登菌嚼聪促.
+2024-11-28 19:08:48,882 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 19:08:50,724 - INFO -  * Restarting with stat
+2024-11-28 19:08:54,364 - WARNING -  * Debugger is active!
+2024-11-28 19:08:54,366 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 19:08:56,084 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 19:08:56,101 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 19:08:56,101 - INFO - 单捞磐 盒且 吝...
+2024-11-28 19:08:58,694 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 19:08:58,694 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 19:09:07,778 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 19:09:10,446 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 19:09:10,446 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 19:09:10,950 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 19:09:52,565 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 19:09:52,565 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 19:09:52,583 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 19:10:05,264 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:10:36,023 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:10:36,024 - INFO - 悼拳啊荐拳肺 富窍绰 模备, 夸夸客 肚配.json俊 历厘登菌嚼聪促.
+2024-11-28 19:11:58,802 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 19:11:59,846 - INFO -  * Restarting with stat
+2024-11-28 19:12:01,270 - WARNING -  * Debugger is active!
+2024-11-28 19:12:01,273 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 19:12:01,413 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 19:12:01,425 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 19:12:01,426 - INFO - 单捞磐 盒且 吝...
+2024-11-28 19:12:03,992 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 19:12:03,992 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 19:12:06,476 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 19:12:09,000 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 19:12:09,000 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 19:12:09,208 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 19:12:53,247 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 19:12:53,247 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 19:12:53,268 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 19:13:05,823 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:13:05,914 - INFO - 没农 傈价: 
+2024-11-28 19:13:05,914 - INFO - 没农 傈价: 力
+2024-11-28 19:13:05,989 - INFO - 没农 傈价: 格
+2024-11-28 19:13:05,989 - INFO - 没农 傈价: :
+2024-11-28 19:13:05,989 - INFO - 没农 傈价:  "
+2024-11-28 19:13:06,112 - INFO - 没农 傈价: 备
+2024-11-28 19:13:06,112 - INFO - 没农 傈价: 备
+2024-11-28 19:13:06,113 - INFO - 没农 傈价: 客
+2024-11-28 19:13:06,240 - INFO - 没农 傈价:  脚
+2024-11-28 19:13:06,241 - INFO - 没农 傈价: 厚
+2024-11-28 19:13:06,242 - INFO - 没农 傈价: 茄
+2024-11-28 19:13:06,419 - INFO - 没农 傈价:  颇
+2024-11-28 19:13:06,420 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:06,421 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:06,551 - INFO - 没农 傈价: 狼
+2024-11-28 19:13:06,553 - INFO - 没农 傈价:  葛
+2024-11-28 19:13:06,554 - INFO - 没农 傈价: 氰
+2024-11-28 19:13:06,682 - INFO - 没农 傈价: "
+
+
+2024-11-28 19:13:06,683 - INFO - 没农 傈价: 烤
+2024-11-28 19:13:06,684 - INFO - 没农 傈价: 朝
+2024-11-28 19:13:06,773 - INFO - 没农 傈价:  烤
+2024-11-28 19:13:06,773 - INFO - 没农 傈价: 朝
+2024-11-28 19:13:06,774 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:07,169 - INFO - 没农 傈价: ,
+2024-11-28 19:13:07,169 - INFO - 没农 傈价:  官
+2024-11-28 19:13:07,170 - INFO - 没农 傈价: 促
+2024-11-28 19:13:07,294 - INFO - 没农 傈价:  加
+2024-11-28 19:13:07,294 - INFO - 没农 傈价: 俊辑
+2024-11-28 19:13:07,295 - INFO - 没农 傈价:  捞
+2024-11-28 19:13:07,421 - INFO - 没农 傈价: 具
+2024-11-28 19:13:07,422 - INFO - 没农 傈价: 扁
+2024-11-28 19:13:07,422 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:07,549 - INFO - 没农 傈价:  亮
+2024-11-28 19:13:07,551 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:07,552 - INFO - 没农 傈价: 窍绰
+2024-11-28 19:13:07,623 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:07,625 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:07,626 - INFO - 没农 傈价:  备
+2024-11-28 19:13:07,750 - INFO - 没农 傈价: 备
+2024-11-28 19:13:07,752 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:07,754 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:07,960 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:07,962 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:07,964 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:08,163 - INFO - 没农 傈价: .
+2024-11-28 19:13:08,165 - INFO - 没农 傈价:  绢
+2024-11-28 19:13:08,166 - INFO - 没农 傈价: 蠢
+2024-11-28 19:13:08,301 - INFO - 没农 傈价:  朝
+2024-11-28 19:13:08,301 - INFO - 没农 傈价: ,
+2024-11-28 19:13:08,302 - INFO - 没农 傈价:  备
+2024-11-28 19:13:08,507 - INFO - 没农 傈价: 备
+2024-11-28 19:13:08,508 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:08,508 - INFO - 没农 傈价:  模
+2024-11-28 19:13:08,598 - INFO - 没农 傈价: 备
+2024-11-28 19:13:08,599 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:08,600 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:08,724 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:08,724 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:08,724 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:08,866 - INFO - 没农 傈价:  林
+2024-11-28 19:13:08,866 - INFO - 没农 傈价: 巩
+2024-11-28 19:13:08,867 - INFO - 没农 傈价: 辑
+2024-11-28 19:13:09,074 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:09,076 - INFO - 没农 傈价:  傈
+2024-11-28 19:13:09,078 - INFO - 没农 傈价: 崔
+2024-11-28 19:13:09,177 - INFO - 没农 傈价: 秦
+2024-11-28 19:13:09,179 - INFO - 没农 傈价: 具
+2024-11-28 19:13:09,180 - INFO - 没农 傈价:  沁
+2024-11-28 19:13:09,311 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:09,313 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:09,313 - INFO - 没农 傈价: .
+2024-11-28 19:13:09,496 - INFO - 没农 傈价:  窍
+2024-11-28 19:13:09,498 - INFO - 没农 傈价: 瘤
+2024-11-28 19:13:09,499 - INFO - 没农 傈价: 父
+2024-11-28 19:13:09,646 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:09,647 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:09,648 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:09,792 - INFO - 没农 傈价: 匙
+2024-11-28 19:13:09,793 - INFO - 没农 傈价:  笼
+2024-11-28 19:13:09,793 - INFO - 没农 傈价: 篮
+2024-11-28 19:13:09,916 - INFO - 没农 傈价:  表
+2024-11-28 19:13:09,917 - INFO - 没农 傈价: 篮
+2024-11-28 19:13:09,918 - INFO - 没农 傈价:  官
+2024-11-28 19:13:10,029 - INFO - 没农 傈价: 促
+2024-11-28 19:13:10,030 - INFO - 没农 傈价: 加
+2024-11-28 19:13:10,032 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:10,194 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:10,196 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:10,198 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:10,307 - INFO - 没农 傈价: ,
+2024-11-28 19:13:10,308 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:10,309 - INFO - 没农 傈价:  辨
+2024-11-28 19:13:10,457 - INFO - 没农 傈价: 篮
+2024-11-28 19:13:10,458 - INFO - 没农 傈价:  概
+2024-11-28 19:13:10,459 - INFO - 没农 傈价: 快
+2024-11-28 19:13:10,603 - INFO - 没农 傈价:  困
+2024-11-28 19:13:10,605 - INFO - 没农 傈价: 氰
+2024-11-28 19:13:10,605 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:10,750 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:10,751 - INFO - 没农 傈价:  汗
+2024-11-28 19:13:10,753 - INFO - 没农 傈价: 棱
+2024-11-28 19:13:10,915 - INFO - 没农 傈价: 沁
+2024-11-28 19:13:10,916 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:10,916 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:11,062 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:11,063 - INFO - 没农 傈价: "
+2024-11-28 19:13:11,063 - INFO - 没农 傈价: 付
+2024-11-28 19:13:11,258 - INFO - 没农 傈价: 过
+2024-11-28 19:13:11,259 - INFO - 没农 傈价: 荤
+2024-11-28 19:13:11,260 - INFO - 没农 傈价: 丛
+2024-11-28 19:13:11,343 - INFO - 没农 傈价: ,
+2024-11-28 19:13:11,344 - INFO - 没农 傈价:  绢
+2024-11-28 19:13:11,345 - INFO - 没农 傈价: 痘
+2024-11-28 19:13:11,498 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:11,499 - INFO - 没农 傈价:  秦
+2024-11-28 19:13:11,501 - INFO - 没农 傈价: 具
+2024-11-28 19:13:11,637 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:11,639 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:11,640 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:11,792 - INFO - 没农 傈价: 匙
+2024-11-28 19:13:11,793 - INFO - 没农 傈价:  笼
+2024-11-28 19:13:11,793 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:13:11,939 - INFO - 没农 傈价:  哎
+2024-11-28 19:13:11,941 - INFO - 没农 傈价:  荐
+2024-11-28 19:13:11,943 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:12,026 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:12,027 - INFO - 没农 傈价: 鳖
+2024-11-28 19:13:12,028 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:12,479 - INFO - 没农 傈价: ?"
+2024-11-28 19:13:12,481 - INFO - 没农 傈价:  备
+2024-11-28 19:13:12,482 - INFO - 没农 傈价: 备
+2024-11-28 19:13:12,483 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:12,484 - INFO - 没农 傈价:  拱
+2024-11-28 19:13:12,485 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:12,579 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:12,580 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:12,582 - INFO - 没农 傈价: .
+2024-11-28 19:13:12,715 - INFO - 没农 傈价:  付
+2024-11-28 19:13:12,717 - INFO - 没农 傈价: 过
+2024-11-28 19:13:12,718 - INFO - 没农 傈价: 荤
+2024-11-28 19:13:13,254 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:13,255 - INFO - 没农 傈价:  固
+2024-11-28 19:13:13,256 - INFO - 没农 傈价: 家
+2024-11-28 19:13:13,257 - INFO - 没农 傈价: 瘤
+2024-11-28 19:13:13,258 - INFO - 没农 傈价: 栏
+2024-11-28 19:13:13,259 - INFO - 没农 傈价: 哥
+2024-11-28 19:13:13,260 - INFO - 没农 傈价:  富
+2024-11-28 19:13:13,261 - INFO - 没农 傈价: 沁
+2024-11-28 19:13:13,261 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:13,406 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:13,407 - INFO - 没农 傈价: ,
+2024-11-28 19:13:13,408 - INFO - 没农 傈价:  "
+2024-11-28 19:13:13,489 - INFO - 没农 傈价: 历
+2024-11-28 19:13:13,490 - INFO - 没农 傈价:  颇
+2024-11-28 19:13:13,491 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:13,599 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:13,600 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:13:13,602 - INFO - 没农 傈价:  唱
+2024-11-28 19:13:13,723 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:13,725 - INFO - 没农 傈价: 搁
+2024-11-28 19:13:13,726 - INFO - 没农 傈价:  蹬
+2024-11-28 19:13:13,865 - INFO - 没农 傈价: ,
+2024-11-28 19:13:13,866 - INFO - 没农 傈价:  备
+2024-11-28 19:13:13,867 - INFO - 没农 傈价: 备
+2024-11-28 19:13:13,985 - INFO - 没农 傈价: 具
+2024-11-28 19:13:13,986 - INFO - 没农 傈价: ."
+
+
+2024-11-28 19:13:13,987 - INFO - 没农 傈价: 弊
+2024-11-28 19:13:14,104 - INFO - 没农 傈价: 繁
+2024-11-28 19:13:14,106 - INFO - 没农 傈价: 单
+2024-11-28 19:13:14,107 - INFO - 没农 傈价:  颇
+2024-11-28 19:13:14,294 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:14,295 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:14,296 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:13:14,383 - INFO - 没农 傈价:  绢
+2024-11-28 19:13:14,385 - INFO - 没农 傈价: 痘
+2024-11-28 19:13:14,386 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:14,490 - INFO - 没农 傈价:  啊
+2024-11-28 19:13:14,492 - INFO - 没农 傈价: 具
+2024-11-28 19:13:14,493 - INFO - 没农 傈价:  且
+2024-11-28 19:13:14,959 - INFO - 没农 傈价: 鳖
+2024-11-28 19:13:14,961 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:14,962 - INFO - 没农 傈价: ?
+2024-11-28 19:13:15,129 - INFO - 没农 傈价:  备
+2024-11-28 19:13:15,129 - INFO - 没农 傈价: 备
+2024-11-28 19:13:15,130 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:15,255 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:15,256 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:15,257 - INFO - 没农 傈价: 促
+2024-11-28 19:13:15,377 - INFO - 没农 傈价:  焊
+2024-11-28 19:13:15,379 - INFO - 没农 傈价: 聪
+2024-11-28 19:13:15,382 - INFO - 没农 傈价:  迫
+2024-11-28 19:13:15,461 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:15,462 - INFO - 没农 傈价:  咯
+2024-11-28 19:13:15,463 - INFO - 没农 傈价: 袋
+2024-11-28 19:13:15,582 - INFO - 没农 傈价:  俺
+2024-11-28 19:13:15,583 - INFO - 没农 傈价: 唱
+2024-11-28 19:13:15,584 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:15,781 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:15,782 - INFO - 没农 傈价: 辑
+2024-11-28 19:13:15,783 - INFO - 没农 傈价:  绢
+2024-11-28 19:13:15,944 - INFO - 没农 傈价: 恫
+2024-11-28 19:13:15,945 - INFO - 没农 傈价:  迫
+2024-11-28 19:13:15,946 - INFO - 没农 傈价: 肺
+2024-11-28 19:13:16,013 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:16,015 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:16,016 - INFO - 没农 傈价:  凯
+2024-11-28 19:13:16,187 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:16,188 - INFO - 没农 傈价: 具
+2024-11-28 19:13:16,190 - INFO - 没农 傈价:  且
+2024-11-28 19:13:16,302 - INFO - 没农 傈价: 瘤
+2024-11-28 19:13:16,304 - INFO - 没农 傈价:  球
+2024-11-28 19:13:16,305 - INFO - 没农 傈价: 哎
+2024-11-28 19:13:16,395 - INFO - 没农 傈价: 啡
+2024-11-28 19:13:16,397 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:16,398 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:16,562 - INFO - 没农 傈价: .
+2024-11-28 19:13:16,565 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:16,566 - INFO - 没农 傈价: 贰
+2024-11-28 19:13:16,737 - INFO - 没农 傈价: 档
+2024-11-28 19:13:16,739 - INFO - 没农 傈价:  备
+2024-11-28 19:13:16,740 - INFO - 没农 傈价: 备
+2024-11-28 19:13:16,826 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:16,828 - INFO - 没农 傈价:  侩
+2024-11-28 19:13:16,829 - INFO - 没农 傈价: 扁
+2024-11-28 19:13:16,999 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:16,999 - INFO - 没农 傈价:  郴
+2024-11-28 19:13:17,000 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:17,190 - INFO - 没农 傈价:  颇
+2024-11-28 19:13:17,191 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:17,191 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:17,277 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:17,278 - INFO - 没农 傈价:  凯
+2024-11-28 19:13:17,279 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:17,393 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:17,395 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:17,397 - INFO - 没农 傈价: .
+2024-11-28 19:13:17,588 - INFO - 没农 傈价:  
+
+
+2024-11-28 19:13:17,589 - INFO - 没农 傈价: 弊
+2024-11-28 19:13:17,591 - INFO - 没农 傈价: 繁
+2024-11-28 19:13:17,685 - INFO - 没农 傈价: 单
+2024-11-28 19:13:17,686 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:17,686 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:17,826 - INFO - 没农 傈价:  凯
+2024-11-28 19:13:17,827 - INFO - 没农 傈价: 磊
+2024-11-28 19:13:17,828 - INFO - 没农 傈价: ,
+2024-11-28 19:13:17,965 - INFO - 没农 傈价:  目
+2024-11-28 19:13:17,966 - INFO - 没农 傈价: 促
+2024-11-28 19:13:17,967 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:18,046 - INFO - 没农 傈价:  咀
+2024-11-28 19:13:18,047 - INFO - 没农 傈价: 磊
+2024-11-28 19:13:18,048 - INFO - 没农 傈价:  滴
+2024-11-28 19:13:18,199 - INFO - 没农 傈价:  俺
+2024-11-28 19:13:18,200 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:18,201 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:18,312 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:18,314 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:18,315 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:18,479 - INFO - 没农 傈价: .
+2024-11-28 19:13:18,480 - INFO - 没农 傈价:  咀
+2024-11-28 19:13:18,480 - INFO - 没农 傈价: 磊
+2024-11-28 19:13:18,669 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:18,670 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:18,671 - INFO - 没农 傈价:  阿
+2024-11-28 19:13:18,818 - INFO - 没农 傈价: 阿
+2024-11-28 19:13:18,819 - INFO - 没农 傈价:  促
+2024-11-28 19:13:18,821 - INFO - 没农 傈价: 弗
+2024-11-28 19:13:18,911 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:18,913 - INFO - 没农 傈价: 覆
+2024-11-28 19:13:18,914 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:19,063 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:19,064 - INFO - 没农 傈价: 妨
+2024-11-28 19:13:19,065 - INFO - 没农 傈价: 廉
+2024-11-28 19:13:19,166 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:19,167 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:19,167 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:19,270 - INFO - 没农 傈价: 单
+2024-11-28 19:13:19,271 - INFO - 没农 傈价: ,
+2024-11-28 19:13:19,271 - INFO - 没农 傈价:  备
+2024-11-28 19:13:19,912 - INFO - 没农 傈价: 备
+2024-11-28 19:13:19,913 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:19,914 - INFO - 没农 傈价:  滴
+2024-11-28 19:13:19,915 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:19,916 - INFO - 没农 傈价: 覆
+2024-11-28 19:13:19,916 - INFO - 没农 傈价:  荤
+2024-11-28 19:13:19,917 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:19,918 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:19,919 - INFO - 没农 傈价:  瞒
+2024-11-28 19:13:19,976 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:19,977 - INFO - 没农 傈价: 痢
+2024-11-28 19:13:19,978 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:20,052 - INFO - 没农 傈价:  茫
+2024-11-28 19:13:20,053 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:20,053 - INFO - 没农 傈价: 具
+2024-11-28 19:13:20,158 - INFO - 没农 傈价: 父
+2024-11-28 19:13:20,158 - INFO - 没农 傈价:  促
+2024-11-28 19:13:20,159 - INFO - 没农 傈价: 澜
+2024-11-28 19:13:20,259 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:20,259 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:13:20,260 - INFO - 没农 傈价:  哎
+2024-11-28 19:13:20,342 - INFO - 没农 傈价:  荐
+2024-11-28 19:13:20,342 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:20,343 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:20,450 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:20,451 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:20,452 - INFO - 没农 傈价: .
+2024-11-28 19:13:20,606 - INFO - 没农 傈价:  备
+2024-11-28 19:13:20,607 - INFO - 没农 傈价: 备
+2024-11-28 19:13:20,607 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:20,719 - INFO - 没农 傈价:  瞒
+2024-11-28 19:13:20,719 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:20,720 - INFO - 没农 傈价: 痢
+2024-11-28 19:13:20,830 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:20,831 - INFO - 没农 傈价:  茫
+2024-11-28 19:13:20,832 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:20,956 - INFO - 没农 傈价: 郴
+2024-11-28 19:13:20,958 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:20,959 - INFO - 没农 傈价: ,
+2024-11-28 19:13:21,118 - INFO - 没农 傈价:  弧
+2024-11-28 19:13:21,119 - INFO - 没农 傈价: 埃
+2024-11-28 19:13:21,120 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:21,275 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:21,275 - INFO - 没农 傈价:  凯
+2024-11-28 19:13:21,276 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:21,387 - INFO - 没农 傈价: 歹
+2024-11-28 19:13:21,387 - INFO - 没农 傈价: 聪
+2024-11-28 19:13:21,388 - INFO - 没农 傈价:  公
+2024-11-28 19:13:21,634 - INFO - 没农 傈价: 矫
+2024-11-28 19:13:21,635 - INFO - 没农 傈价: 公
+2024-11-28 19:13:21,635 - INFO - 没农 傈价: 矫
+2024-11-28 19:13:22,256 - INFO - 没农 傈价: 茄
+2024-11-28 19:13:22,258 - INFO - 没农 傈价:  鲍
+2024-11-28 19:13:22,259 - INFO - 没农 傈价: 拱
+2024-11-28 19:13:22,499 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:22,500 - INFO - 没农 傈价:  酿
+2024-11-28 19:13:22,501 - INFO - 没农 傈价: 酿
+2024-11-28 19:13:22,654 - INFO - 没农 傈价:  泪
+2024-11-28 19:13:22,654 - INFO - 没农 傈价: 甸
+2024-11-28 19:13:22,655 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:22,807 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:22,807 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:22,808 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:23,028 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:23,029 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:23,030 - INFO - 没农 傈价: 鲍
+2024-11-28 19:13:23,120 - INFO - 没农 傈价: 拱
+2024-11-28 19:13:23,121 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:23,122 - INFO - 没农 傈价:  泪
+2024-11-28 19:13:23,319 - INFO - 没农 傈价: 甸
+2024-11-28 19:13:23,321 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:23,322 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:23,438 - INFO - 没农 傈价: 变
+2024-11-28 19:13:23,440 - INFO - 没农 傈价:  沁
+2024-11-28 19:13:23,441 - INFO - 没农 傈价: 瘤
+2024-11-28 19:13:23,589 - INFO - 没农 傈价: 父
+2024-11-28 19:13:23,590 - INFO - 没农 傈价: ,
+2024-11-28 19:13:23,592 - INFO - 没农 傈价:  拌
+2024-11-28 19:13:23,759 - INFO - 没农 傈价: 窜
+2024-11-28 19:13:23,760 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:23,762 - INFO - 没农 傈价:  坷
+2024-11-28 19:13:23,871 - INFO - 没农 傈价: 福
+2024-11-28 19:13:23,872 - INFO - 没农 傈价: 妨
+2024-11-28 19:13:23,873 - INFO - 没农 傈价: 搁
+2024-11-28 19:13:24,022 - INFO - 没农 傈价:  家
+2024-11-28 19:13:24,023 - INFO - 没农 傈价: 府
+2024-11-28 19:13:24,024 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:24,240 - INFO - 没农 傈价:  唱
+2024-11-28 19:13:24,241 - INFO - 没农 傈价: 辑
+2024-11-28 19:13:24,241 - INFO - 没农 傈价:  鲍
+2024-11-28 19:13:24,353 - INFO - 没农 傈价: 拱
+2024-11-28 19:13:24,354 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:24,356 - INFO - 没农 傈价:  柄
+2024-11-28 19:13:24,478 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:24,479 - INFO - 没农 傈价: 朝
+2024-11-28 19:13:24,479 - INFO - 没农 傈价:  荐
+2024-11-28 19:13:24,619 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:24,620 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:24,622 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:24,785 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:24,787 - INFO - 没农 傈价: .
+2024-11-28 19:13:24,788 - INFO - 没农 傈价:  乔
+2024-11-28 19:13:24,912 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:24,914 - INFO - 没农 傈价: 畴
+2024-11-28 19:13:24,916 - INFO - 没农 傈价:  扒
+2024-11-28 19:13:25,025 - INFO - 没农 傈价: 馆
+2024-11-28 19:13:25,026 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:13:25,027 - INFO - 没农 傈价:  登
+2024-11-28 19:13:25,219 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:25,220 - INFO - 没农 傈价:  乐绰
+2024-11-28 19:13:25,220 - INFO - 没农 傈价:  拌
+2024-11-28 19:13:25,350 - INFO - 没农 傈价: 窜
+2024-11-28 19:13:25,352 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:25,353 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:25,589 - INFO - 没农 傈价: 扁
+2024-11-28 19:13:25,590 - INFO - 没农 傈价:  锭
+2024-11-28 19:13:25,591 - INFO - 没农 傈价: 巩
+2024-11-28 19:13:25,682 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:25,684 - INFO - 没农 傈价: 烈
+2024-11-28 19:13:25,685 - INFO - 没农 傈价: .
+2024-11-28 19:13:25,899 - INFO - 没农 傈价:  备
+2024-11-28 19:13:25,901 - INFO - 没农 傈价: 备
+2024-11-28 19:13:25,902 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:26,002 - INFO - 没农 傈价:  度
+2024-11-28 19:13:26,004 - INFO - 没农 傈价: 度
+2024-11-28 19:13:26,005 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:26,151 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:26,152 - INFO - 没农 傈价: 档
+2024-11-28 19:13:26,153 - INFO - 没农 傈价:  积
+2024-11-28 19:13:26,317 - INFO - 没农 傈价: 零
+2024-11-28 19:13:26,318 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:26,319 - INFO - 没农 傈价:  何
+2024-11-28 19:13:26,580 - INFO - 没农 傈价: 殴
+2024-11-28 19:13:26,581 - INFO - 没农 傈价: 秦
+2024-11-28 19:13:26,582 - INFO - 没农 傈价:  鲍
+2024-11-28 19:13:26,863 - INFO - 没农 傈价: 拱
+2024-11-28 19:13:26,865 - INFO - 没农 傈价: 狼
+2024-11-28 19:13:26,866 - INFO - 没农 傈价:  蓖
+2024-11-28 19:13:27,052 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:27,053 - INFO - 没农 傈价:  蓖
+2024-11-28 19:13:27,055 - INFO - 没农 傈价: 付
+2024-11-28 19:13:27,172 - INFO - 没农 傈价: 俺
+2024-11-28 19:13:27,174 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:27,175 - INFO - 没农 傈价:  竞
+2024-11-28 19:13:27,305 - INFO - 没农 傈价: 奎
+2024-11-28 19:13:27,305 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:27,305 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:27,414 - INFO - 没农 傈价: .
+2024-11-28 19:13:27,415 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:27,416 - INFO - 没农 傈价: 繁
+2024-11-28 19:13:27,560 - INFO - 没农 傈价:  促
+2024-11-28 19:13:27,561 - INFO - 没农 傈价: 澜
+2024-11-28 19:13:27,562 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:27,887 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:27,889 - INFO - 没农 傈价:  扒
+2024-11-28 19:13:27,890 - INFO - 没农 傈价: 馆
+2024-11-28 19:13:28,040 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:28,042 - INFO - 没农 傈价:  喘
+2024-11-28 19:13:28,044 - INFO - 没农 傈价: 矾
+2024-11-28 19:13:28,177 - INFO - 没农 傈价:  磊
+2024-11-28 19:13:28,179 - INFO - 没农 傈价: 厘
+2024-11-28 19:13:28,180 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:28,323 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:28,325 - INFO - 没农 傈价:  楷
+2024-11-28 19:13:28,326 - INFO - 没农 傈价: 林
+2024-11-28 19:13:28,442 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:28,443 - INFO - 没农 傈价: 哥
+2024-11-28 19:13:28,444 - INFO - 没农 傈价:  棵
+2024-11-28 19:13:28,621 - INFO - 没农 傈价: 扼
+2024-11-28 19:13:28,622 - INFO - 没农 傈价: 艾
+2024-11-28 19:13:28,622 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:28,864 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:28,865 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:28,867 - INFO - 没农 傈价: 弊
+2024-11-28 19:13:28,988 - INFO - 没农 傈价: 繁
+2024-11-28 19:13:28,989 - INFO - 没农 傈价: 单
+2024-11-28 19:13:28,990 - INFO - 没农 傈价: ,
+2024-11-28 19:13:29,106 - INFO - 没农 傈价:  拌
+2024-11-28 19:13:29,106 - INFO - 没农 傈价: 窜
+2024-11-28 19:13:29,108 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:29,215 - INFO - 没农 傈价:  促
+2024-11-28 19:13:29,217 - INFO - 没农 傈价:  棵
+2024-11-28 19:13:29,218 - INFO - 没农 傈价: 扼
+2024-11-28 19:13:29,305 - INFO - 没农 傈价: 坷
+2024-11-28 19:13:29,306 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:29,308 - INFO - 没农 傈价:  鉴
+2024-11-28 19:13:29,414 - INFO - 没农 傈价: 埃
+2024-11-28 19:13:29,416 - INFO - 没农 傈价: ,
+2024-11-28 19:13:29,417 - INFO - 没农 傈价:  累
+2024-11-28 19:13:29,494 - INFO - 没农 傈价: 篮
+2024-11-28 19:13:29,495 - INFO - 没农 傈价:  付
+2024-11-28 19:13:29,495 - INFO - 没农 傈价: 过
+2024-11-28 19:13:29,579 - INFO - 没农 傈价: 荤
+2024-11-28 19:13:29,582 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:29,582 - INFO - 没农 傈价:  备
+2024-11-28 19:13:29,771 - INFO - 没农 傈价: 备
+2024-11-28 19:13:29,773 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:29,774 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:29,908 - INFO - 没农 傈价:  档
+2024-11-28 19:13:29,909 - INFO - 没农 傈价: 框
+2024-11-28 19:13:29,910 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:30,051 - INFO - 没农 傈价:  没
+2024-11-28 19:13:30,052 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:30,053 - INFO - 没农 傈价: 哥
+2024-11-28 19:13:30,250 - INFO - 没农 傈价:  唱
+2024-11-28 19:13:30,252 - INFO - 没农 傈价: 鸥
+2024-11-28 19:13:30,253 - INFO - 没农 傈价: 车
+2024-11-28 19:13:30,399 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:30,400 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:30,402 - INFO - 没农 傈价: .
+2024-11-28 19:13:30,484 - INFO - 没农 傈价:  "
+2024-11-28 19:13:30,485 - INFO - 没农 傈价: 力
+2024-11-28 19:13:30,486 - INFO - 没农 傈价:  模
+2024-11-28 19:13:30,679 - INFO - 没农 傈价: 备
+2024-11-28 19:13:30,680 - INFO - 没农 傈价: 甸
+2024-11-28 19:13:30,681 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:30,805 - INFO - 没农 傈价:  历
+2024-11-28 19:13:30,807 - INFO - 没农 傈价:  规
+2024-11-28 19:13:30,808 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:30,921 - INFO - 没农 傈价:  见
+2024-11-28 19:13:30,922 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:30,923 - INFO - 没农 傈价:  滚
+2024-11-28 19:13:31,075 - INFO - 没农 傈价: 啡
+2024-11-28 19:13:31,076 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:31,076 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:31,181 - INFO - 没农 傈价: .
+2024-11-28 19:13:31,182 - INFO - 没农 傈价:  力
+2024-11-28 19:13:31,182 - INFO - 没农 傈价:  模
+2024-11-28 19:13:31,320 - INFO - 没农 傈价: 备
+2024-11-28 19:13:31,322 - INFO - 没农 傈价: 甸
+2024-11-28 19:13:31,323 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:31,450 - INFO - 没农 傈价:  茫
+2024-11-28 19:13:31,451 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:31,453 - INFO - 没农 傈价:  林
+2024-11-28 19:13:31,563 - INFO - 没农 傈价: 技夸
+2024-11-28 19:13:31,563 - INFO - 没农 傈价: !"
+2024-11-28 19:13:31,563 - INFO - 没农 傈价:  备
+2024-11-28 19:13:31,711 - INFO - 没农 傈价: 备
+2024-11-28 19:13:31,712 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:31,713 - INFO - 没农 傈价:  模
+2024-11-28 19:13:31,788 - INFO - 没农 傈价: 例
+2024-11-28 19:13:31,790 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:31,791 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:31,908 - INFO - 没农 傈价: 档
+2024-11-28 19:13:31,909 - INFO - 没农 傈价:  付
+2024-11-28 19:13:31,910 - INFO - 没农 傈价: 过
+2024-11-28 19:13:32,095 - INFO - 没农 傈价: 荤
+2024-11-28 19:13:32,096 - INFO - 没农 傈价: 狼
+2024-11-28 19:13:32,097 - INFO - 没农 傈价:  模
+2024-11-28 19:13:32,208 - INFO - 没农 傈价: 备
+2024-11-28 19:13:32,209 - INFO - 没农 傈价: 甸
+2024-11-28 19:13:32,210 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:32,332 - INFO - 没农 傈价:  茫
+2024-11-28 19:13:32,333 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:32,334 - INFO - 没农 傈价: 林
+2024-11-28 19:13:32,436 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:32,437 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:32,439 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:32,530 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:32,532 - INFO - 没农 傈价: 窍瘤
+2024-11-28 19:13:32,533 - INFO - 没农 傈价: 父
+2024-11-28 19:13:32,605 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:32,606 - INFO - 没农 傈价: 力
+2024-11-28 19:13:32,607 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:32,750 - INFO - 没农 傈价:  咯
+2024-11-28 19:13:32,751 - INFO - 没农 傈价: 扁
+2024-11-28 19:13:32,751 - INFO - 没农 傈价: 辑
+2024-11-28 19:13:32,863 - INFO - 没农 傈价:  场
+2024-11-28 19:13:32,863 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:32,864 - INFO - 没农 傈价:  酒
+2024-11-28 19:13:32,950 - INFO - 没农 傈价: 聪
+2024-11-28 19:13:32,951 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:32,952 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:33,069 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:33,071 - INFO - 没农 傈价: .
+2024-11-28 19:13:33,072 - INFO - 没农 傈价:  捞
+2024-11-28 19:13:33,365 - INFO - 没农 傈价: 锅
+2024-11-28 19:13:33,366 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:33,367 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:33,442 - INFO - 没农 傈价:  目
+2024-11-28 19:13:33,443 - INFO - 没农 傈价: 促
+2024-11-28 19:13:33,443 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:33,577 - INFO - 没农 傈价:  荐
+2024-11-28 19:13:33,579 - INFO - 没农 傈价: 冠
+2024-11-28 19:13:33,580 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:33,692 - INFO - 没农 傈价:  辨
+2024-11-28 19:13:33,694 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:33,695 - INFO - 没农 傈价:  阜
+2024-11-28 19:13:33,820 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:33,822 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:33,823 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:33,981 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:33,983 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:33,984 - INFO - 没农 傈价: .
+2024-11-28 19:13:34,061 - INFO - 没农 傈价:  备
+2024-11-28 19:13:34,062 - INFO - 没农 傈价: 备
+2024-11-28 19:13:34,063 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:34,258 - INFO - 没农 傈价:  扁
+2024-11-28 19:13:34,259 - INFO - 没农 傈价: 瘤
+2024-11-28 19:13:34,261 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:34,417 - INFO - 没农 傈价:  惯
+2024-11-28 19:13:34,420 - INFO - 没农 傈价: 戎
+2024-11-28 19:13:34,421 - INFO - 没农 傈价: 秦
+2024-11-28 19:13:34,650 - INFO - 没农 傈价:  荐
+2024-11-28 19:13:34,652 - INFO - 没农 傈价: 冠
+2024-11-28 19:13:34,653 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:34,833 - INFO - 没农 傈价:  单
+2024-11-28 19:13:34,835 - INFO - 没农 傈价: 奔
+2024-11-28 19:13:34,837 - INFO - 没农 傈价: 单
+2024-11-28 19:13:35,030 - INFO - 没农 傈价: 奔
+2024-11-28 19:13:35,031 - INFO - 没农 傈价:  备
+2024-11-28 19:13:35,032 - INFO - 没农 傈价: 福
+2024-11-28 19:13:35,203 - INFO - 没农 傈价: 哥
+2024-11-28 19:13:35,203 - INFO - 没农 傈价:  摹
+2024-11-28 19:13:35,204 - INFO - 没农 傈价: 况
+2024-11-28 19:13:35,468 - INFO - 没农 傈价: 滚
+2024-11-28 19:13:35,469 - INFO - 没农 傈价: 啡
+2024-11-28 19:13:35,469 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:35,597 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:35,597 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:35,598 - INFO - 没农 傈价: 靛
+2024-11-28 19:13:35,777 - INFO - 没农 傈价: 叼
+2024-11-28 19:13:35,788 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:35,789 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:35,907 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:35,907 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:35,907 - INFO - 没农 傈价: 匙
+2024-11-28 19:13:36,093 - INFO - 没农 傈价:  笼
+2024-11-28 19:13:36,094 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:36,094 - INFO - 没农 傈价:  档
+2024-11-28 19:13:36,251 - INFO - 没农 傈价: 馒
+2024-11-28 19:13:36,251 - INFO - 没农 傈价: 沁
+2024-11-28 19:13:36,251 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:36,477 - INFO - 没农 傈价:  锭
+2024-11-28 19:13:36,477 - INFO - 没农 傈价: ,
+2024-11-28 19:13:36,478 - INFO - 没农 傈价:  厚
+2024-11-28 19:13:36,586 - INFO - 没农 傈价: 搅
+2024-11-28 19:13:36,587 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:36,587 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:36,676 - INFO - 没农 傈价:  积
+2024-11-28 19:13:36,676 - INFO - 没农 傈价: 变
+2024-11-28 19:13:36,676 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:36,759 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:36,760 - INFO - 没农 傈价:  
+2024-11-28 19:13:36,760 - INFO - 没农 傈价: 4
+2024-11-28 19:13:36,895 - INFO - 没农 傈价: 俺
+2024-11-28 19:13:36,895 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:36,895 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:37,043 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:37,043 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:37,044 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:37,240 - INFO - 没农 傈价: .
+2024-11-28 19:13:37,240 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:37,242 - INFO - 没农 傈价: 付促
+2024-11-28 19:13:37,382 - INFO - 没农 傈价:  航
+2024-11-28 19:13:37,383 - INFO - 没农 傈价: ,
+2024-11-28 19:13:37,383 - INFO - 没农 傈价:  咯
+2024-11-28 19:13:37,754 - INFO - 没农 傈价: 抚
+2024-11-28 19:13:37,755 - INFO - 没农 傈价: ,
+2024-11-28 19:13:37,756 - INFO - 没农 傈价:  啊
+2024-11-28 19:13:37,912 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:37,912 - INFO - 没农 傈价: ,
+2024-11-28 19:13:37,913 - INFO - 没农 傈价:  败
+2024-11-28 19:13:37,913 - INFO - 没农 傈价: 匡
+2024-11-28 19:13:37,914 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:37,914 - INFO - 没农 傈价: 覆
+2024-11-28 19:13:37,914 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:37,915 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:38,065 - INFO - 没农 傈价: 妨
+2024-11-28 19:13:38,065 - INFO - 没农 傈价: 廉
+2024-11-28 19:13:38,066 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:38,204 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:38,204 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:38,204 - INFO - 没农 傈价: 单
+2024-11-28 19:13:38,288 - INFO - 没农 傈价: ,
+2024-11-28 19:13:38,289 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:38,289 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:38,456 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:38,457 - INFO - 没农 傈价: 啊
+2024-11-28 19:13:38,457 - INFO - 没农 傈价:  啊
+2024-11-28 19:13:38,493 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:38,494 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:38,494 - INFO - 没农 傈价:  亮
+2024-11-28 19:13:38,646 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:38,647 - INFO - 没农 傈价: 窍绰
+2024-11-28 19:13:38,647 - INFO - 没农 傈价:  巴
+2024-11-28 19:13:38,765 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:38,767 - INFO - 没农 傈价:  舅
+2024-11-28 19:13:38,768 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:38,877 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:38,877 - INFO - 没农 傈价: 带
+2024-11-28 19:13:38,877 - INFO - 没农 傈价:  备
+2024-11-28 19:13:38,996 - INFO - 没农 傈价: 备
+2024-11-28 19:13:38,997 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:38,997 - INFO - 没农 傈价:  啊
+2024-11-28 19:13:39,150 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:39,151 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:39,152 - INFO - 没农 傈价: 覆
+2024-11-28 19:13:39,231 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:39,232 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:39,232 - INFO - 没农 傈价: 妨
+2024-11-28 19:13:39,377 - INFO - 没农 傈价: 柳
+2024-11-28 19:13:39,378 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:39,379 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:39,493 - INFO - 没农 傈价:  凯
+2024-11-28 19:13:39,496 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:39,497 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:39,632 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:39,634 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:39,636 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:39,778 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:39,779 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:39,780 - INFO - 没农 傈价: 匙
+2024-11-28 19:13:39,891 - INFO - 没农 傈价:  笼
+2024-11-28 19:13:39,892 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:39,893 - INFO - 没农 傈价:  档
+2024-11-28 19:13:39,975 - INFO - 没农 傈价: 馒
+2024-11-28 19:13:39,976 - INFO - 没农 傈价: 茄
+2024-11-28 19:13:39,977 - INFO - 没农 傈价:  备
+2024-11-28 19:13:40,130 - INFO - 没农 傈价: 备
+2024-11-28 19:13:40,131 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:40,132 - INFO - 没农 傈价:  扁
+2024-11-28 19:13:40,664 - INFO - 没农 傈价: 慧
+2024-11-28 19:13:40,665 - INFO - 没农 傈价:  付
+2024-11-28 19:13:40,667 - INFO - 没农 傈价: 澜
+2024-11-28 19:13:40,752 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:13:40,753 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:40,754 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:40,835 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:40,836 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:40,837 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:40,991 - INFO - 没农 傈价:  林
+2024-11-28 19:13:40,992 - INFO - 没农 傈价: 巩
+2024-11-28 19:13:40,993 - INFO - 没农 傈价: 辑
+2024-11-28 19:13:41,179 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:41,179 - INFO - 没农 傈价:  傈
+2024-11-28 19:13:41,180 - INFO - 没农 傈价: 崔
+2024-11-28 19:13:41,317 - INFO - 没农 傈价: 沁
+2024-11-28 19:13:41,318 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:41,318 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:41,652 - INFO - 没农 傈价: .
+2024-11-28 19:13:41,654 - INFO - 没农 傈价:  磨
+2024-11-28 19:13:41,655 - INFO - 没农 傈价: 磨
+2024-11-28 19:13:41,867 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:41,869 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:41,870 - INFO - 没农 傈价:  扁
+2024-11-28 19:13:41,971 - INFO - 没农 傈价: 坏
+2024-11-28 19:13:41,974 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:41,975 - INFO - 没农 傈价: 哥
+2024-11-28 19:13:42,056 - INFO - 没农 傈价:  林
+2024-11-28 19:13:42,057 - INFO - 没农 傈价: 巩
+2024-11-28 19:13:42,058 - INFO - 没农 傈价: 辑
+2024-11-28 19:13:42,170 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:42,170 - INFO - 没农 傈价:  罐
+2024-11-28 19:13:42,171 - INFO - 没农 傈价: 酒
+2024-11-28 19:13:42,284 - INFO - 没农 傈价: 甸
+2024-11-28 19:13:42,286 - INFO - 没农 傈价: 看
+2024-11-28 19:13:42,287 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:42,366 - INFO - 没农 傈价: ,
+2024-11-28 19:13:42,367 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:42,368 - INFO - 没农 傈价: 镑
+2024-11-28 19:13:42,537 - INFO - 没农 傈价: 俊
+2024-11-28 19:13:42,537 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:42,538 - INFO - 没农 傈价:  馆
+2024-11-28 19:13:42,731 - INFO - 没农 傈价: 娄
+2024-11-28 19:13:42,732 - INFO - 没农 傈价: 馆
+2024-11-28 19:13:42,734 - INFO - 没农 傈价: 娄
+2024-11-28 19:13:42,956 - INFO - 没农 傈价:  蝴
+2024-11-28 19:13:42,957 - INFO - 没农 傈价: 唱
+2024-11-28 19:13:42,958 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:43,260 - INFO - 没农 傈价:  畴
+2024-11-28 19:13:43,262 - INFO - 没农 傈价: 鄂
+2024-11-28 19:13:43,263 - INFO - 没农 傈价:  付
+2024-11-28 19:13:43,391 - INFO - 没农 傈价: 贱
+2024-11-28 19:13:43,393 - INFO - 没农 傈价: 豪
+2024-11-28 19:13:43,394 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:43,519 - INFO - 没农 傈价:  甸
+2024-11-28 19:13:43,520 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:43,521 - INFO - 没农 傈价:  乐
+2024-11-28 19:13:43,768 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:43,769 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:43,770 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:43,959 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:13:43,960 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:43,960 - INFO - 没农 傈价: 犯
+2024-11-28 19:13:44,104 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:44,105 - INFO - 没农 傈价:  备
+2024-11-28 19:13:44,106 - INFO - 没农 傈价: 备
+2024-11-28 19:13:44,289 - INFO - 没农 傈价: 狼
+2024-11-28 19:13:44,290 - INFO - 没农 傈价:  葛
+2024-11-28 19:13:44,290 - INFO - 没农 傈价: 氰
+2024-11-28 19:13:44,399 - INFO - 没农 傈价: 篮
+2024-11-28 19:13:44,400 - INFO - 没农 傈价:  场
+2024-11-28 19:13:44,400 - INFO - 没农 傈价: 捞
+2024-11-28 19:13:44,487 - INFO - 没农 傈价:  车
+2024-11-28 19:13:44,487 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:44,488 - INFO - 没农 傈价: ,
+2024-11-28 19:13:44,591 - INFO - 没农 傈价:  备
+2024-11-28 19:13:44,592 - INFO - 没农 傈价: 备
+2024-11-28 19:13:44,592 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:44,732 - INFO - 没农 傈价:  模
+2024-11-28 19:13:44,734 - INFO - 没农 傈价: 备
+2024-11-28 19:13:44,735 - INFO - 没农 傈价: 客
+2024-11-28 19:13:44,875 - INFO - 没农 傈价:  窃
+2024-11-28 19:13:44,875 - INFO - 没农 傈价: 膊
+2024-11-28 19:13:44,876 - INFO - 没农 傈价:  巩
+2024-11-28 19:13:45,127 - INFO - 没农 傈价: 力
+2024-11-28 19:13:45,127 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:45,127 - INFO - 没农 傈价:  秦
+2024-11-28 19:13:45,262 - INFO - 没农 傈价: 搬
+2024-11-28 19:13:45,263 - INFO - 没农 傈价: 窍绰
+2024-11-28 19:13:45,264 - INFO - 没农 傈价:  单
+2024-11-28 19:13:45,381 - INFO - 没农 傈价:  倔
+2024-11-28 19:13:45,382 - INFO - 没农 傈价: 付
+2024-11-28 19:13:45,384 - INFO - 没农 傈价: 唱
+2024-11-28 19:13:45,476 - INFO - 没农 傈价:  吝
+2024-11-28 19:13:45,477 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:45,478 - INFO - 没农 傈价: 茄
+2024-11-28 19:13:45,824 - INFO - 没农 傈价: 瘤
+2024-11-28 19:13:45,825 - INFO - 没农 傈价: 甫
+2024-11-28 19:13:45,826 - INFO - 没农 傈价:  硅
+2024-11-28 19:13:45,827 - INFO - 没农 傈价: 快
+2024-11-28 19:13:45,828 - INFO - 没农 傈价: 霸
+2024-11-28 19:13:45,828 - INFO - 没农 傈价:  登
+2024-11-28 19:13:45,829 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:45,830 - INFO - 没农 傈价: 绢
+2024-11-28 19:13:45,830 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:45,977 - INFO - 没农 傈价: .
+2024-11-28 19:13:45,979 - INFO - 没农 傈价:  弊
+2024-11-28 19:13:45,981 - INFO - 没农 傈价: 府
+2024-11-28 19:13:46,161 - INFO - 没农 傈价: 绊
+2024-11-28 19:13:46,162 - INFO - 没农 傈价:  绢
+2024-11-28 19:13:46,163 - INFO - 没农 傈价: 妨
+2024-11-28 19:13:46,264 - INFO - 没农 傈价: 框
+2024-11-28 19:13:46,265 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:46,267 - INFO - 没农 傈价:  必
+2024-11-28 19:13:46,502 - INFO - 没农 傈价: 汗
+2024-11-28 19:13:46,503 - INFO - 没农 傈价: 窍绰
+2024-11-28 19:13:46,505 - INFO - 没农 傈价:  单
+2024-11-28 19:13:46,685 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:46,687 - INFO - 没农 傈价:  度
+2024-11-28 19:13:46,688 - INFO - 没农 傈价: 度
+2024-11-28 19:13:46,766 - INFO - 没农 傈价: 窃
+2024-11-28 19:13:46,767 - INFO - 没农 傈价: 挥
+2024-11-28 19:13:46,767 - INFO - 没农 傈价: 父
+2024-11-28 19:13:46,888 - INFO - 没农 傈价:  酒
+2024-11-28 19:13:46,890 - INFO - 没农 傈价: 聪
+2024-11-28 19:13:46,891 - INFO - 没农 傈价: 扼
+2024-11-28 19:13:47,662 - INFO - 没农 傈价:  侩
+2024-11-28 19:13:47,663 - INFO - 没农 傈价: 扁
+2024-11-28 19:13:47,665 - INFO - 没农 傈价: 客
+2024-11-28 19:13:47,776 - INFO - 没农 傈价:  模
+2024-11-28 19:13:47,778 - INFO - 没农 傈价: 例
+2024-11-28 19:13:47,779 - INFO - 没农 傈价: 窃
+2024-11-28 19:13:48,484 - INFO - 没农 傈价: 档
+2024-11-28 19:13:48,485 - INFO - 没农 傈价:  吝
+2024-11-28 19:13:48,487 - INFO - 没农 傈价: 夸
+2024-11-28 19:13:48,488 - INFO - 没农 傈价: 窍
+2024-11-28 19:13:48,489 - INFO - 没农 傈价: 促
+2024-11-28 19:13:48,490 - INFO - 没农 傈价: 绰
+2024-11-28 19:13:48,491 - INFO - 没农 傈价:  背
+2024-11-28 19:13:48,492 - INFO - 没农 傈价: 绕
+2024-11-28 19:13:48,492 - INFO - 没农 傈价: 阑
+2024-11-28 19:13:48,555 - INFO - 没农 傈价:  掘
+2024-11-28 19:13:48,556 - INFO - 没农 傈价: 菌
+2024-11-28 19:13:48,557 - INFO - 没农 傈价: 翠
+2024-11-28 19:13:48,557 - INFO - 没农 傈价: 聪促
+2024-11-28 19:13:48,558 - INFO - 没农 傈价: .
+
+2024-11-28 19:13:48,560 - INFO - 没农 傈价: 
+2024-11-28 19:13:48,560 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:13:48,561 - INFO - 悼拳啊备备客 脚厚茄 颇鄂 巩狼 葛氰.json俊 历厘登菌嚼聪促.
+2024-11-28 19:17:37,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:17:37,321 - INFO - 没农 傈价: 
+2024-11-28 19:17:37,322 - INFO - 没农 傈价: 力
+2024-11-28 19:17:37,516 - INFO - 没农 傈价: 格
+2024-11-28 19:17:37,518 - INFO - 没农 傈价: :
+2024-11-28 19:17:37,519 - INFO - 没农 傈价:  "
+2024-11-28 19:17:37,849 - INFO - 没农 傈价: 滴
+2024-11-28 19:17:37,851 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:37,852 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:38,024 - INFO - 没农 傈价: 狼
+2024-11-28 19:17:38,025 - INFO - 没农 傈价:  背
+2024-11-28 19:17:38,026 - INFO - 没农 傈价: 绕
+2024-11-28 19:17:38,398 - INFO - 没农 傈价: "
+
+
+2024-11-28 19:17:38,400 - INFO - 没农 傈价: 烤
+2024-11-28 19:17:38,401 - INFO - 没农 傈价: 朝
+2024-11-28 19:17:38,550 - INFO - 没农 傈价:  绢
+2024-11-28 19:17:38,551 - INFO - 没农 傈价: 蠢
+2024-11-28 19:17:38,553 - INFO - 没农 傈价:  表
+2024-11-28 19:17:38,727 - INFO - 没农 傈价: 篮
+2024-11-28 19:17:38,727 - INFO - 没农 傈价:  剑
+2024-11-28 19:17:38,728 - INFO - 没农 傈价: 俊
+2024-11-28 19:17:38,976 - INFO - 没农 傈价:  茄
+2024-11-28 19:17:38,977 - INFO - 没农 傈价:  付
+2024-11-28 19:17:38,977 - INFO - 没农 傈价: 府
+2024-11-28 19:17:39,158 - INFO - 没农 傈价: 狼
+2024-11-28 19:17:39,159 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:39,159 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:39,295 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:39,295 - INFO - 没农 傈价: 啊
+2024-11-28 19:17:39,295 - INFO - 没农 傈价:  混
+2024-11-28 19:17:39,439 - INFO - 没农 傈价: 疽
+2024-11-28 19:17:39,440 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:39,440 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:39,812 - INFO - 没农 傈价: .
+2024-11-28 19:17:39,813 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:39,813 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:39,814 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:39,814 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:39,815 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:39,973 - INFO - 没农 傈价:  朝
+2024-11-28 19:17:39,974 - INFO - 没农 傈价: 付促
+2024-11-28 19:17:39,975 - INFO - 没农 傈价:  概
+2024-11-28 19:17:40,657 - INFO - 没农 傈价: 快
+2024-11-28 19:17:40,658 - INFO - 没农 傈价:  凯
+2024-11-28 19:17:40,659 - INFO - 没农 傈价: 缴
+2024-11-28 19:17:40,880 - INFO - 没农 傈价: 洒
+2024-11-28 19:17:40,881 - INFO - 没农 傈价:  顶
+2024-11-28 19:17:40,881 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:40,984 - INFO - 没农 傈价:  颇
+2024-11-28 19:17:40,984 - INFO - 没农 傈价: 哥
+2024-11-28 19:17:40,985 - INFO - 没农 傈价:  奔
+2024-11-28 19:17:41,129 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:41,130 - INFO - 没农 傈价:  父
+2024-11-28 19:17:41,131 - INFO - 没农 傈价: 甸
+2024-11-28 19:17:41,261 - INFO - 没农 傈价: 菌
+2024-11-28 19:17:41,263 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:41,264 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:41,470 - INFO - 没农 傈价: .
+2024-11-28 19:17:41,470 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:41,471 - INFO - 没农 傈价: 繁
+2024-11-28 19:17:41,645 - INFO - 没农 傈价: 单
+2024-11-28 19:17:41,646 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:41,646 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:42,234 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:42,234 - INFO - 没农 傈价: 狼
+2024-11-28 19:17:42,235 - INFO - 没农 傈价:  传
+2024-11-28 19:17:42,602 - INFO - 没农 傈价: 篮
+2024-11-28 19:17:42,604 - INFO - 没农 傈价:  绢
+2024-11-28 19:17:42,605 - INFO - 没农 傈价: 滴
+2024-11-28 19:17:42,819 - INFO - 没农 傈价: 款
+2024-11-28 19:17:42,819 - INFO - 没农 傈价:  镑
+2024-11-28 19:17:42,820 - INFO - 没农 傈价: 俊
+2024-11-28 19:17:42,959 - INFO - 没农 傈价:  利
+2024-11-28 19:17:42,959 - INFO - 没农 傈价: 览
+2024-11-28 19:17:42,959 - INFO - 没农 傈价: 窍扁
+2024-11-28 19:17:43,111 - INFO - 没农 傈价:  困
+2024-11-28 19:17:43,112 - INFO - 没农 傈价: 秦
+2024-11-28 19:17:43,112 - INFO - 没农 傈价:  呈
+2024-11-28 19:17:43,360 - INFO - 没农 傈价: 公
+2024-11-28 19:17:43,361 - INFO - 没农 傈价:  累
+2024-11-28 19:17:43,361 - INFO - 没农 傈价: 酒
+2024-11-28 19:17:43,513 - INFO - 没农 傈价: 辑
+2024-11-28 19:17:43,513 - INFO - 没农 傈价: ,
+2024-11-28 19:17:43,514 - INFO - 没农 傈价:  观
+2024-11-28 19:17:43,622 - INFO - 没农 傈价: 狼
+2024-11-28 19:17:43,623 - INFO - 没农 傈价:  技
+2024-11-28 19:17:43,623 - INFO - 没农 傈价: 惑
+2024-11-28 19:17:43,815 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:43,815 - INFO - 没农 傈价:  力
+2024-11-28 19:17:43,816 - INFO - 没农 傈价: 措
+2024-11-28 19:17:44,057 - INFO - 没农 傈价: 肺
+2024-11-28 19:17:44,058 - INFO - 没农 傈价:  杭
+2024-11-28 19:17:44,059 - INFO - 没农 傈价:  荐
+2024-11-28 19:17:44,170 - INFO - 没农 傈价:  绝
+2024-11-28 19:17:44,171 - INFO - 没农 傈价: 菌
+2024-11-28 19:17:44,171 - INFO - 没农 傈价: 翠
+2024-11-28 19:17:44,469 - INFO - 没农 傈价: 聪促
+2024-11-28 19:17:44,469 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:17:44,470 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:44,848 - INFO - 没农 傈价: 蠢
+2024-11-28 19:17:44,848 - INFO - 没农 傈价:  朝
+2024-11-28 19:17:44,848 - INFO - 没农 傈价: ,
+2024-11-28 19:17:45,125 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:45,126 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:45,126 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:45,250 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:45,251 - INFO - 没农 傈价:  奔
+2024-11-28 19:17:45,251 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:45,984 - INFO - 没农 傈价:  颇
+2024-11-28 19:17:45,985 - INFO - 没农 傈价: 促
+2024-11-28 19:17:45,987 - INFO - 没农 傈价: 啊
+2024-11-28 19:17:45,988 - INFO - 没农 傈价:  传
+2024-11-28 19:17:45,988 - INFO - 没农 傈价: 何
+2024-11-28 19:17:45,989 - INFO - 没农 傈价: 脚
+2024-11-28 19:17:46,353 - INFO - 没农 傈价:  蝴
+2024-11-28 19:17:46,353 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:46,354 - INFO - 没农 傈价:  惯
+2024-11-28 19:17:46,524 - INFO - 没农 傈价: 斑
+2024-11-28 19:17:46,525 - INFO - 没农 傈价: 沁
+2024-11-28 19:17:46,525 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:46,755 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:46,756 - INFO - 没农 傈价: .
+2024-11-28 19:17:46,756 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:46,947 - INFO - 没农 傈价:  蝴
+2024-11-28 19:17:46,948 - INFO - 没农 傈价: 篮
+2024-11-28 19:17:46,949 - INFO - 没农 傈价:  呈
+2024-11-28 19:17:47,134 - INFO - 没农 傈价: 公
+2024-11-28 19:17:47,134 - INFO - 没农 傈价:  灌
+2024-11-28 19:17:47,135 - INFO - 没农 傈价: 酒
+2024-11-28 19:17:47,330 - INFO - 没农 傈价: 辑
+2024-11-28 19:17:47,332 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:47,334 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:47,480 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:47,480 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:47,481 - INFO - 没农 傈价:  传
+2024-11-28 19:17:47,615 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:47,616 - INFO - 没农 傈价:  何
+2024-11-28 19:17:47,616 - INFO - 没农 傈价: 继
+2024-11-28 19:17:48,089 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:48,090 - INFO - 没农 傈价: 父
+2024-11-28 19:17:48,091 - INFO - 没农 傈价: ,
+2024-11-28 19:17:48,288 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:48,290 - INFO - 没农 傈价: 巴
+2024-11-28 19:17:48,291 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:48,610 - INFO - 没农 傈价:  公
+2024-11-28 19:17:48,611 - INFO - 没农 傈价: 均
+2024-11-28 19:17:48,612 - INFO - 没农 傈价: 牢
+2024-11-28 19:17:48,812 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:48,813 - INFO - 没农 傈价:  泵
+2024-11-28 19:17:48,815 - INFO - 没农 傈价: 陛
+2024-11-28 19:17:48,925 - INFO - 没农 傈价: 沁
+2024-11-28 19:17:48,926 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:48,926 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:49,126 - INFO - 没农 傈价: .
+2024-11-28 19:17:49,127 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:49,127 - INFO - 没农 傈价: 贰
+2024-11-28 19:17:49,344 - INFO - 没农 傈价: 辑
+2024-11-28 19:17:49,344 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:49,345 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:49,590 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:49,590 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:49,591 - INFO - 没农 傈价:  歹
+2024-11-28 19:17:49,787 - INFO - 没农 傈价:  表
+2024-11-28 19:17:49,788 - INFO - 没农 傈价: 霸
+2024-11-28 19:17:49,788 - INFO - 没农 傈价:  颇
+2024-11-28 19:17:49,979 - INFO - 没农 傈价: 辑
+2024-11-28 19:17:49,979 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:49,979 - INFO - 没农 傈价:  蝴
+2024-11-28 19:17:50,137 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:50,141 - INFO - 没农 傈价:  公
+2024-11-28 19:17:50,142 - INFO - 没农 傈价: 均
+2024-11-28 19:17:50,250 - INFO - 没农 傈价: 牢
+2024-11-28 19:17:50,251 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:50,251 - INFO - 没农 傈价:  茫
+2024-11-28 19:17:50,441 - INFO - 没农 傈价: 酒
+2024-11-28 19:17:50,442 - INFO - 没农 傈价: 焊
+2024-11-28 19:17:50,442 - INFO - 没农 傈价: 扁
+2024-11-28 19:17:50,549 - INFO - 没农 傈价: 肺
+2024-11-28 19:17:50,550 - INFO - 没农 傈价:  沁
+2024-11-28 19:17:50,550 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:50,772 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:50,772 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:17:50,773 - INFO - 没农 傈价: 弊
+2024-11-28 19:17:51,092 - INFO - 没农 傈价: 繁
+2024-11-28 19:17:51,093 - INFO - 没农 傈价: 单
+2024-11-28 19:17:51,094 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:52,098 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:52,099 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:52,099 - INFO - 没农 傈价: 啊
+2024-11-28 19:17:52,233 - INFO - 没农 傈价:  歹
+2024-11-28 19:17:52,233 - INFO - 没农 傈价:  表
+2024-11-28 19:17:52,233 - INFO - 没农 傈价: 霸
+2024-11-28 19:17:52,358 - INFO - 没农 傈价:  颇
+2024-11-28 19:17:52,358 - INFO - 没农 傈价: 促
+2024-11-28 19:17:52,359 - INFO - 没农 傈价:  焊
+2024-11-28 19:17:52,578 - INFO - 没农 傈价: 聪
+2024-11-28 19:17:52,578 - INFO - 没农 傈价: ,
+2024-11-28 19:17:52,578 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:52,714 - INFO - 没农 傈价:  蝴
+2024-11-28 19:17:52,716 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:52,716 - INFO - 没农 傈价:  官
+2024-11-28 19:17:52,958 - INFO - 没农 傈价: 肺
+2024-11-28 19:17:52,960 - INFO - 没农 傈价:  秦
+2024-11-28 19:17:52,961 - INFO - 没农 傈价: 啊
+2024-11-28 19:17:53,181 - INFO - 没农 傈价:  栋
+2024-11-28 19:17:53,182 - INFO - 没农 傈价: 乐
+2024-11-28 19:17:53,183 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:53,351 - INFO - 没农 傈价:  奴
+2024-11-28 19:17:53,351 - INFO - 没农 傈价:  备
+2024-11-28 19:17:53,352 - INFO - 没农 傈价: 港
+2024-11-28 19:17:53,512 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:53,513 - INFO - 没农 傈价: 菌
+2024-11-28 19:17:53,513 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:53,684 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:53,684 - INFO - 没农 傈价: .
+2024-11-28 19:17:53,685 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:53,896 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:53,897 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:53,898 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:54,200 - INFO - 没农 傈价:  传
+2024-11-28 19:17:54,201 - INFO - 没农 傈价: 何
+2024-11-28 19:17:54,201 - INFO - 没农 傈价: 脚
+2024-11-28 19:17:54,472 - INFO - 没农 傈价:  寝
+2024-11-28 19:17:54,472 - INFO - 没农 傈价: 蝴
+2024-11-28 19:17:54,472 - INFO - 没农 傈价: 俊
+2024-11-28 19:17:54,881 - INFO - 没农 傈价:  愁
+2024-11-28 19:17:54,882 - INFO - 没农 傈价: 扼
+2024-11-28 19:17:54,883 - INFO - 没农 傈价: 哥
+2024-11-28 19:17:55,333 - INFO - 没农 傈价:  奔
+2024-11-28 19:17:55,335 - INFO - 没农 傈价: 肺
+2024-11-28 19:17:55,336 - INFO - 没农 傈价:  档
+2024-11-28 19:17:55,458 - INFO - 没农 傈价: 噶
+2024-11-28 19:17:55,458 - INFO - 没农 傈价: 闷
+2024-11-28 19:17:55,458 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:55,737 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:55,738 - INFO - 没农 傈价: .
+2024-11-28 19:17:55,740 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:55,884 - INFO - 没农 傈价:  第
+2024-11-28 19:17:55,885 - INFO - 没农 傈价: 肺
+2024-11-28 19:17:55,887 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:56,175 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:56,176 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:56,177 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:56,375 - INFO - 没农 傈价:  歹
+2024-11-28 19:17:56,376 - INFO - 没农 傈价:  捞
+2024-11-28 19:17:56,376 - INFO - 没农 傈价: 惑
+2024-11-28 19:17:56,756 - INFO - 没农 傈价:  蝴
+2024-11-28 19:17:56,756 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:56,757 - INFO - 没农 傈价:  唱
+2024-11-28 19:17:56,879 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:56,880 - INFO - 没农 傈价:  镑
+2024-11-28 19:17:56,881 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:57,002 - INFO - 没农 傈价:  颇
+2024-11-28 19:17:57,003 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:57,003 - INFO - 没农 傈价:  臼
+2024-11-28 19:17:57,257 - INFO - 没农 傈价: 扁
+2024-11-28 19:17:57,257 - INFO - 没农 傈价: 肺
+2024-11-28 19:17:57,257 - INFO - 没农 傈价:  搬
+2024-11-28 19:17:57,357 - INFO - 没农 傈价: 缴
+2024-11-28 19:17:57,359 - INFO - 没农 傈价: 沁
+2024-11-28 19:17:57,360 - INFO - 没农 傈价: 绢
+2024-11-28 19:17:57,600 - INFO - 没农 傈价: 夸
+2024-11-28 19:17:57,601 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:17:57,602 - INFO - 没农 傈价: 弊
+2024-11-28 19:17:58,200 - INFO - 没农 傈价: 繁
+2024-11-28 19:17:58,201 - INFO - 没农 傈价: 单
+2024-11-28 19:17:58,201 - INFO - 没农 傈价:  滴
+2024-11-28 19:17:58,206 - INFO - 没农 傈价: 歹
+2024-11-28 19:17:58,206 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:58,206 - INFO - 没农 傈价: 啊
+2024-11-28 19:17:58,215 - INFO - 没农 傈价:  歹
+2024-11-28 19:17:58,216 - INFO - 没农 傈价:  捞
+2024-11-28 19:17:58,216 - INFO - 没农 傈价: 惑
+2024-11-28 19:17:58,632 - INFO - 没农 傈价:  蝴
+2024-11-28 19:17:58,633 - INFO - 没农 傈价: 捞
+2024-11-28 19:17:58,635 - INFO - 没农 傈价:  唱
+2024-11-28 19:17:58,831 - INFO - 没农 傈价: 绰
+2024-11-28 19:17:58,832 - INFO - 没农 傈价:  镑
+2024-11-28 19:17:58,833 - INFO - 没农 傈价: 阑
+2024-11-28 19:17:58,943 - INFO - 没农 傈价:  颇
+2024-11-28 19:17:58,944 - INFO - 没农 傈价: 瘤
+2024-11-28 19:17:58,945 - INFO - 没农 傈价:  臼
+2024-11-28 19:17:59,146 - INFO - 没农 傈价: 磊
+2024-11-28 19:17:59,148 - INFO - 没农 傈价: ,
+2024-11-28 19:17:59,148 - INFO - 没农 傈价:  弊
+2024-11-28 19:17:59,391 - INFO - 没农 傈价: 狼
+2024-11-28 19:17:59,392 - INFO - 没农 傈价:  奔
+2024-11-28 19:17:59,393 - INFO - 没农 傈价: 篮
+2024-11-28 19:17:59,673 - INFO - 没农 傈价:  痢
+2024-11-28 19:17:59,675 - INFO - 没农 傈价: 痢
+2024-11-28 19:17:59,677 - INFO - 没农 傈价:  绢
+2024-11-28 19:17:59,789 - INFO - 没农 傈价: 滴
+2024-11-28 19:17:59,790 - INFO - 没农 傈价: 况
+2024-11-28 19:17:59,791 - INFO - 没农 傈价: 脸
+2024-11-28 19:18:00,005 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:00,007 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:00,007 - INFO - 没农 傈价: .
+2024-11-28 19:18:00,156 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:00,157 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:00,158 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:00,304 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:00,306 - INFO - 没农 傈价:  捞
+2024-11-28 19:18:00,307 - INFO - 没农 傈价: 繁
+2024-11-28 19:18:00,696 - INFO - 没农 傈价:  惑
+2024-11-28 19:18:00,696 - INFO - 没农 傈价: 炔
+2024-11-28 19:18:00,696 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:00,839 - INFO - 没农 傈价:  阂
+2024-11-28 19:18:00,839 - INFO - 没农 傈价: 祈
+2024-11-28 19:18:00,840 - INFO - 没农 傈价: 窍
+2024-11-28 19:18:01,065 - INFO - 没农 傈价: 促
+2024-11-28 19:18:01,066 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:01,067 - INFO - 没农 傈价:  积
+2024-11-28 19:18:01,240 - INFO - 没农 傈价: 阿
+2024-11-28 19:18:01,242 - INFO - 没农 傈价: 沁
+2024-11-28 19:18:01,243 - INFO - 没农 傈价: 栏
+2024-11-28 19:18:01,386 - INFO - 没农 傈价: 唱
+2024-11-28 19:18:01,388 - INFO - 没农 傈价: ,
+2024-11-28 19:18:01,390 - INFO - 没农 傈价:  蝴
+2024-11-28 19:18:01,575 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:01,577 - INFO - 没农 傈价:  何
+2024-11-28 19:18:01,578 - INFO - 没农 傈价: 寂
+2024-11-28 19:18:01,847 - INFO - 没农 傈价: 辑
+2024-11-28 19:18:01,848 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:01,848 - INFO - 没农 傈价:  救
+2024-11-28 19:18:02,311 - INFO - 没农 傈价: 等
+2024-11-28 19:18:02,312 - INFO - 没农 傈价: 促
+2024-11-28 19:18:02,313 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:02,430 - INFO - 没农 傈价:  积
+2024-11-28 19:18:02,431 - INFO - 没农 傈价: 阿
+2024-11-28 19:18:02,431 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:02,634 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:02,634 - INFO - 没农 傈价: 措
+2024-11-28 19:18:02,635 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:02,771 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:02,772 - INFO - 没农 傈价: 菌
+2024-11-28 19:18:02,772 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:02,997 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:02,999 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:03,000 - INFO - 没农 傈价: 窍瘤
+2024-11-28 19:18:03,177 - INFO - 没农 傈价: 父
+2024-11-28 19:18:03,178 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:03,179 - INFO - 没农 傈价: 蠢
+2024-11-28 19:18:03,342 - INFO - 没农 傈价:  朝
+2024-11-28 19:18:03,343 - INFO - 没农 傈价: ,
+2024-11-28 19:18:03,344 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:03,536 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:03,537 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:03,538 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:03,720 - INFO - 没农 傈价:  奔
+2024-11-28 19:18:03,722 - INFO - 没农 傈价:  救
+2024-11-28 19:18:03,723 - INFO - 没农 傈价: 俊辑
+2024-11-28 19:18:03,836 - INFO - 没农 傈价:  辨
+2024-11-28 19:18:03,837 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:03,837 - INFO - 没农 傈价:  酪
+2024-11-28 19:18:03,951 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:03,952 - INFO - 没农 傈价: 滚
+2024-11-28 19:18:03,954 - INFO - 没农 傈价: 啡
+2024-11-28 19:18:04,118 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:04,119 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:04,119 - INFO - 没农 傈价: .
+2024-11-28 19:18:04,768 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:04,768 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:04,769 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:04,938 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:04,939 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:04,939 - INFO - 没农 傈价: 狄
+2024-11-28 19:18:05,333 - INFO - 没农 傈价:  加
+2024-11-28 19:18:05,335 - INFO - 没农 傈价: 俊辑
+2024-11-28 19:18:05,336 - INFO - 没农 傈价:  规
+2024-11-28 19:18:05,533 - INFO - 没农 傈价: 氢
+2024-11-28 19:18:05,535 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:05,536 - INFO - 没农 傈价:  酪
+2024-11-28 19:18:05,696 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:05,698 - INFO - 没农 傈价: ,
+2024-11-28 19:18:05,699 - INFO - 没农 傈价:  公
+2024-11-28 19:18:05,935 - INFO - 没农 傈价: 辑
+2024-11-28 19:18:05,936 - INFO - 没农 傈价: 框
+2024-11-28 19:18:05,938 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:06,095 - INFO - 没农 傈价:  冻
+2024-11-28 19:18:06,097 - INFO - 没农 傈价: 菌
+2024-11-28 19:18:06,098 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:06,252 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:06,255 - INFO - 没农 傈价: .
+2024-11-28 19:18:06,256 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:06,560 - INFO - 没农 傈价: 贰
+2024-11-28 19:18:06,561 - INFO - 没农 傈价: 辑
+2024-11-28 19:18:06,561 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:07,273 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:07,275 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:07,276 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:07,278 - INFO - 没农 傈价:  搬
+2024-11-28 19:18:07,279 - INFO - 没农 傈价: 惫
+2024-11-28 19:18:07,280 - INFO - 没农 傈价:  蝴
+2024-11-28 19:18:07,281 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:07,281 - INFO - 没农 傈价:  乐绰
+2024-11-28 19:18:07,282 - INFO - 没农 傈价:  镑
+2024-11-28 19:18:07,354 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:07,356 - INFO - 没农 傈价:  促
+2024-11-28 19:18:07,358 - INFO - 没农 傈价: 矫
+2024-11-28 19:18:07,597 - INFO - 没农 傈价:  颇
+2024-11-28 19:18:07,598 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:07,598 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:08,096 - INFO - 没农 傈价:  搬
+2024-11-28 19:18:08,096 - INFO - 没农 傈价: 缴
+2024-11-28 19:18:08,097 - INFO - 没农 傈价: 沁
+2024-11-28 19:18:08,287 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:08,288 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:08,290 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:08,460 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:08,461 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:08,462 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:08,599 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:08,600 - INFO - 没农 傈价:  蝴
+2024-11-28 19:18:08,600 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:08,824 - INFO - 没农 傈价:  乐绰
+2024-11-28 19:18:08,826 - INFO - 没农 傈价:  镑
+2024-11-28 19:18:08,827 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:08,999 - INFO - 没农 傈价:  促
+2024-11-28 19:18:08,999 - INFO - 没农 傈价: 矫
+2024-11-28 19:18:09,000 - INFO - 没农 傈价:  颇
+2024-11-28 19:18:09,183 - INFO - 没农 傈价: 哥
+2024-11-28 19:18:09,183 - INFO - 没农 傈价: ,
+2024-11-28 19:18:09,184 - INFO - 没农 傈价:  磊
+2024-11-28 19:18:09,360 - INFO - 没农 傈价: 脚
+2024-11-28 19:18:09,361 - INFO - 没农 傈价: 狼
+2024-11-28 19:18:09,362 - INFO - 没农 傈价:  奔
+2024-11-28 19:18:09,691 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:09,692 - INFO - 没农 傈价:  促
+2024-11-28 19:18:09,692 - INFO - 没农 傈价: 矫
+2024-11-28 19:18:09,894 - INFO - 没农 傈价:  灌
+2024-11-28 19:18:09,895 - INFO - 没农 傈价: 酒
+2024-11-28 19:18:09,895 - INFO - 没农 傈价: 咙
+2024-11-28 19:18:10,004 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:10,005 - INFO - 没农 傈价:  犬牢
+2024-11-28 19:18:10,005 - INFO - 没农 傈价: 沁
+2024-11-28 19:18:10,189 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:10,190 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:10,190 - INFO - 没农 傈价: .
+2024-11-28 19:18:10,305 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:10,305 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:10,305 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:10,534 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:10,534 - INFO - 没农 傈价:  捞
+2024-11-28 19:18:10,535 - INFO - 没农 傈价:  版
+2024-11-28 19:18:10,630 - INFO - 没农 傈价: 氰
+2024-11-28 19:18:10,631 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:10,632 - INFO - 没农 傈价:  烹
+2024-11-28 19:18:10,888 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:10,889 - INFO - 没农 傈价:  吝
+2024-11-28 19:18:10,890 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:11,070 - INFO - 没农 傈价: 茄
+2024-11-28 19:18:11,071 - INFO - 没农 傈价:  背
+2024-11-28 19:18:11,072 - INFO - 没农 傈价: 绕
+2024-11-28 19:18:11,207 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:11,207 - INFO - 没农 傈价:  掘
+2024-11-28 19:18:11,208 - INFO - 没农 傈价: 菌
+2024-11-28 19:18:11,361 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:11,362 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:11,362 - INFO - 没农 傈价: .
+2024-11-28 19:18:12,291 - INFO - 没农 傈价:  官
+2024-11-28 19:18:12,292 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:12,292 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:12,683 - INFO - 没农 傈价: 狄
+2024-11-28 19:18:12,684 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:12,684 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:12,868 - INFO - 没农 傈价: 妨
+2024-11-28 19:18:12,868 - INFO - 没农 傈价: 况
+2024-11-28 19:18:12,869 - INFO - 没农 傈价:  蝴
+2024-11-28 19:18:13,030 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:13,031 - INFO - 没农 傈价:  乔
+2024-11-28 19:18:13,031 - INFO - 没农 傈价: 窍
+2024-11-28 19:18:13,191 - INFO - 没农 傈价: 妨
+2024-11-28 19:18:13,191 - INFO - 没农 傈价: 促
+2024-11-28 19:18:13,191 - INFO - 没农 傈价: 啊
+2024-11-28 19:18:13,466 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:13,467 - INFO - 没农 傈价:  搬
+2024-11-28 19:18:13,467 - INFO - 没农 傈价: 惫
+2024-11-28 19:18:13,641 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:13,641 - INFO - 没农 傈价: 狄
+2024-11-28 19:18:13,641 - INFO - 没农 傈价:  加
+2024-11-28 19:18:13,876 - INFO - 没农 傈价: 俊辑
+2024-11-28 19:18:13,876 - INFO - 没农 傈价:  辨
+2024-11-28 19:18:13,877 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:13,896 - INFO - 没农 傈价:  酪
+2024-11-28 19:18:13,897 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:13,897 - INFO - 没农 傈价:  荐
+2024-11-28 19:18:14,068 - INFO - 没农 傈价:  乐促
+2024-11-28 19:18:14,069 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:14,069 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:14,190 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:14,192 - INFO - 没农 傈价: 菌
+2024-11-28 19:18:14,193 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:14,522 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:14,522 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:14,522 - INFO - 没农 傈价: 弊
+2024-11-28 19:18:14,689 - INFO - 没农 傈价:  第
+2024-11-28 19:18:14,689 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:14,689 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:14,923 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:14,924 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:14,925 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:15,141 - INFO - 没农 傈价:  蝴
+2024-11-28 19:18:15,141 - INFO - 没农 傈价: 苞
+2024-11-28 19:18:15,142 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:15,299 - INFO - 没农 傈价: 狄
+2024-11-28 19:18:15,299 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:15,300 - INFO - 没农 傈价:  肋
+2024-11-28 19:18:15,688 - INFO - 没农 傈价:  炼
+2024-11-28 19:18:15,690 - INFO - 没农 傈价: 例
+2024-11-28 19:18:15,691 - INFO - 没农 傈价: 窍
+2024-11-28 19:18:15,891 - INFO - 没农 傈价: 哥
+2024-11-28 19:18:15,891 - INFO - 没农 傈价:  奔
+2024-11-28 19:18:15,892 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:16,020 - INFO - 没农 傈价:  颇
+2024-11-28 19:18:16,021 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:16,021 - INFO - 没农 傈价:  登
+2024-11-28 19:18:16,134 - INFO - 没农 傈价: 菌
+2024-11-28 19:18:16,135 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:16,135 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:16,329 - INFO - 没农 傈价: .
+2024-11-28 19:18:16,330 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:16,330 - INFO - 没农 傈价: 府
+2024-11-28 19:18:16,436 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:16,437 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:16,437 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:16,817 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:16,818 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:16,818 - INFO - 没农 傈价:  捞
+2024-11-28 19:18:17,001 - INFO - 没农 傈价:  背
+2024-11-28 19:18:17,002 - INFO - 没农 傈价: 绕
+2024-11-28 19:18:17,003 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:17,213 - INFO - 没农 傈价:  促
+2024-11-28 19:18:17,214 - INFO - 没农 傈价: 弗
+2024-11-28 19:18:17,214 - INFO - 没农 傈价:  悼
+2024-11-28 19:18:17,442 - INFO - 没农 傈价: 拱
+2024-11-28 19:18:17,443 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:17,443 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:17,588 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:17,588 - INFO - 没农 傈价: 档
+2024-11-28 19:18:17,589 - INFO - 没农 傈价:  傈
+2024-11-28 19:18:18,287 - INFO - 没农 傈价: 窍
+2024-11-28 19:18:18,288 - INFO - 没农 傈价: 哥
+2024-11-28 19:18:18,289 - INFO - 没农 傈价: ,
+2024-11-28 19:18:18,294 - INFO - 没农 傈价:  剑
+2024-11-28 19:18:18,294 - INFO - 没农 傈价: 俊辑
+2024-11-28 19:18:18,294 - INFO - 没农 傈价:  粮
+2024-11-28 19:18:18,595 - INFO - 没农 傈价: 版
+2024-11-28 19:18:18,597 - INFO - 没农 傈价: 罐
+2024-11-28 19:18:18,598 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:18,795 - INFO - 没农 傈价:  悼
+2024-11-28 19:18:18,797 - INFO - 没农 傈价: 拱
+2024-11-28 19:18:18,798 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:18,971 - INFO - 没农 傈价:  登
+2024-11-28 19:18:18,972 - INFO - 没农 傈价: 菌
+2024-11-28 19:18:18,972 - INFO - 没农 傈价: 翠
+2024-11-28 19:18:19,557 - INFO - 没农 傈价: 聪促
+2024-11-28 19:18:19,558 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:19,559 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:19,865 - INFO - 没农 傈价: 犯
+2024-11-28 19:18:19,866 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:19,867 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:19,976 - INFO - 没农 傈价: 歹
+2024-11-28 19:18:19,977 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:19,978 - INFO - 没农 傈价: 狼
+2024-11-28 19:18:20,136 - INFO - 没农 傈价:  捞
+2024-11-28 19:18:20,137 - INFO - 没农 傈价: 具
+2024-11-28 19:18:20,137 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:20,346 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:20,347 - INFO - 没农 傈价:  烹
+2024-11-28 19:18:20,347 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:20,934 - INFO - 没农 傈价:  快
+2024-11-28 19:18:20,936 - INFO - 没农 傈价: 府
+2024-11-28 19:18:20,937 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:21,070 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:21,071 - INFO - 没农 傈价: 妨
+2024-11-28 19:18:21,072 - INFO - 没农 傈价: 框
+2024-11-28 19:18:21,530 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:21,532 - INFO - 没农 傈价:  瘤
+2024-11-28 19:18:21,533 - INFO - 没农 傈价: 硅
+2024-11-28 19:18:21,946 - INFO - 没农 傈价: 登
+2024-11-28 19:18:21,949 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:21,950 - INFO - 没农 傈价:  货
+2024-11-28 19:18:22,302 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:22,303 - INFO - 没农 傈价: 款
+2024-11-28 19:18:22,304 - INFO - 没农 傈价:  版
+2024-11-28 19:18:22,417 - INFO - 没农 傈价: 氰
+2024-11-28 19:18:22,418 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:22,419 - INFO - 没农 傈价:  乔
+2024-11-28 19:18:22,655 - INFO - 没农 傈价: 窍
+2024-11-28 19:18:22,656 - INFO - 没农 傈价: 搁
+2024-11-28 19:18:22,656 - INFO - 没农 傈价: ,
+2024-11-28 19:18:22,896 - INFO - 没农 傈价:  搬
+2024-11-28 19:18:22,897 - INFO - 没农 傈价: 惫
+2024-11-28 19:18:22,898 - INFO - 没农 傈价:  歹
+2024-11-28 19:18:23,088 - INFO - 没农 傈价:  奴
+2024-11-28 19:18:23,089 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:23,089 - INFO - 没农 傈价: 妨
+2024-11-28 19:18:23,208 - INFO - 没农 傈价: 框
+2024-11-28 19:18:23,208 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:23,209 - INFO - 没农 傈价:  流
+2024-11-28 19:18:23,545 - INFO - 没农 傈价: 搁
+2024-11-28 19:18:23,546 - INFO - 没农 傈价: 且
+2024-11-28 19:18:23,546 - INFO - 没农 傈价:  荐
+2024-11-28 19:18:23,781 - INFO - 没农 傈价:  乐促
+2024-11-28 19:18:23,782 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:23,782 - INFO - 没农 傈价:  背
+2024-11-28 19:18:23,898 - INFO - 没农 傈价: 绕
+2024-11-28 19:18:23,900 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:23,902 - INFO - 没农 傈价:  掘
+2024-11-28 19:18:24,014 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:24,014 - INFO - 没农 傈价:  荐
+2024-11-28 19:18:24,015 - INFO - 没农 傈价:  乐
+2024-11-28 19:18:24,136 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:24,138 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:24,139 - INFO - 没农 傈价: .
+2024-11-28 19:18:24,375 - INFO - 没农 傈价:  锭
+2024-11-28 19:18:24,376 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:24,376 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:24,597 - INFO - 没农 傈价:  滴
+2024-11-28 19:18:24,597 - INFO - 没农 傈价: 妨
+2024-11-28 19:18:24,598 - INFO - 没农 傈价: 框
+2024-11-28 19:18:24,801 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:24,801 - INFO - 没农 傈价:  捞
+2024-11-28 19:18:24,802 - INFO - 没农 傈价: 败
+2024-11-28 19:18:25,421 - INFO - 没农 傈价: 郴
+2024-11-28 19:18:25,422 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:25,422 - INFO - 没农 傈价:  货
+2024-11-28 19:18:25,423 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:25,423 - INFO - 没农 傈价: 款
+2024-11-28 19:18:25,423 - INFO - 没农 傈价:  版
+2024-11-28 19:18:25,423 - INFO - 没农 傈价: 氰
+2024-11-28 19:18:25,424 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:25,424 - INFO - 没农 傈价:  窍
+2024-11-28 19:18:25,453 - INFO - 没农 傈价: 咯
+2024-11-28 19:18:25,454 - INFO - 没农 傈价: 具
+2024-11-28 19:18:25,454 - INFO - 没农 傈价: ,
+2024-11-28 19:18:25,730 - INFO - 没农 傈价:  快
+2024-11-28 19:18:25,731 - INFO - 没农 傈价: 府
+2024-11-28 19:18:25,731 - INFO - 没农 傈价: 狼
+2024-11-28 19:18:25,966 - INFO - 没农 傈价:  活
+2024-11-28 19:18:25,966 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:25,967 - INFO - 没农 傈价:  歹
+2024-11-28 19:18:26,123 - INFO - 没农 傈价: 宽
+2024-11-28 19:18:26,124 - INFO - 没农 傈价:  浅
+2024-11-28 19:18:26,125 - INFO - 没农 傈价: 己
+2024-11-28 19:18:26,299 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:26,300 - INFO - 没农 傈价: 龙
+2024-11-28 19:18:26,301 - INFO - 没农 傈价:  荐
+2024-11-28 19:18:26,409 - INFO - 没农 傈价:  乐
+2024-11-28 19:18:26,410 - INFO - 没农 傈价: 翠
+2024-11-28 19:18:26,410 - INFO - 没农 傈价: 聪促
+2024-11-28 19:18:26,411 - INFO - 没农 傈价: .
+2024-11-28 19:18:26,411 - INFO - 没农 傈价: 
+2024-11-28 19:18:26,411 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:18:26,412 - INFO - 悼拳啊滴歹瘤狼 背绕.json俊 历厘登菌嚼聪促.
+2024-11-28 19:18:38,049 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:18:38,249 - INFO - 没农 傈价: 
+2024-11-28 19:18:38,250 - INFO - 没农 傈价: 力
+2024-11-28 19:18:38,420 - INFO - 没农 傈价: 格
+2024-11-28 19:18:38,422 - INFO - 没农 傈价: :
+2024-11-28 19:18:38,423 - INFO - 没农 傈价:  父
+2024-11-28 19:18:38,523 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:38,523 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:38,524 - INFO - 没农 傈价:  茫
+2024-11-28 19:18:38,683 - INFO - 没农 傈价: 酒
+2024-11-28 19:18:38,684 - INFO - 没农 傈价: 辑
+2024-11-28 19:18:38,685 - INFO - 没农 傈价: 
+
+
+2024-11-28 19:18:38,792 - INFO - 没农 傈价: 烤
+2024-11-28 19:18:38,793 - INFO - 没农 傈价: 朝
+2024-11-28 19:18:38,794 - INFO - 没农 傈价:  绢
+2024-11-28 19:18:38,882 - INFO - 没农 傈价: 蠢
+2024-11-28 19:18:38,884 - INFO - 没农 傈价:  付
+2024-11-28 19:18:38,886 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:39,039 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:39,039 - INFO - 没农 傈价:  龋
+2024-11-28 19:18:39,040 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:39,239 - INFO - 没农 傈价: 缴
+2024-11-28 19:18:39,239 - INFO - 没农 傈价:  腹
+2024-11-28 19:18:39,240 - INFO - 没农 傈价: 篮
+2024-11-28 19:18:39,424 - INFO - 没农 傈价:  配
+2024-11-28 19:18:39,424 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:39,426 - INFO - 没农 傈价: 啊
+2024-11-28 19:18:39,699 - INFO - 没农 傈价:  混
+2024-11-28 19:18:39,700 - INFO - 没农 傈价: 疽
+2024-11-28 19:18:39,700 - INFO - 没农 傈价: 嚼聪促
+2024-11-28 19:18:39,836 - INFO - 没农 傈价: .
+2024-11-28 19:18:39,837 - INFO - 没农 傈价:  配
+2024-11-28 19:18:39,838 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:39,922 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:39,923 - INFO - 没农 傈价:  货
+2024-11-28 19:18:39,924 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:40,052 - INFO - 没农 傈价: 款
+2024-11-28 19:18:40,053 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:40,054 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:40,153 - INFO - 没农 傈价:  茫
+2024-11-28 19:18:40,153 - INFO - 没农 傈价: 酒
+2024-11-28 19:18:40,154 - INFO - 没农 傈价: 焊
+2024-11-28 19:18:40,347 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:40,348 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:40,349 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:40,734 - INFO - 没农 傈价:  榴
+2024-11-28 19:18:40,736 - INFO - 没农 傈价: 板
+2024-11-28 19:18:40,737 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:40,847 - INFO - 没农 傈价: ,
+2024-11-28 19:18:40,848 - INFO - 没农 傈价:  概
+2024-11-28 19:18:40,850 - INFO - 没农 傈价: 老
+2024-11-28 19:18:41,074 - INFO - 没农 傈价:  磊
+2024-11-28 19:18:41,074 - INFO - 没农 傈价: 脚
+2024-11-28 19:18:41,075 - INFO - 没农 傈价: 狼
+2024-11-28 19:18:41,302 - INFO - 没农 傈价:  传
+2024-11-28 19:18:41,302 - INFO - 没农 傈价: 栏肺
+2024-11-28 19:18:41,302 - INFO - 没农 傈价:  技
+2024-11-28 19:18:41,462 - INFO - 没农 傈价: 惑
+2024-11-28 19:18:41,462 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:41,462 - INFO - 没农 傈价:  舅
+2024-11-28 19:18:41,849 - INFO - 没农 傈价: 酒
+2024-11-28 19:18:41,849 - INFO - 没农 傈价: 啊
+2024-11-28 19:18:41,850 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:42,160 - INFO - 没农 傈价:  困
+2024-11-28 19:18:42,161 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:42,162 - INFO - 没农 傈价:  畴
+2024-11-28 19:18:42,346 - INFO - 没农 傈价: 仿
+2024-11-28 19:18:42,348 - INFO - 没农 傈价: 沁嚼聪促
+2024-11-28 19:18:42,350 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:42,551 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:42,551 - INFO - 没农 傈价: 蠢
+2024-11-28 19:18:42,552 - INFO - 没农 傈价:  朝
+2024-11-28 19:18:42,646 - INFO - 没农 傈价: ,
+2024-11-28 19:18:42,647 - INFO - 没农 傈价:  配
+2024-11-28 19:18:42,647 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:42,745 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:42,747 - INFO - 没农 傈价:  付
+2024-11-28 19:18:42,747 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:42,862 - INFO - 没农 傈价: 俊辑
+2024-11-28 19:18:42,862 - INFO - 没农 傈价:  父
+2024-11-28 19:18:42,863 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:42,968 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:42,968 - INFO - 没农 傈价:  父
+2024-11-28 19:18:42,968 - INFO - 没农 傈价: 靛
+2024-11-28 19:18:43,556 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:43,557 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:43,557 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:43,557 - INFO - 没农 傈价:  焊
+2024-11-28 19:18:43,558 - INFO - 没农 傈价: 疽
+2024-11-28 19:18:43,558 - INFO - 没农 傈价: 嚼聪促
+2024-11-28 19:18:43,558 - INFO - 没农 傈价: .
+2024-11-28 19:18:43,558 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:43,559 - INFO - 没农 傈价: 巴
+2024-11-28 19:18:43,651 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:43,652 - INFO - 没农 傈价:  公
+2024-11-28 19:18:43,653 - INFO - 没农 傈价: 均
+2024-11-28 19:18:43,769 - INFO - 没农 傈价: 牢
+2024-11-28 19:18:43,770 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:43,770 - INFO - 没农 傈价:  泵
+2024-11-28 19:18:43,988 - INFO - 没农 傈价: 陛
+2024-11-28 19:18:43,989 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:43,989 - INFO - 没农 傈价: 窍
+2024-11-28 19:18:44,077 - INFO - 没农 傈价: 带
+2024-11-28 19:18:44,079 - INFO - 没农 傈价:  配
+2024-11-28 19:18:44,080 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:44,213 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:44,213 - INFO - 没农 傈价:  付
+2024-11-28 19:18:44,214 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:44,344 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:44,345 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:44,345 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:44,462 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:44,463 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:44,463 - INFO - 没农 傈价:  拱
+2024-11-28 19:18:44,615 - INFO - 没农 傈价: 菌嚼聪促
+2024-11-28 19:18:44,617 - INFO - 没农 傈价: .
+2024-11-28 19:18:44,618 - INFO - 没农 傈价:  "
+2024-11-28 19:18:44,734 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:44,734 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:44,734 - INFO - 没农 傈价:  公
+2024-11-28 19:18:44,832 - INFO - 没农 傈价: 均
+2024-11-28 19:18:44,834 - INFO - 没农 傈价: 牢
+2024-11-28 19:18:44,835 - INFO - 没农 傈价: 啊
+2024-11-28 19:18:44,920 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:44,921 - INFO - 没农 傈价: ?"
+2024-11-28 19:18:44,921 - INFO - 没农 傈价:  付
+2024-11-28 19:18:45,032 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:45,033 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:45,035 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:45,167 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:45,168 - INFO - 没农 傈价: 篮
+2024-11-28 19:18:45,169 - INFO - 没农 傈价:  眶
+2024-11-28 19:18:45,305 - INFO - 没农 傈价: 栏
+2024-11-28 19:18:45,307 - INFO - 没农 傈价: 哥
+2024-11-28 19:18:45,308 - INFO - 没农 傈价:  "
+2024-11-28 19:18:45,416 - INFO - 没农 傈价: 弊
+2024-11-28 19:18:45,417 - INFO - 没农 傈价: 巴
+2024-11-28 19:18:45,417 - INFO - 没农 傈价: 篮
+2024-11-28 19:18:45,525 - INFO - 没农 傈价:  父
+2024-11-28 19:18:45,527 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:45,527 - INFO - 没农 傈价: 扼
+2024-11-28 19:18:45,647 - INFO - 没农 傈价: 匙
+2024-11-28 19:18:45,647 - INFO - 没农 傈价: ."
+2024-11-28 19:18:45,648 - INFO - 没农 傈价: 扼
+2024-11-28 19:18:45,927 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:45,928 - INFO - 没农 傈价:  措
+2024-11-28 19:18:45,928 - INFO - 没农 傈价: 翠
+2024-11-28 19:18:46,127 - INFO - 没农 傈价: 沁嚼聪促
+2024-11-28 19:18:46,129 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:46,130 - INFO - 没农 傈价: 配
+2024-11-28 19:18:46,262 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:46,264 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:46,265 - INFO - 没农 傈价:  父
+2024-11-28 19:18:46,542 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:46,543 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:46,543 - INFO - 没农 傈价:  父
+2024-11-28 19:18:46,651 - INFO - 没农 傈价: 靛
+2024-11-28 19:18:46,652 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:46,653 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:46,863 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:46,864 - INFO - 没农 傈价:  措
+2024-11-28 19:18:46,864 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:47,182 - INFO - 没农 傈价:  泵
+2024-11-28 19:18:47,183 - INFO - 没农 傈价: 陛
+2024-11-28 19:18:47,185 - INFO - 没农 傈价: 刘
+2024-11-28 19:18:47,276 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:47,278 - INFO - 没农 傈价:  蠢
+2024-11-28 19:18:47,279 - INFO - 没农 傈价: 布嚼聪促
+2024-11-28 19:18:47,413 - INFO - 没农 傈价: .
+2024-11-28 19:18:47,414 - INFO - 没农 傈价:  "
+2024-11-28 19:18:47,415 - INFO - 没农 傈价: 绢
+2024-11-28 19:18:47,505 - INFO - 没农 傈价: 痘
+2024-11-28 19:18:47,506 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:47,507 - INFO - 没农 傈价:  父
+2024-11-28 19:18:47,638 - INFO - 没农 傈价: 靛
+2024-11-28 19:18:47,640 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:47,641 - INFO - 没农 傈价:  扒
+2024-11-28 19:18:47,852 - INFO - 没农 傈价: 啊
+2024-11-28 19:18:47,853 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:47,854 - INFO - 没农 傈价: ?"
+2024-11-28 19:18:48,055 - INFO - 没农 傈价:  配
+2024-11-28 19:18:48,056 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:48,057 - INFO - 没农 傈价: 啊
+2024-11-28 19:18:48,155 - INFO - 没农 傈价:  拱
+2024-11-28 19:18:48,155 - INFO - 没农 傈价: 菌嚼聪促
+2024-11-28 19:18:48,156 - INFO - 没农 傈价: .
+2024-11-28 19:18:48,218 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:48,219 - INFO - 没农 傈价: 贰
+2024-11-28 19:18:48,220 - INFO - 没农 傈价: 辑
+2024-11-28 19:18:48,354 - INFO - 没农 傈价:  付
+2024-11-28 19:18:48,355 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:48,355 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:48,610 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:48,610 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:48,611 - INFO - 没农 傈价: 篮
+2024-11-28 19:18:48,661 - INFO - 没农 傈价:  配
+2024-11-28 19:18:48,661 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:48,662 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:48,744 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:48,745 - INFO - 没农 傈价:  父
+2024-11-28 19:18:48,746 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:48,916 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:48,918 - INFO - 没农 傈价:  父
+2024-11-28 19:18:48,919 - INFO - 没农 傈价: 靛
+2024-11-28 19:18:49,536 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:49,537 - INFO - 没农 傈价:  规
+2024-11-28 19:18:49,538 - INFO - 没农 傈价: 过
+2024-11-28 19:18:49,723 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:49,725 - INFO - 没农 傈价:  啊
+2024-11-28 19:18:49,727 - INFO - 没农 傈价: 福
+2024-11-28 19:18:50,066 - INFO - 没农 傈价: 媚
+2024-11-28 19:18:50,067 - INFO - 没农 傈价:  林
+2024-11-28 19:18:50,068 - INFO - 没农 傈价: 菌嚼聪促
+2024-11-28 19:18:50,220 - INFO - 没农 傈价: .
+2024-11-28 19:18:50,221 - INFO - 没农 傈价:  配
+2024-11-28 19:18:50,222 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:50,363 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:50,365 - INFO - 没农 傈价:  凯
+2024-11-28 19:18:50,366 - INFO - 没农 傈价: 缴
+2024-11-28 19:18:50,566 - INFO - 没农 傈价: 洒
+2024-11-28 19:18:50,567 - INFO - 没农 傈价:  硅
+2024-11-28 19:18:50,568 - INFO - 没农 傈价: 快
+2024-11-28 19:18:50,718 - INFO - 没农 傈价: 哥
+2024-11-28 19:18:50,720 - INFO - 没农 傈价: ,
+2024-11-28 19:18:50,721 - INFO - 没农 傈价:  父
+2024-11-28 19:18:50,833 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:50,833 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:50,834 - INFO - 没农 傈价:  父
+2024-11-28 19:18:51,054 - INFO - 没农 傈价: 靛
+2024-11-28 19:18:51,055 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:51,057 - INFO - 没农 傈价:  过
+2024-11-28 19:18:51,194 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:51,194 - INFO - 没农 傈价:  劳
+2024-11-28 19:18:51,195 - INFO - 没农 傈价: 躯
+2024-11-28 19:18:51,332 - INFO - 没农 傈价: 嚼聪促
+2024-11-28 19:18:51,333 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:51,334 - INFO - 没农 傈价: 配
+2024-11-28 19:18:51,454 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:51,455 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:51,456 - INFO - 没农 傈价:  硅
+2024-11-28 19:18:51,526 - INFO - 没农 傈价: 款
+2024-11-28 19:18:51,527 - INFO - 没农 傈价:  父
+2024-11-28 19:18:51,527 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:51,755 - INFO - 没农 傈价:  父
+2024-11-28 19:18:51,755 - INFO - 没农 傈价: 靛
+2024-11-28 19:18:51,756 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:51,880 - INFO - 没农 傈价:  过
+2024-11-28 19:18:51,880 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:51,881 - INFO - 没农 傈价:  烹
+2024-11-28 19:18:52,003 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:52,004 - INFO - 没农 傈价:  付
+2024-11-28 19:18:52,004 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:52,113 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:52,114 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:52,115 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:52,260 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:52,260 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:52,261 - INFO - 没农 傈价:  咐
+2024-11-28 19:18:52,624 - INFO - 没农 傈价: 乐
+2024-11-28 19:18:52,624 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:52,625 - INFO - 没农 傈价:  父
+2024-11-28 19:18:52,802 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:52,803 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:52,803 - INFO - 没农 傈价:  唱
+2024-11-28 19:18:52,985 - INFO - 没农 傈价: 床
+2024-11-28 19:18:52,986 - INFO - 没农 傈价: 林
+2024-11-28 19:18:52,987 - INFO - 没农 傈价: 菌嚼聪促
+2024-11-28 19:18:53,093 - INFO - 没农 傈价: .
+2024-11-28 19:18:53,094 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:53,094 - INFO - 没农 傈价: 府
+2024-11-28 19:18:53,165 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:53,165 - INFO - 没农 傈价:  配
+2024-11-28 19:18:53,165 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:53,267 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:53,267 - INFO - 没农 傈价:  父
+2024-11-28 19:18:53,269 - INFO - 没农 傈价: 滴
+2024-11-28 19:18:53,354 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:53,356 - INFO - 没农 傈价:  烹
+2024-11-28 19:18:53,357 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:53,485 - INFO - 没农 傈价:  付
+2024-11-28 19:18:53,486 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:53,488 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:53,623 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:53,624 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:53,625 - INFO - 没农 傈价: 苞
+2024-11-28 19:18:53,833 - INFO - 没农 傈价: 狼
+2024-11-28 19:18:53,833 - INFO - 没农 傈价:  快
+2024-11-28 19:18:53,834 - INFO - 没农 傈价: 沥
+2024-11-28 19:18:54,040 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:54,041 - INFO - 没农 傈价:  歹
+2024-11-28 19:18:54,042 - INFO - 没农 傈价: 宽
+2024-11-28 19:18:54,152 - INFO - 没农 傈价:  表
+2024-11-28 19:18:54,152 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:54,152 - INFO - 没农 傈价:  沁嚼聪促
+2024-11-28 19:18:54,392 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:54,394 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:54,395 - INFO - 没农 傈价: 犯
+2024-11-28 19:18:54,537 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:54,538 - INFO - 没农 傈价:  配
+2024-11-28 19:18:54,538 - INFO - 没农 傈价: 尝
+2024-11-28 19:18:54,719 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:54,720 - INFO - 没农 傈价:  龋
+2024-11-28 19:18:54,721 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:54,860 - INFO - 没农 傈价: 缴
+2024-11-28 19:18:54,861 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:54,861 - INFO - 没农 傈价:  啊
+2024-11-28 19:18:54,944 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:54,944 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:54,945 - INFO - 没农 傈价:  货
+2024-11-28 19:18:55,214 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:55,215 - INFO - 没农 傈价: 款
+2024-11-28 19:18:55,215 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:55,373 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:55,374 - INFO - 没农 傈价:  硅
+2024-11-28 19:18:55,376 - INFO - 没农 傈价: 快
+2024-11-28 19:18:55,543 - INFO - 没农 傈价: 哥
+2024-11-28 19:18:55,544 - INFO - 没农 傈价: ,
+2024-11-28 19:18:55,544 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:55,703 - INFO - 没农 傈价: 巴
+2024-11-28 19:18:55,704 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:55,705 - INFO - 没农 傈价:  烹
+2024-11-28 19:18:55,816 - INFO - 没农 傈价: 秦
+2024-11-28 19:18:55,817 - INFO - 没农 傈价:  林
+2024-11-28 19:18:55,818 - INFO - 没农 傈价: 函
+2024-11-28 19:18:55,965 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:55,966 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:55,968 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:56,229 - INFO - 没农 傈价: 苞
+2024-11-28 19:18:56,231 - INFO - 没农 傈价: 狼
+2024-11-28 19:18:56,232 - INFO - 没农 傈价:  包
+2024-11-28 19:18:56,401 - INFO - 没农 傈价: 拌
+2024-11-28 19:18:56,401 - INFO - 没农 傈价: 甫
+2024-11-28 19:18:56,401 - INFO - 没农 傈价:  歹
+2024-11-28 19:18:56,578 - INFO - 没农 傈价: 宽
+2024-11-28 19:18:56,578 - INFO - 没农 傈价:  浅
+2024-11-28 19:18:56,579 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:56,707 - INFO - 没农 傈价: 酚
+2024-11-28 19:18:56,708 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:56,709 - INFO - 没农 傈价:  父
+2024-11-28 19:18:56,805 - INFO - 没农 傈价: 甸
+2024-11-28 19:18:56,806 - INFO - 没农 傈价: 菌嚼聪促
+2024-11-28 19:18:56,807 - INFO - 没农 傈价: .
+
+
+2024-11-28 19:18:56,900 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:56,902 - INFO - 没农 傈价:  捞
+2024-11-28 19:18:56,903 - INFO - 没农 傈价: 具
+2024-11-28 19:18:56,985 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:56,986 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:56,987 - INFO - 没农 傈价:  快
+2024-11-28 19:18:57,069 - INFO - 没农 傈价: 府
+2024-11-28 19:18:57,069 - INFO - 没农 傈价: 俊
+2024-11-28 19:18:57,070 - INFO - 没农 傈价: 霸
+2024-11-28 19:18:57,226 - INFO - 没农 傈价:  '
+2024-11-28 19:18:57,227 - INFO - 没农 傈价: 龋
+2024-11-28 19:18:57,227 - INFO - 没农 傈价: 扁
+2024-11-28 19:18:57,370 - INFO - 没农 傈价: 缴
+2024-11-28 19:18:57,371 - INFO - 没农 傈价: '
+2024-11-28 19:18:57,372 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:57,453 - INFO - 没农 傈价:  倔
+2024-11-28 19:18:57,453 - INFO - 没农 傈价: 付
+2024-11-28 19:18:57,454 - INFO - 没农 傈价: 唱
+2024-11-28 19:18:57,536 - INFO - 没农 傈价:  吝
+2024-11-28 19:18:57,537 - INFO - 没农 傈价: 夸
+2024-11-28 19:18:57,538 - INFO - 没农 傈价: 茄
+2024-11-28 19:18:57,784 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:57,785 - INFO - 没农 傈价: ,
+2024-11-28 19:18:57,787 - INFO - 没农 傈价:  弊
+2024-11-28 19:18:57,894 - INFO - 没农 傈价: 府
+2024-11-28 19:18:57,896 - INFO - 没农 傈价: 绊
+2024-11-28 19:18:57,897 - INFO - 没农 傈价:  货
+2024-11-28 19:18:57,981 - INFO - 没农 傈价: 肺
+2024-11-28 19:18:57,981 - INFO - 没农 傈价: 款
+2024-11-28 19:18:57,982 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:58,071 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:58,072 - INFO - 没农 傈价:  硅
+2024-11-28 19:18:58,072 - INFO - 没农 傈价: 快
+2024-11-28 19:18:58,257 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:58,257 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:58,258 - INFO - 没农 傈价: 捞
+2024-11-28 19:18:58,445 - INFO - 没农 傈价:  倔
+2024-11-28 19:18:58,445 - INFO - 没农 傈价: 付
+2024-11-28 19:18:58,446 - INFO - 没农 傈价: 唱
+2024-11-28 19:18:58,550 - INFO - 没农 傈价:  犁
+2024-11-28 19:18:58,551 - INFO - 没农 傈价: 固
+2024-11-28 19:18:58,553 - INFO - 没农 傈价: 乐
+2024-11-28 19:18:58,707 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:58,709 - INFO - 没农 傈价: 瘤
+2024-11-28 19:18:58,713 - INFO - 没农 傈价:  舅
+2024-11-28 19:18:58,821 - INFO - 没农 傈价: 妨
+2024-11-28 19:18:58,822 - INFO - 没农 傈价: 林
+2024-11-28 19:18:58,823 - INFO - 没农 傈价: 绰
+2024-11-28 19:18:58,945 - INFO - 没农 傈价:  悼
+2024-11-28 19:18:58,946 - INFO - 没农 傈价: 拳
+2024-11-28 19:18:58,947 - INFO - 没农 傈价: 涝聪促
+2024-11-28 19:18:59,063 - INFO - 没农 傈价: .
+2024-11-28 19:18:59,063 - INFO - 没农 傈价:  肚
+2024-11-28 19:18:59,063 - INFO - 没农 傈价: 茄
+2024-11-28 19:18:59,164 - INFO - 没农 傈价: ,
+2024-11-28 19:18:59,164 - INFO - 没农 傈价:  硅
+2024-11-28 19:18:59,165 - INFO - 没农 傈价: 款
+2024-11-28 19:18:59,260 - INFO - 没农 傈价:  巴
+2024-11-28 19:18:59,261 - INFO - 没农 傈价: 阑
+2024-11-28 19:18:59,261 - INFO - 没农 傈价:  促
+2024-11-28 19:18:59,465 - INFO - 没农 傈价: 弗
+2024-11-28 19:18:59,465 - INFO - 没农 傈价:  荤
+2024-11-28 19:18:59,466 - INFO - 没农 傈价: 恩
+2024-11-28 19:18:59,860 - INFO - 没农 傈价: 苞
+2024-11-28 19:18:59,860 - INFO - 没农 傈价:  唱
+2024-11-28 19:18:59,861 - INFO - 没农 傈价: 穿
+2024-11-28 19:19:00,201 - INFO - 没农 傈价: 绰
+2024-11-28 19:19:00,201 - INFO - 没农 傈价:  巴
+2024-11-28 19:19:00,202 - INFO - 没农 傈价: 捞
+2024-11-28 19:19:00,303 - INFO - 没农 傈价:  倔
+2024-11-28 19:19:00,303 - INFO - 没农 傈价: 付
+2024-11-28 19:19:00,303 - INFO - 没农 傈价: 唱
+2024-11-28 19:19:00,435 - INFO - 没农 傈价:  蔼
+2024-11-28 19:19:00,436 - INFO - 没农 傈价: 柳
+2024-11-28 19:19:00,436 - INFO - 没农 傈价:  老
+2024-11-28 19:19:00,577 - INFO - 没农 傈价: 牢
+2024-11-28 19:19:00,578 - INFO - 没农 傈价: 瘤
+2024-11-28 19:19:00,578 - INFO - 没农 傈价: 甫
+2024-11-28 19:19:00,665 - INFO - 没农 傈价:  舅
+2024-11-28 19:19:00,665 - INFO - 没农 傈价: 妨
+2024-11-28 19:19:00,666 - INFO - 没农 傈价: 林
+2024-11-28 19:19:01,381 - INFO - 没农 傈价: 绰
+2024-11-28 19:19:01,381 - INFO - 没农 傈价:  捞
+2024-11-28 19:19:01,382 - INFO - 没农 傈价: 具
+2024-11-28 19:19:01,382 - INFO - 没农 傈价: 扁
+2024-11-28 19:19:01,382 - INFO - 没农 傈价: 涝聪促
+2024-11-28 19:19:01,383 - INFO - 没农 傈价: .
+2024-11-28 19:19:01,383 - INFO - 没农 傈价: 
+2024-11-28 19:19:01,383 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:19:01,384 - INFO - 悼拳啊父滴甫 茫酒辑.json俊 历厘登菌嚼聪促.
+2024-11-28 19:20:32,277 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 19:20:33,181 - INFO -  * Restarting with stat
+2024-11-28 19:20:35,086 - WARNING -  * Debugger is active!
+2024-11-28 19:20:35,088 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 19:20:35,148 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 19:20:35,160 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 19:20:35,160 - INFO - 单捞磐 盒且 吝...
+2024-11-28 19:20:37,795 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 19:20:37,795 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 19:20:40,261 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 19:20:42,765 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 19:20:42,765 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 19:20:42,969 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 19:21:24,451 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 19:21:24,452 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 19:21:24,470 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 19:21:54,126 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:23:12,959 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:23:12,959 - INFO - 悼拳啊父滴客 何贸丛狼 急拱.json俊 历厘登菌嚼聪促.
+2024-11-28 19:25:06,049 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:26:13,684 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:26:13,685 - INFO - 悼拳啊侩扁 乐绰 绊备付.json俊 历厘登菌嚼聪促.
+2024-11-28 19:27:21,489 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 19:27:22,555 - INFO -  * Restarting with stat
+2024-11-28 19:27:24,004 - WARNING -  * Debugger is active!
+2024-11-28 19:27:24,006 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 19:27:24,093 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 19:27:24,107 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 19:27:24,108 - INFO - 单捞磐 盒且 吝...
+2024-11-28 19:27:24,108 - ERROR - 巩辑 八祸 吝 坷幅啊 惯积沁嚼聪促: 'NoneType' object has no attribute 'as_retriever'
+2024-11-28 19:27:26,860 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 19:27:26,860 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 19:27:29,731 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 19:27:32,196 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 19:27:32,196 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 19:27:32,435 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 19:28:13,576 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 19:28:13,576 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 19:28:13,598 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 19:28:20,552 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:29:16,884 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:29:16,885 - INFO - 悼拳啊 件绢客 脚扼 蓖练 捞瞒捣狼 背绕.json俊 历厘登菌嚼聪促.
+2024-11-28 19:29:27,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:30:33,428 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 19:30:33,431 - INFO - 悼拳啊 龋冠狼 焊拱苞 馒茄 付澜.json俊 历厘登菌嚼聪促.
+2024-11-28 19:40:58,778 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:40:58,779 - INFO - Retrying request to /chat/completions in 0.429053 seconds
+2024-11-28 19:40:59,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:40:59,460 - INFO - Retrying request to /chat/completions in 0.785404 seconds
+2024-11-28 19:41:00,529 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:41:00,530 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2024-11-28 19:42:24,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:42:24,021 - INFO - Retrying request to /chat/completions in 0.467908 seconds
+2024-11-28 19:42:24,714 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:42:24,715 - INFO - Retrying request to /chat/completions in 0.821254 seconds
+2024-11-28 19:42:25,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:42:25,760 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2024-11-28 19:43:36,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:43:36,322 - INFO - Retrying request to /chat/completions in 0.398927 seconds
+2024-11-28 19:43:36,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:43:36,953 - INFO - Retrying request to /chat/completions in 0.902874 seconds
+2024-11-28 19:43:38,076 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:43:38,078 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2024-11-28 19:43:43,820 - INFO -  * Restarting with stat
+2024-11-28 19:43:45,225 - WARNING -  * Debugger is active!
+2024-11-28 19:43:45,227 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 19:43:47,721 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 19:43:47,735 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 19:43:47,735 - INFO - 单捞磐 盒且 吝...
+2024-11-28 19:43:50,167 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 19:43:50,168 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 19:43:52,507 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 19:43:54,899 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 19:43:54,899 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 19:43:55,103 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 19:44:35,183 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 19:44:35,183 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 19:44:35,203 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 19:44:39,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:44:39,379 - INFO - Retrying request to /chat/completions in 0.454589 seconds
+2024-11-28 19:44:40,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:44:40,046 - INFO - Retrying request to /chat/completions in 0.774391 seconds
+2024-11-28 19:44:41,032 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:44:41,037 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2024-11-28 19:47:48,394 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:47:48,396 - INFO - Retrying request to /chat/completions in 0.390295 seconds
+2024-11-28 19:47:49,012 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:47:49,012 - INFO - Retrying request to /chat/completions in 0.782767 seconds
+2024-11-28 19:47:50,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:47:50,031 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2024-11-28 19:54:33,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:54:33,913 - INFO - Retrying request to /chat/completions in 0.405629 seconds
+2024-11-28 19:54:34,522 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-11-28 19:54:34,523 - INFO - Retrying request to /chat/completions in 0.994843 seconds
+2024-11-28 19:54:36,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 19:59:24,932 - INFO -  * Restarting with stat
+2024-11-28 19:59:26,297 - WARNING -  * Debugger is active!
+2024-11-28 19:59:26,298 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 19:59:31,843 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 19:59:31,857 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 19:59:31,857 - INFO - 单捞磐 盒且 吝...
+2024-11-28 19:59:34,282 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 19:59:34,282 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 19:59:36,992 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 19:59:39,607 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 19:59:39,607 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 19:59:39,847 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:00:24,121 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:00:24,121 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:00:24,138 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:00:33,991 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 20:01:30,549 - INFO - 悼拳 积己 肯丰.
+
+2024-11-28 20:01:30,551 - INFO - 悼拳啊 快魂捞 等 累篮 采.json俊 历厘登菌嚼聪促.
+2024-11-28 20:32:42,819 - INFO -  * Restarting with stat
+2024-11-28 20:32:44,406 - WARNING -  * Debugger is active!
+2024-11-28 20:32:44,409 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:33:13,699 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:33:13,718 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:33:13,718 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:33:16,322 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:33:16,322 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:33:19,865 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:33:22,506 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:33:22,506 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:33:22,831 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:34:06,649 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:34:06,649 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:34:06,668 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:34:40,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 20:34:40,696 - INFO - 悼拳 积己 肯丰.
+2024-11-28 20:34:40,696 - INFO - 悼拳啊 葫窍客 累篮 齐毕狼 葛氰.json俊 历厘登菌嚼聪促.
+2024-11-28 20:34:40,697 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Server.emit() got multiple values for argument 'to'
+2024-11-28 20:37:05,040 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:37:05,948 - INFO -  * Restarting with stat
+2024-11-28 20:37:07,595 - WARNING -  * Debugger is active!
+2024-11-28 20:37:07,597 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:37:08,115 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:37:08,128 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:37:08,128 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:37:10,828 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:37:10,829 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:37:13,677 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:37:16,074 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:37:16,076 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:37:16,335 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:37:28,023 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:37:29,090 - INFO -  * Restarting with stat
+2024-11-28 20:37:30,958 - WARNING -  * Debugger is active!
+2024-11-28 20:37:30,960 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:37:31,115 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:37:31,130 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:37:31,130 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:37:34,278 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:37:34,279 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:37:37,318 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:37:39,796 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:37:39,798 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:37:40,050 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:38:24,084 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:38:24,084 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:38:24,103 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:38:42,698 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: Completions.create() got an unexpected keyword argument 'Streaming'
+2024-11-28 20:39:24,209 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:39:25,083 - INFO -  * Restarting with stat
+2024-11-28 20:39:26,527 - WARNING -  * Debugger is active!
+2024-11-28 20:39:26,529 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:39:26,608 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:39:26,621 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:39:26,621 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:39:29,369 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:39:29,370 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:39:32,873 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:39:35,425 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:39:35,425 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:39:35,643 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:40:23,162 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:40:23,163 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:40:23,181 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:40:25,884 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 20:40:48,230 - INFO - 悼拳 积己 肯丰.
+2024-11-28 20:40:48,232 - INFO - 悼拳啊 葫窍客 累篮 齐毕狼 葛氰.json俊 历厘登菌嚼聪促.
+2024-11-28 20:43:37,614 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:43:38,307 - INFO -  * Restarting with stat
+2024-11-28 20:43:39,734 - WARNING -  * Debugger is active!
+2024-11-28 20:43:39,736 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:43:40,108 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:43:40,126 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:43:40,126 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:46:54,433 - INFO -  * Restarting with stat
+2024-11-28 20:46:55,862 - WARNING -  * Debugger is active!
+2024-11-28 20:46:55,863 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:46:58,108 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:46:58,122 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:46:58,122 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:47:00,543 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:47:00,543 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:47:02,886 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:47:05,780 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:47:05,781 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:47:05,993 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:47:48,949 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:47:48,949 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:47:48,967 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:47:53,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 20:48:27,022 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: 'list' object has no attribute 'replace'
+2024-11-28 20:48:50,947 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:48:51,758 - INFO -  * Restarting with stat
+2024-11-28 20:48:53,186 - WARNING -  * Debugger is active!
+2024-11-28 20:48:53,188 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:48:53,349 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:48:53,361 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:48:53,362 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:48:56,059 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:48:56,059 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:48:58,690 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:49:01,804 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:49:01,804 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:49:02,062 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:49:48,843 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:49:48,843 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:49:48,861 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:51:31,357 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:51:32,238 - INFO -  * Restarting with stat
+2024-11-28 20:51:34,020 - WARNING -  * Debugger is active!
+2024-11-28 20:51:34,022 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:51:34,082 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:51:34,096 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:51:34,096 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:51:36,960 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:51:36,960 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:51:39,940 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:51:42,820 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:51:42,820 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:51:43,093 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:52:25,335 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:52:25,335 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:52:25,353 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:54:24,389 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-11-28 20:54:25,127 - INFO -  * Restarting with stat
+2024-11-28 20:54:26,698 - WARNING -  * Debugger is active!
+2024-11-28 20:54:26,700 - INFO -  * Debugger PIN: 985-380-359
+2024-11-28 20:54:26,950 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-28 20:54:26,961 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-28 20:54:26,962 - INFO - 单捞磐 盒且 吝...
+2024-11-28 20:54:29,640 - INFO - 单捞磐 盒且 肯丰...
+2024-11-28 20:54:29,640 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-28 20:54:31,993 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-28 20:54:34,428 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-28 20:54:34,429 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-28 20:54:34,633 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-28 20:55:18,688 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-28 20:55:18,688 - INFO - LLM阑 积己 吝ˇ
+2024-11-28 20:55:18,707 - INFO - LLM 积己 肯丰ˇ
+2024-11-28 20:57:26,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 20:57:50,729 - INFO - 悼拳 积己 肯丰.
+2024-11-28 20:57:50,731 - INFO - 悼拳啊 俺备府 空磊狼 背绕.json俊 历厘登菌嚼聪促.
+2024-11-28 21:06:23,698 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 21:06:44,960 - INFO - 悼拳 积己 肯丰.
+2024-11-28 21:06:44,964 - INFO - 悼拳啊 荐康厘 加狼 酒捞客 厘康角狼 惯疙前.json俊 历厘登菌嚼聪促.
+2024-11-28 21:09:44,438 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 21:10:19,036 - INFO - 悼拳 积己 肯丰.
+2024-11-28 21:10:19,037 - INFO - 悼拳啊 龋滴苞磊甫 茫绰 葛氰.json俊 历厘登菌嚼聪促.
+2024-11-28 21:11:41,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-28 21:12:14,221 - INFO - 悼拳 积己 肯丰.
+2024-11-28 21:12:14,223 - INFO - 悼拳啊 咯快客 模备甸狼 葛氰.json俊 历厘登菌嚼聪促.
+2024-11-29 14:02:35,873 - INFO -  * Restarting with stat
+2024-11-29 14:02:38,496 - WARNING -  * Debugger is active!
+2024-11-29 14:02:38,499 - INFO -  * Debugger PIN: 985-380-359
+2024-11-29 14:07:32,800 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-11-29 14:07:32,847 - INFO - 单捞磐 肺靛 肯丰...
+2024-11-29 14:07:32,847 - INFO - 单捞磐 盒且 吝...
+2024-11-29 14:07:38,060 - INFO - 单捞磐 盒且 肯丰...
+2024-11-29 14:07:38,060 - INFO - 烙海爹 葛胆 积己 吝...
+2024-11-29 14:07:50,117 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-11-29 14:07:54,538 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-11-29 14:07:54,538 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-11-29 14:07:55,307 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-29 14:08:46,365 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-11-29 14:08:46,365 - INFO - LLM阑 积己 吝ˇ
+2024-11-29 14:08:46,388 - INFO - LLM 积己 肯丰ˇ
+2024-11-29 14:09:11,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:09:24,427 - INFO - 悼拳 积己 肯丰.
+2024-11-29 14:09:24,429 - INFO - 悼拳啊 蜡酒狼 快沥: 积急 模备甸.json俊 历厘登菌嚼聪促.
+2024-11-29 14:25:44,601 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:26:14,600 - INFO - 悼拳 积己 肯丰.
+2024-11-29 14:26:14,602 - INFO - 悼拳啊 措颇狼 厕.json俊 历厘登菌嚼聪促.
+2024-12-04 12:54:46,699 - INFO -  * Restarting with stat
+2024-12-04 12:54:49,471 - WARNING -  * Debugger is active!
+2024-12-04 12:54:49,473 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 12:54:52,217 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 12:54:52,265 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 12:54:52,266 - INFO - 单捞磐 盒且 吝...
+2024-12-04 12:54:56,838 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 12:54:56,839 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 12:55:13,196 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 12:55:17,173 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 12:55:17,174 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 12:55:19,211 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 12:56:10,420 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 12:56:10,420 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 12:56:10,442 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 12:58:16,162 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 12:58:48,507 - INFO - 悼拳 积己 肯丰.
+2024-12-04 12:58:48,509 - INFO - 悼拳啊 海聪客 措颇狼 付过.json俊 历厘登菌嚼聪促.
+2024-12-04 12:58:49,522 - ERROR - 悼拳 积己 吝 坷幅啊 惯积沁嚼聪促: ['烤朝, 海聪扼绰 部付 家斥捞 混带 累篮 付阑俊绰 芭措茄 措颇圭捞 乐菌嚼聪促. 海聪绰 措颇甫 概快 亮酒沁绢夸. 弊贰辑 弊绰 亲惑 措颇圭栏肺 顿媚唱艾嚼聪促.', '"海聪具, 措颇圭俊辑 愁 锭绰 炼缴秦具 秦. 芭扁浚 见败柳 付过捞 乐绢." 绢赣聪绰 概老 捞繁 炼攫阑 沁嚼聪促. 窍瘤父 海聪绰 弊历 弊繁 娟扁甫 公矫窍帮 沁绢夸. 弊贰辑 绢蠢 朝, 海聪绰 措颇圭俊 甸绢啊辑 顿愁促啊 奴 措颇甫 惯斑沁绢夸.', '"客, 捞扒 沥富 奴 措颇具!" 海聪绰 奴 措颇甫 惯斑窍绊 濒娄 愁耳嚼聪促. 弊 措颇绰 海聪焊促 任纠 歹 那嚼聪促. 弊贰辑 海聪绰 弊 奴 措颇甫 波郴妨绊 沁瘤父, 弊巴篮 框流捞瘤 臼疽绢夸.', '弊锭, 措颇啊 富沁嚼聪促. "海聪具, 唱绰 付过狼 措颇具. 呈啊 唱甫 波郴妨搁 技 啊瘤 矫氰阑 烹苞秦具 秦."', '霉 锅掳 矫氰篮 措颇圭阑 柄昌窍霸 没家窍绰 巴捞菌嚼聪促. 滴 锅掳 矫氰篮 措颇甫 缴阑 荐 乐绰 货肺款 顶阑 茫酒坷绰 巴捞菌绊, 付瘤阜 矫氰篮 措颇甫 荤尔窍绰 付澜阑 焊咯林绰 巴捞菌嚼聪促.', '海聪绰 凯缴洒 矫氰阑 烹苞窍妨 畴仿沁绢夸. 弊绰 措颇圭阑 柄昌捞 没家沁绊, 货肺款 顶阑 茫酒客 措颇甫 缴菌嚼聪促. 付瘤阜栏肺, 弊绰 措颇甫 沥富肺 荤尔茄促绰 巴阑 焊咯林扁 困秦 老林老 悼救 概老 措颇甫 冈菌绢夸.', '弊矾磊 付过狼 措颇绰 眶栏哥 富沁嚼聪促. "海聪具, 匙啊 矫氰阑 葛滴 烹苞沁绢. 匙啊 沥富肺 措颇甫 荤尔茄促绰 巴阑 舅疽绢. 弊贰辑 捞力 呈绰 唱甫 波尘 荐 乐阑芭具."', "海聪绰 奴 措颇甫 波郴绊 咐乐绰 夸府甫 父甸绢辑 模备甸苞 唱床 冈菌绢夸. 弊府绊 弊绰 捞力 歹 捞惑 措颇圭俊辑 顿畴绰 巴捞 酒聪扼, 措颇甫 缴绊 虐快绰 老阑 矫累沁嚼聪促. 弊贰辑 海聪绰 付阑 荤恩甸俊霸 '措颇 空磊'扼绰 喊疙阑 掘菌翠聪促.", '捞 捞具扁甫 烹秦 酒捞甸篮 荤尔苞 畴仿捞 搬角阑 啊廉促 霖促绰 背绕阑 硅匡 荐 乐嚼聪促.'] --> text must be a valid text with maximum 5000 character,otherwise it cannot be translated
+2024-12-04 13:00:55,674 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-12-04 13:00:58,323 - INFO -  * Restarting with stat
+2024-12-04 13:01:01,457 - WARNING -  * Debugger is active!
+2024-12-04 13:01:01,460 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 13:01:01,549 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 13:01:01,573 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 13:01:01,574 - INFO - 单捞磐 盒且 吝...
+2024-12-04 13:01:06,227 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 13:01:06,228 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 13:01:11,122 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 13:01:15,149 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 13:01:15,149 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 13:01:15,955 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 13:02:09,319 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 13:02:09,319 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 13:02:09,344 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 13:03:38,104 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-12-04 13:03:39,840 - INFO -  * Restarting with stat
+2024-12-04 13:03:42,558 - WARNING -  * Debugger is active!
+2024-12-04 13:03:42,562 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 13:03:42,779 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 13:03:42,798 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 13:03:42,798 - INFO - 单捞磐 盒且 吝...
+2024-12-04 13:03:47,359 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 13:03:47,360 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 13:03:51,654 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 13:03:54,993 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 13:03:54,993 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 13:03:55,606 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 13:04:49,794 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 13:04:49,794 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 13:04:49,818 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 13:11:53,296 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-12-04 13:11:55,207 - INFO -  * Restarting with stat
+2024-12-04 13:11:58,222 - WARNING -  * Debugger is active!
+2024-12-04 13:11:58,226 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 13:11:58,248 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 13:11:58,269 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 13:11:58,270 - INFO - 单捞磐 盒且 吝...
+2024-12-04 13:12:02,691 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 13:12:02,691 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 13:12:06,587 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 13:12:10,542 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 13:12:10,542 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 13:12:11,048 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 13:13:02,413 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 13:13:02,413 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 13:13:02,435 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 15:01:46,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 15:02:03,615 - INFO - 悼拳 积己 肯丰.
+2024-12-04 15:02:03,618 - INFO - 悼拳啊 剧颇客 快沥狼 绵力.json俊 历厘登菌嚼聪促.
+2024-12-04 15:11:39,875 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\key.py', reloading
+2024-12-04 15:11:42,038 - INFO -  * Restarting with stat
+2024-12-04 15:11:46,204 - WARNING -  * Debugger is active!
+2024-12-04 15:11:46,208 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:11:47,819 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:11:47,854 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:11:47,855 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:11:53,617 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:11:53,617 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:11:59,130 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:12:02,499 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:12:02,499 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:12:03,787 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:12:55,436 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 15:12:55,436 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 15:12:55,479 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 15:13:02,246 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-12-04 15:13:03,664 - INFO -  * Restarting with stat
+2024-12-04 15:13:06,842 - WARNING -  * Debugger is active!
+2024-12-04 15:13:06,846 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:13:07,942 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:13:07,960 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:13:07,961 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:13:07,962 - ERROR - 巩辑 八祸 吝 坷幅啊 惯积沁嚼聪促: 'NoneType' object has no attribute 'as_retriever'
+2024-12-04 15:13:13,594 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:13:13,594 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:13:18,538 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:13:21,652 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:13:21,652 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:13:22,552 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:14:15,771 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 15:14:15,772 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 15:14:15,809 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 15:14:37,466 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\key.py', reloading
+2024-12-04 15:14:39,089 - INFO -  * Restarting with stat
+2024-12-04 15:14:42,656 - WARNING -  * Debugger is active!
+2024-12-04 15:14:42,660 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:14:43,705 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\key.py', reloading
+2024-12-04 15:14:44,155 - INFO -  * Restarting with stat
+2024-12-04 15:14:47,958 - WARNING -  * Debugger is active!
+2024-12-04 15:14:47,961 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:14:49,639 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:14:49,658 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:14:49,658 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:14:55,610 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:14:55,610 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:15:01,023 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:15:03,773 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:15:03,774 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:15:04,477 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:15:10,826 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\key.py', reloading
+2024-12-04 15:15:12,392 - INFO -  * Restarting with stat
+2024-12-04 15:15:15,346 - WARNING -  * Debugger is active!
+2024-12-04 15:15:15,348 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:15:15,489 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:15:15,516 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:15:15,516 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:15:21,128 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:15:21,128 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:15:26,322 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:15:29,783 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:15:29,785 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:15:30,523 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:15:35,192 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\key.py', reloading
+2024-12-04 15:15:36,608 - INFO -  * Restarting with stat
+2024-12-04 15:15:40,245 - WARNING -  * Debugger is active!
+2024-12-04 15:15:40,248 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:15:43,298 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:15:43,326 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:15:43,327 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:15:49,155 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:15:49,155 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:15:54,864 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:15:58,858 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:15:58,859 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:15:59,734 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:16:54,369 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 15:16:54,370 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 15:16:54,395 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 15:18:21,718 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-12-04 15:18:23,390 - INFO -  * Restarting with stat
+2024-12-04 15:18:26,438 - WARNING -  * Debugger is active!
+2024-12-04 15:18:26,441 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:18:26,474 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:18:26,489 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:18:26,489 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:18:31,683 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:18:31,684 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:18:36,454 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:18:39,711 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:18:39,711 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:18:40,529 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:19:34,206 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 15:19:34,207 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 15:19:34,237 - INFO - LLM 积己 肯丰ˇ
+2024-12-04 15:19:41,331 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-04 15:20:00,922 - INFO - 悼拳 积己 肯丰.
+2024-12-04 15:20:00,923 - INFO - 悼拳啊 措颇客 模备甸狼 丑厘 葛氰.json俊 历厘登菌嚼聪促.
+2024-12-04 15:46:13,128 - INFO -  * Detected change in 'C:\\Users\\guym3\\Documents\\ai\\fairytale_project-main\\src\\fairy_tale_generation.py', reloading
+2024-12-04 15:46:15,019 - INFO -  * Restarting with stat
+2024-12-04 15:46:19,111 - WARNING -  * Debugger is active!
+2024-12-04 15:46:19,115 - INFO -  * Debugger PIN: 985-380-359
+2024-12-04 15:46:19,133 - INFO - 单捞磐甫 肺靛钦聪促...
+2024-12-04 15:46:19,152 - INFO - 单捞磐 肺靛 肯丰...
+2024-12-04 15:46:19,153 - INFO - 单捞磐 盒且 吝...
+2024-12-04 15:46:24,886 - INFO - 单捞磐 盒且 肯丰...
+2024-12-04 15:46:24,886 - INFO - 烙海爹 葛胆 积己 吝...
+2024-12-04 15:46:31,204 - INFO - Load pretrained SentenceTransformer: jhgan/ko-sroberta-multitask
+2024-12-04 15:46:34,304 - INFO - 烙海爹 葛胆 积己 肯丰...
+2024-12-04 15:46:34,305 - INFO - 氦磐 单捞磐海捞胶 积己 吝...
+2024-12-04 15:46:35,045 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-12-04 15:47:31,739 - INFO - 氦磐 单捞磐海捞胶 积己 肯丰...
+2024-12-04 15:47:31,739 - INFO - LLM阑 积己 吝ˇ
+2024-12-04 15:47:31,769 - INFO - LLM 积己 肯丰ˇ

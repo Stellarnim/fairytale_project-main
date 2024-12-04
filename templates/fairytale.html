@@ -9,6 +9,12 @@
     <title></title>
 </head>
 <body>
+<div id="loading-modal"
+     style="display: none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:9999; justify-content:center; align-items:center;">
+    <div style="background:white; padding:20px; border-radius:5px; text-align:center;">
+        <p>동화 생성 중입니다...</p>
+    </div>
+</div>
 <div class="relative flex h-full w-full overflow-hidden transition-colors">
     <div class="flex h-full bg-surface overflow-x-hidden"
          style="width: 400px; visibility: visible; will-change: auto; height: 100vh;" id="sidebar">
@@ -45,28 +51,28 @@
             <div class="flex-1 flex-col flex w-full h-full px-2 py-2" style="border: solid black">
                 <div class="w-full h-full" id="story-box_left"></div>
                 <div class="flex-row h-10 px-2">
-                    <textarea class="h-full w-4 bg-transparent resize-none button-size"
-                              id="left_page_number"></textarea>
                     <button class="icon-button" id="prev-btn">
                         <img src="./static/icon/left-arrow.png"/>
                     </button>
                     <button class="icon-button" id="left-tts">
                         <img src="./static/icon/tts.png"/>
                     </button>
+                    <textarea readonly class="h-full w-4 bg-transparent resize-none button-size text-center"
+                              id="left_page_number"></textarea>
                 </div>
             </div>
             <div class="w-10 h-full"></div>
             <div class="flex-1 flex-col flex w-full h-full px-2 py-2" style="border: solid black">
                 <div class="w-full h-full" id="story-box_right"></div>
                 <div class="flex-row h-10 px-2 text-right">
+                    <textarea readonly class="h-full w-4 bg-transparent resize-none button-size text-center"
+                              id="right_page_number"></textarea>
                     <button class="icon-button" id="right-tts">
                         <img src="./static/icon/tts.png"/>
                     </button>
                     <button class="icon-button" id="next-btn">
                         <img src="./static/icon/right-arrow.png"/>
                     </button>
-                    <textarea class="h-full w-4 bg-transparent resize-none button-size"
-                              id="right_page_number"></textarea>
                 </div>
             </div>
         </div>
@@ -106,8 +112,8 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.0/socket.io.min.js"></script>
 <script>
-    const socket = io.connect('http://localhost:5000');
-
+    let socket = io.connect('http://localhost:5000');
+    let storyTitle = [];
     let storyParts = []; // 전체 동화의 문장 그룹
     let currentIndex = 0; // 현재 표시 중인 첫 번째 문장 그룹의 인덱스
 
@@ -115,21 +121,17 @@
         console.log("동화 생성 준비 완료:", message);
     });
 
-    socket.on('start_story', function (data) {
-        const leftStoryBox = document.getElementById('story-box_left');
-        const rightStoryBox = document.getElementById('story-box_right');
-        leftStoryBox.innerHTML = '';
-        rightStoryBox.innerHTML = '';
-
-        // 동화 문장 그룹 저장
-        storyParts = data.stories;
-        currentIndex = 0; // 초기화
-
+    socket.on('generate_story', function (data) {
+        hideLoadingModal();
+        clearstory();
+        storyTitle = data.story_title;
+        storyParts = data.story_parts;
         // 첫 번째 두 그룹을 표시
         displayStory();
     })
 
     socket.on('story_error', function (errorMessage) {
+        hideLoadingModal();
         const storybox = document.getElementById('story-box_left');
         const errorParagraph = document.createElement('p');
         errorParagraph.style.color = 'red';
@@ -137,23 +139,39 @@
         storybox.appendChild(errorParagraph);
     });
 
+    function showLoadingModal() {
+        document.getElementById('loading-modal').style.display = 'flex';
+    }
+
+    function hideLoadingModal() {
+        document.getElementById('loading-modal').style.display = 'none';
+    }
+
     function displayStory() {
         const leftStoryBox = document.getElementById('story-box_left');
         const rightStoryBox = document.getElementById('story-box_right');
 
-        // 좌측 박스에 현재 문장 표시
-        leftStoryBox.innerHTML = storyParts[currentIndex] || '';
+        if (currentIndex === 0) {
+            leftStoryBox.textContent = storyTitle;
+            rightStoryBox.textContent = storyParts[currentIndex];
+        } else {
+            leftStoryBox.textContent = storyParts[currentIndex - 1] || '';
+            rightStoryBox.textContent = storyParts[currentIndex] || '';
+        }
 
-        // 우측 박스에 다음 문장 표시
-        rightStoryBox.innerHTML = storyParts[currentIndex + 1] || '';
+        displayPageNumber();
     }
 
     function displayPageNumber() {
         const leftPageNumber = document.getElementById('left_page_number');
         const rightPageNumber = document.getElementById('right_page_number');
 
-        leftPageNumber.innerHTML = currentIndex + 1;
-        rightPageNumber.innerHTML = currentIndex + 2;
+        leftPageNumber.textContent = currentIndex + 1;
+        if (storyParts[currentIndex] != null) {
+            rightPageNumber.textContent = currentIndex + 2;
+        } else {
+            rightPageNumber.textContent = null;
+        }
     }
 
     document.getElementById('prev-btn').addEventListener('click', () => {
@@ -168,14 +186,30 @@
 
     // 다음 버튼 동작
     document.getElementById('next-btn').addEventListener('click', () => {
-        if (currentIndex + 2 < storyParts.length) {
+        if (currentIndex + 2 > storyParts.length) {
+            alert('마지막 페이지입니다.');
+        } else {
             currentIndex += 2;
             displayStory();
             displayPageNumber();
-        } else {
-            alert('마지막 페이지입니다.');
         }
     });
+
+    document.querySelector('#keyword-area').addEventListener('keydown', function (event) {
+        if (event.key === 'Enter') {  // Enter 키 확인
+            if (event.shiftKey) {
+            } else {
+                event.preventDefault();   // 기본 동작 방지 (폼 제출 방지)
+                start_onclick(); // 버튼 클릭 트리거
+            }
+        }
+    });
+
+    function clearstory() {
+        storyTitle = [];
+        storyParts = [];
+        currentIndex = 0;
+    }
 
     function start_onclick() {
         const keywordsTextarea = document.querySelector('#keyword-area');
@@ -186,6 +220,7 @@
             alert('연령을 입력해주세요.');
             return;
         }
+        showLoadingModal();
         socket.emit('start_story', {keywords: keywords, readage: readage});
         keywordsTextarea.value = '';
     }
@@ -208,15 +243,14 @@
         const leftPageNumber = document.getElementById('left_page_number');
         const leftstorybox = document.getElementById('story-box_left');
 
-        if (leftPageNumber.value = 1){
+        if (leftPageNumber.value = 1) {
             leftstorybox.style.textAlign = 'center';
             leftstorybox.style.fontWeight = 'bold';
             leftstorybox.style.alignItems = 'center';
-        }
-        else
+        } else
             leftstorybox.style.textAlign = 'start';
-            leftstorybox.style.fontWeight = 'normal';
-            leftstorybox.style.alignItems = 'normal';
+        leftstorybox.style.fontWeight = 'normal';
+        leftstorybox.style.alignItems = 'normal';
     }
 
     function keepMenu() {

@@ -59,7 +59,6 @@ def load_and_process_data(base_dir, output_dir):
     new_data = [item for item in categories[category] if item['title'] not in existing_titles]
     combined_data = existing_data + new_data
 
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(combined_data, f, ensure_ascii=False, indent=4)
 
