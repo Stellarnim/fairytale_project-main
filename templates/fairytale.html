@@ -36,7 +36,8 @@
             </div>
         </div>
     </div>
-    <a class="flex h-full max-w-full overflow-x-hidden flex-1 nanum-pen-script-regular flex-col" style="height: 100vh">
+    <a class="flex h-full max-w-full overflow-x-hidden nanum-pen-script-regular flex-1 flex-col" style="height: 100vh">
+        <!-- nanum-pen-script-regular -->
         <nav class="flex w-full px-3">
             <div class="flex item-center h-[60px] header-height">
                             <span class="flex">
@@ -48,13 +49,14 @@
             </div>
         </nav>
         <div class="flex-row flex item-center h-full min-h-0 px-20 py-3" id="story_container">
-            <div class="flex-1 flex-col flex w-full h-full px-2 py-2" style="border: solid black">
-                <div class="w-full h-full" id="story-box_left"></div>
+            <div class="flex-1 flex-col flex w-full h-full px-2 py-2 background-image" style="border: solid black"
+                 id="left-container">
+                <div class="w-full h-full bg-transparent" id="story-box-left"></div>
                 <div class="flex-row h-10 px-2">
-                    <button class="icon-button" id="prev-btn">
+                    <button class="icon-button bg-transparent" id="prev-btn">
                         <img src="./static/icon/left-arrow.png"/>
                     </button>
-                    <button class="icon-button" id="left-tts">
+                    <button class="icon-button bg-transparent" id="left-tts">
                         <img src="./static/icon/tts.png"/>
                     </button>
                     <textarea readonly class="h-full w-4 bg-transparent resize-none button-size text-center"
@@ -62,15 +64,16 @@
                 </div>
             </div>
             <div class="w-10 h-full"></div>
-            <div class="flex-1 flex-col flex w-full h-full px-2 py-2" style="border: solid black">
-                <div class="w-full h-full" id="story-box_right"></div>
+            <div class="flex-1 flex-col flex w-full h-full px-2 py-2 background-image" style="border: solid black"
+                 id="right-container">
+                <div class="w-full h-full bg-transparent" id="story-box-right"></div>
                 <div class="flex-row h-10 px-2 text-right">
                     <textarea readonly class="h-full w-4 bg-transparent resize-none button-size text-center"
                               id="right_page_number"></textarea>
-                    <button class="icon-button" id="right-tts">
+                    <button class="icon-button bg-transparent" id="right-tts">
                         <img src="./static/icon/tts.png"/>
                     </button>
-                    <button class="icon-button" id="next-btn">
+                    <button class="icon-button bg-transparent" id="next-btn">
                         <img src="./static/icon/right-arrow.png"/>
                     </button>
                 </div>
@@ -148,15 +151,17 @@
     }
 
     function displayStory() {
-        const leftStoryBox = document.getElementById('story-box_left');
-        const rightStoryBox = document.getElementById('story-box_right');
+        const leftStoryBox = document.getElementById('story-box-left');
+        const rightStoryBox = document.getElementById('story-box-right');
 
         if (currentIndex === 0) {
             leftStoryBox.textContent = storyTitle;
             rightStoryBox.textContent = storyParts[currentIndex];
+            displayStoryImage();
         } else {
             leftStoryBox.textContent = storyParts[currentIndex - 1] || '';
             rightStoryBox.textContent = storyParts[currentIndex] || '';
+            displayStoryImage();
         }
 
         displayPageNumber();
@@ -241,16 +246,17 @@
 
     function titledisplay() {
         const leftPageNumber = document.getElementById('left_page_number');
-        const leftstorybox = document.getElementById('story-box_left');
+        const leftstorybox = document.getElementById('story-box-left');
 
-        if (leftPageNumber.value = 1) {
+        if (leftPageNumber.value == 1) {
             leftstorybox.style.textAlign = 'center';
             leftstorybox.style.fontWeight = 'bold';
             leftstorybox.style.alignItems = 'center';
-        } else
+        } else {
             leftstorybox.style.textAlign = 'start';
-        leftstorybox.style.fontWeight = 'normal';
-        leftstorybox.style.alignItems = 'normal';
+            leftstorybox.style.fontWeight = 'normal';
+            leftstorybox.style.alignItems = 'normal';
+        }
     }
 
     function keepMenu() {
@@ -292,6 +298,24 @@
             button_open.style.visibility = 'hidden';
             button_open.style.display = 'none';
         }
+    }
+
+    function displayStoryImage() {
+        const leftStoryBox = document.getElementById('left-container');
+        const rightStoryBox = document.getElementById('right-container');
+        const leftPageNumber = document.getElementById('left_page_number');
+        const rightPageNumber = document.getElementById('right_page_number');
+
+        leftStoryBox.style.backgroundImage = "url('/src/illustrations/지각하지 않는 초콜릿 사랑의 비밀_1.png')";
+        rightStoryBox.style.backgroundImage = "url('/src/illustrations/지각하지 않는 초콜릿 사랑의 비밀_2.png')";
+    }
+
+    function imgtest() {
+        const leftStoryBox = document.getElementById('left-container');
+        const rightStoryBox = document.getElementById('right-container');
+
+        leftStoryBox.style.backgroundImage = "url('/static/illustrations/지각하지 않는 초콜릿 사랑의 비밀_1.png')";
+        rightStoryBox.style.backgroundImage = "url('/static/illustrations/지각하지 않는 초콜릿 사랑의 비밀_2.png')";
     }
 </script>
 </body>

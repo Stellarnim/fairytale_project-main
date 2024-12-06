@@ -202,9 +202,9 @@ def generate_story(keywords, readage, socketio):
 
         logging.info("동화가 " + str(story_title) + ".json에 저장되었습니다.")
 
-        socketio.emit('generate_story', {"story_title": story_title, "story_parts": story_parts})
+        """generate_illustrations_from_story(story_title, story_parts)"""
 
-        generate_illustrations_from_story(story_title, story_parts)
+        socketio.emit('generate_story', {"story_title": story_title, "story_parts": story_parts})
 
     except Exception as e:
         logging.error(f"동화 생성 중 오류가 발생했습니다: {e}")
@@ -218,7 +218,7 @@ def generate_illustrations_from_story(story_title, story_parts):
     os.makedirs("illustrations", exist_ok=True)  # 삽화를 저장할 디렉토리 생성
     hf_api_key = os.getenv("HUGGINGFACE_API_KEY")
     print(hf_api_key)# Hugging Face API 키 로드
-    headers = {"Authorization": f"Bearer {hf_api_key}"}  # 인증 헤더 설정
+    headers = {'Authorization': f"Bearer {hf_api_key}"}  # 인증 헤더 설정
 
     translated_paragraphs = []  # 번역된 문단 저장
 
@@ -254,8 +254,10 @@ def generate_illustrations_from_story(story_title, story_parts):
                 response = requests.post(
                     "https://api-inference.huggingface.co/models/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template",
                     headers=headers,
-                    json={"inputs": prompt}
+                    json={"inputs": prompt},
+                    timeout=20
                 )
+                print(f"Response: {response.status_code}")
 
                 if response.status_code == 200:  # 이미지 생성 성공 시
                     with open(f"illustrations/{story_title}_{i}.png", "wb") as f:
