@@ -21,16 +21,15 @@
         <div class="h-full w-[400px]">
             <div class="flex h-full min-h-0 flex-col">
                 <nav class="flex w-full h-full flex-col px-3">
-                    <div class="flex justify-between item-center h-[60px] header-height">
+                    <div class="flex justify-between item-center h-[60px] header-height py-3">
                                 <span class="flex">
                                     <button aria-label="사이드바 닫기" id="close-sidebar-button"
-                                            class="h-10 rounded-ic px-2 hover" onclick="sidebar_onclick()"><div
+                                            class="h-10 rounded-ic px-2 hover" style="color: white;" onclick="sidebar_onclick()"><div
                                             id="close"
                                             style="font-size:16px; width: 24px; display: block;">☰</div></button>
                                 </span>
                     </div>
-                    <div class="flex item-center flex-col h-full">
-
+                    <div class="flex item-center flex-col h-full px-10 py-3 overflow-y-auto" id="sidebar-content-list">
                     </div>
                 </nav>
             </div>
@@ -131,7 +130,7 @@
         storyParts = data.story_parts;
         // 첫 번째 두 그룹을 표시
         displayStory();
-    })
+    });
 
     socket.on('story_error', function (errorMessage) {
         hideLoadingModal();
@@ -140,6 +139,40 @@
         errorParagraph.style.color = 'red';
         errorParagraph.textContent = errorMessage;
         storybox.appendChild(errorParagraph);
+    });
+
+    socket.on('load_lists', function (data) {
+        const lists = document.getElementById('sidebar-content-list');
+
+        data.file_names.forEach(title => {
+            // 새 버튼 생성
+            const button = document.createElement('button');
+
+            // 버튼의 텍스트 설정
+            button.textContent = title;
+
+            // 버튼 클릭 시 동작 정의
+            button.addEventListener('click', () => {
+                socket.emit('load_fairytale', {title: button.textContent});
+                alert(button.textContent);
+            });
+
+            button.classList.add('side-list-button');
+            button.classList.add('nanum-pen-script-regular');
+            button.classList.add('overflow-x-hidden');
+            button.classList.add('overflow-y-hidden');
+
+            // 생성된 버튼을 컨테이너에 추가
+            lists.appendChild(button);
+        });
+    });
+
+    socket.on('load_fairytale', (data) => {
+        clearstory();
+        storyTitle = data.story_title;
+        storyParts = data.story_parts;
+        // 첫 번째 두 그룹을 표시
+        displayStory();
     });
 
     function showLoadingModal() {
@@ -186,6 +219,7 @@
             displayPageNumber();
         } else {
             alert('첫 페이지입니다.');
+            imgtest();
         }
     });
 
@@ -193,6 +227,7 @@
     document.getElementById('next-btn').addEventListener('click', () => {
         if (currentIndex + 2 > storyParts.length) {
             alert('마지막 페이지입니다.');
+            imgtest();
         } else {
             currentIndex += 2;
             displayStory();
@@ -306,16 +341,16 @@
         const leftPageNumber = document.getElementById('left_page_number');
         const rightPageNumber = document.getElementById('right_page_number');
 
-        leftStoryBox.style.backgroundImage = "url('/src/illustrations/지각하지 않는 초콜릿 사랑의 비밀_1.png')";
-        rightStoryBox.style.backgroundImage = "url('/src/illustrations/지각하지 않는 초콜릿 사랑의 비밀_2.png')";
+        leftStoryBox.style.backgroundImage = "url('/static/illustrations/" + encodeURIComponent("지각하지 않는 초콜릿 사랑의 비밀_1") + ".png')";
+        rightStoryBox.style.backgroundImage = "url('static/illustrations/" + encodeURIComponent(storyTitle) + "_2.png')";
     }
 
     function imgtest() {
         const leftStoryBox = document.getElementById('left-container');
         const rightStoryBox = document.getElementById('right-container');
 
-        leftStoryBox.style.backgroundImage = "url('/static/illustrations/지각하지 않는 초콜릿 사랑의 비밀_1.png')";
-        rightStoryBox.style.backgroundImage = "url('/static/illustrations/지각하지 않는 초콜릿 사랑의 비밀_2.png')";
+        leftStoryBox.style.backgroundImage = "url('/static/illustrations/" + encodeURIComponent("지각하지 않는 초콜릿 사랑의 비밀_1") + ".png')";
+        rightStoryBox.style.backgroundImage = "url('static/illustrations/" + encodeURIComponent(storyTitle) + "_2.png')";
     }
 </script>
 </body>

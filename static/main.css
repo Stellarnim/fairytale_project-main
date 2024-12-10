@@ -38,6 +38,14 @@ button, input, optgroup, select, textarea {
     padding: 0;
 }
 
+.side-list-button{
+    color: white;
+    background-color: #6c331b;
+    width: 100%;
+    transition: width .5s ease;
+    margin-bottom: 5px;
+    min-height: 40px;
+}
 .background-image {
     background-size: cover;
     background-position: center;
@@ -126,7 +134,7 @@ button, input, optgroup, select, textarea {
 }
 
 * {
-    scrollbar-color: #8c531b transparent;
+    scrollbar-color: #9c531b transparent;
 }
 
 *, :after, :before {
@@ -206,6 +214,11 @@ button, input, optgroup, select, textarea {
     padding-right: .75rem;
 }
 
+.px-10 {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
 .py-1 {
     padding-bottom: .25rem;
     padding-top: .25rem;
@@ -259,7 +272,6 @@ button, input, optgroup, select, textarea {
 .button-size {
     width: 36px;
     height: 36px;
-
 }
 
 .w-10 {

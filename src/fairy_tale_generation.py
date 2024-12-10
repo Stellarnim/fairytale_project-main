@@ -1,5 +1,6 @@
 import os
 import json
+import glob
 import logging
 import threading
 import requests
@@ -22,18 +23,16 @@ is_initialized = False
 
 # 로깅 설정
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[logging.StreamHandler(), logging.FileHandler("app.log")]
 )
-
 
 def load_environment():
     try:
         load_dotenv('../.env')
         if not os.getenv("OPENAI_API_KEY") or not os.getenv("HUGGINGFACE_API_KEY"):
             raise ValueError("API 키를 찾을 수 없습니다. .env 파일을 확인해 주세요.")  # 키가 없을 경우 에러 발생
-        print("환경 변수 로드 완료")  # 로딩 완료 메시지 출력
     except Exception as e:
         logging.error(f"환경 변수 로드 중 오류 발생: {e}")
         exit()
@@ -92,9 +91,14 @@ def embed_documents(docs, model, save_directory="./chroma_db"):
     if os.path.exists(save_directory):
         shutil.rmtree(save_directory)
 
-    db = Chroma.from_documents(docs, model, persist_directory=save_directory)
-    logging.info("벡터 데이터베이스 생성 완료...")
-    return db
+    logging.debug(f"문서 개수: {len(docs)}")
+    try:
+        db = Chroma.from_documents(docs, model, persist_directory=save_directory)
+        logging.info("벡터 데이터베이스 생성 완료...")
+        return db
+    except Exception as e:
+        logging.error(f"벡터 데이터베이스 생성 중 오류 발생: {e}")
+        raise
 
 
 def create_llm(model_name="gpt-4", max_tokens=1500, temperature=0.7):
@@ -136,6 +140,28 @@ def gen_run():
     return llm, db
 
 
+def load_lists(socketio):
+    folder_path = './gen_stories'
+
+    json_files = glob.glob(os.path.join(folder_path, "*.json"))
+    file_names = [os.path.splitext(os.path.basename(json_file))[0] for json_file in json_files]
+
+    socketio.emit('load_lists', {"file_names": file_names})
+
+
+"""def load_fairytale(title, socketio):
+    folder_path = './gen_stories'
+    file_path = os.path.join(folder_path, title + '.    json')
+
+    with open(file_path, 'r', encoding='utf-8') as file:
+        print(file_path)
+        data = json.load(file)
+
+    story_parts = [item.get('description', '내용 없음') for item in data if isinstance(item, dict)]
+
+    socketio.emit("load_fairytale", {"story_title": title, "story_parts": story_parts})
+
+"""
 def generate_story(keywords, readage, socketio):
     query = ", ".join(keywords)
 
@@ -211,13 +237,14 @@ def generate_story(keywords, readage, socketio):
         socketio.emit('story_error')
         return
 
+
 def generate_illustrations_from_story(story_title, story_parts):
     """
     각 문단마다 품질 높은 삽화를 생성하는 함수
     """
     os.makedirs("illustrations", exist_ok=True)  # 삽화를 저장할 디렉토리 생성
     hf_api_key = os.getenv("HUGGINGFACE_API_KEY")
-    print(hf_api_key)# Hugging Face API 키 로드
+    print(hf_api_key)  # Hugging Face API 키 로드
     headers = {'Authorization': f"Bearer {hf_api_key}"}  # 인증 헤더 설정
 
     translated_paragraphs = []  # 번역된 문단 저장
@@ -229,7 +256,6 @@ def generate_illustrations_from_story(story_title, story_parts):
     except Exception as e:
         logging.error(f"번역 중 오류 발생: {e}")
         return
-
 
     for i, paragraph in enumerate(translated_paragraphs, start=1):
         # 각 문단을 기반으로 한 삽화 생성 프롬프트 설정
@@ -251,7 +277,7 @@ def generate_illustrations_from_story(story_title, story_parts):
             try:
                 print(f"Generating illustration {i} with prompt: {prompt}")  # 삽화 생성 시작 메시지
                 # Hugging Face API 호출하여 이미지 생성
-                response = requests.post(
+                response = requests.Session().post(
                     "https://api-inference.huggingface.co/models/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template",
                     headers=headers,
                     json={"inputs": prompt},
