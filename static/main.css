@@ -25,6 +25,10 @@ button {
     text-transform: none;
 }
 
+button:active {
+    transform: scale(0.95); /* 클릭 시 살짝 작아지는 효과 */
+}
+
 button, input, optgroup, select, textarea {
     font-feature-settings: inherit;
     color: inherit;
@@ -69,7 +73,7 @@ button, input, optgroup, select, textarea {
 }
 
 .flex-1 {
-    flex: 1 1 0%;
+    flex: 1 1 0;
 }
 
 .flex-col {
@@ -337,7 +341,7 @@ button, input, optgroup, select, textarea {
     background-color: #fff;
     padding: 10px;
     border: 1px solid #ddd;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     width: 200px;
     z-index: 10;

@@ -3,17 +3,20 @@ import json
 import glob
 import logging
 import threading
-import requests
 import time
+import torch
+import asyncio
 from deep_translator import GoogleTranslator
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
-from langchain.prompts.chat import ChatPromptTemplate
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.schema import Document
+from diffusers import DiffusionPipeline
+from huggingface_hub import login
+from tts import generate_and_play_audio
 
 # 싱글톤 관련 글로벌 변수
 llm = None
@@ -21,22 +24,21 @@ db = None
 singleton_lock = threading.Lock()
 is_initialized = False
 
-# 로깅 설정
 logging.basicConfig(
-    level=logging.DEBUG,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-    handlers=[logging.StreamHandler(), logging.FileHandler("app.log")]
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('app.log'),
+        logging.StreamHandler()  # 콘솔 출력 추가
+    ]
 )
 
 def load_environment():
-    try:
-        load_dotenv('../.env')
-        if not os.getenv("OPENAI_API_KEY") or not os.getenv("HUGGINGFACE_API_KEY"):
-            raise ValueError("API 키를 찾을 수 없습니다. .env 파일을 확인해 주세요.")  # 키가 없을 경우 에러 발생
-    except Exception as e:
-        logging.error(f"환경 변수 로드 중 오류 발생: {e}")
-        exit()
-
+    import os
+    load_dotenv('../.env')
+    if not os.getenv("OPENAI_API_KEY") or not os.getenv("HUGGINGFACE_API_KEY"):
+        logging.error("API 키가 누락되었습니다.")
+        raise EnvironmentError("Missing API keys in .env file.")
 
 def load_processed_data(category):
     logging.info("데이터를 로드합니다...")
@@ -48,10 +50,10 @@ def load_processed_data(category):
         return data
     except FileNotFoundError:
         logging.error(f"파일을 찾을 수 없습니다: {file_path}")
-        exit()
+        raise FileNotFoundError(f"Cannot find the file: {file_path}")
     except json.JSONDecodeError:
         logging.error(f"JSON 파일을 디코딩하는 중 오류가 발생했습니다: {file_path}")
-        exit()
+        raise ValueError(f"Invalid JSON format in file: {file_path}")
 
 
 def split_text(data, chunk_size=2000, chunk_overlap=500):
@@ -70,9 +72,14 @@ def split_text(data, chunk_size=2000, chunk_overlap=500):
 
 
 def create_embedding_model():
-    logging.info("임베딩 모델 생성 중...")
+    if torch.cuda.is_available():
+        device = 'cuda'  # GPU 사용
+    else:
+        device = 'cpu'  # GPU가 없는 경우 CPU 사용
+
+    logging.info("임베딩 모델 생성 중... device: {}".format(device))
     model_name = "jhgan/ko-sroberta-multitask"
-    model_kwargs = {'device': 'cpu'}
+    model_kwargs = {'device': device}
     encode_kwargs = {'normalize_embeddings': True, 'clean_up_tokenization_spaces': False}
     embedding_model = HuggingFaceEmbeddings(
         model_name=model_name,
@@ -144,24 +151,38 @@ def load_lists(socketio):
     folder_path = './gen_stories'
 
     json_files = glob.glob(os.path.join(folder_path, "*.json"))
-    file_names = [os.path.splitext(os.path.basename(json_file))[0] for json_file in json_files]
+    sorted_files = sorted(json_files, key=os.path.getctime)
+
+    file_names = [os.path.splitext(os.path.basename(sorted_file))[0] for sorted_file in sorted_files]
 
     socketio.emit('load_lists', {"file_names": file_names})
 
 
-"""def load_fairytale(title, socketio):
+def load_fairytale(title, socketio):
     folder_path = './gen_stories'
-    file_path = os.path.join(folder_path, title + '.    json')
+    file_path = os.path.join(folder_path, title + '.json')
 
-    with open(file_path, 'r', encoding='utf-8') as file:
-        print(file_path)
-        data = json.load(file)
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
 
-    story_parts = [item.get('description', '내용 없음') for item in data if isinstance(item, dict)]
+        print(f"Loaded JSON: {data}")  # 디버깅 출력
 
-    socketio.emit("load_fairytale", {"story_title": title, "story_parts": story_parts})
+        # 'description' 필드를 읽어와서 스토리 부분으로 사용
+        story_parts = data.get('description', ['내용 없음'])  # description이 없으면 기본값
+        if not isinstance(story_parts, list):
+            story_parts = [str(story_parts)]  # 리스트가 아닌 경우 리스트로 변환
 
-"""
+        print(f"Story parts: {story_parts}")  # 디버깅 출력
+        socketio.emit("load_fairytale", {"story_title": title, "story_parts": story_parts})
+
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+        socketio.emit("load_fairytale_error", {"error": "File not found"})
+    except json.JSONDecodeError:
+        print(f"Error decoding JSON: {file_path}")
+        socketio.emit("load_fairytale_error", {"error": "Invalid JSON format"})
+
 def generate_story(keywords, readage, socketio):
     query = ", ".join(keywords)
 
@@ -197,8 +218,8 @@ def generate_story(keywords, readage, socketio):
     {context_text}
     """
 
-    story_parts = []
     story_title = None
+    story_parts = []
 
     try:
         response = llm.invoke([{"role": "system", "content": prompt_text}])
@@ -228,7 +249,10 @@ def generate_story(keywords, readage, socketio):
 
         logging.info("동화가 " + str(story_title) + ".json에 저장되었습니다.")
 
-        """generate_illustrations_from_story(story_title, story_parts)"""
+        logging.info("이미지와 TTS 생성중...")
+        asyncio.run(generate_and_play_audio(story_title, story_parts))
+        generate_illustrations_from_story(story_title, story_parts)
+
 
         socketio.emit('generate_story', {"story_title": story_title, "story_parts": story_parts})
 
@@ -243,16 +267,36 @@ def generate_illustrations_from_story(story_title, story_parts):
     각 문단마다 품질 높은 삽화를 생성하는 함수
     """
     os.makedirs("illustrations", exist_ok=True)  # 삽화를 저장할 디렉토리 생성
+
     hf_api_key = os.getenv("HUGGINGFACE_API_KEY")
-    print(hf_api_key)  # Hugging Face API 키 로드
-    headers = {'Authorization': f"Bearer {hf_api_key}"}  # 인증 헤더 설정
+    if not hf_api_key:
+        logging.error("HUGGINGFACE_API_KEY 환경 변수를 설정해야 합니다.")
+        return
+
+    try:
+        login(token=hf_api_key)
+    except Exception as e:
+        logging.error(f"Hugging Face 로그인 중 오류 발생: {e}")
+        return
+
+    try:
+        pipe = DiffusionPipeline.from_pretrained("black-forest-labs/FLUX.1-dev")
+        pipe.load_lora_weights("Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template")
+        pipe.to("cuda" if torch.cuda.is_available() else "cpu")
+    except Exception as e:
+        logging.error(f"모델 로드 중 오류 발생: {e}")
+        return
 
     translated_paragraphs = []  # 번역된 문단 저장
 
     try:
+        translated_title = GoogleTranslator(source="auto", target="en").translate(story_title)
+        translated_paragraphs.append(translated_title)
+
         for part in story_parts:
             translated_paragraph = GoogleTranslator(source='ko', target='en').translate(part)
             translated_paragraphs.append(translated_paragraph)
+
     except Exception as e:
         logging.error(f"번역 중 오류 발생: {e}")
         return
@@ -269,44 +313,13 @@ def generate_illustrations_from_story(story_title, story_parts):
             "Do not include text in the image. Focus on visually telling the story through expressions and details that children can easily understand and connect with."
         )
 
-        max_retries = 3  # 최대 재시도 횟수 설정
-        retries = 0  # 현재 재시도 횟수 초기화
-        success = False  # 성공 여부 플래그 초기화
-
-        while not success and retries < max_retries:
-            try:
-                print(f"Generating illustration {i} with prompt: {prompt}")  # 삽화 생성 시작 메시지
-                # Hugging Face API 호출하여 이미지 생성
-                response = requests.Session().post(
-                    "https://api-inference.huggingface.co/models/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template",
-                    headers=headers,
-                    json={"inputs": prompt},
-                    timeout=20
-                )
-                print(f"Response: {response.status_code}")
-
-                if response.status_code == 200:  # 이미지 생성 성공 시
-                    with open(f"illustrations/{story_title}_{i}.png", "wb") as f:
-                        f.write(response.content)  # 이미지를 파일로 저장
-                    print(f"Generated illustration saved as 'illustrations/{story_title}_{i}.png'")
-                    success = True  # 성공 플래그 업데이트
-                elif response.status_code == 503:  # 모델 로딩 중인 경우
-                    print("Model is loading; retrying in 20 seconds...")
-                    time.sleep(20)
-                elif response.status_code == 500:  # 서버 에러 발생 시
-                    print("Server error encountered; retrying in 5 seconds...")
-                    time.sleep(5)
-                elif response.status_code == 429:  # 요청 제한 초과 시
-                    print("Request limit reached; waiting for 1 minute before retrying...")
-                    time.sleep(60)
-                else:
-                    print(f"Error generating illustration: {response.status_code} - {response.text}")
-                    break  # 기타 오류 발생 시 반복 종료
-            except Exception as e:
-                print(f"Illustration generation error for part {i}: {e}")  # 예외 발생 시 에러 메시지 출력
-            retries += 1  # 재시도 횟수 증가
-
-        if not success:
-            print(f"Failed to generate illustration {i} after {max_retries} attempts.")  # 최대 재시도 횟수 초과 시 실패 메시지 출력
+        print(f"Generating illustration {i} with prompt: {prompt}") # 삽화 생성 시작 메시지
+        try:
+            image = pipe(prompt).images[0]
+            image_path = f"../static/illustrations/{story_title}_{i}.png"
+            image.save(image_path)
+            print(f"Generated illustration saved as {image_path}")
+        except Exception as e:
+            print(f"Illustration generation error for part {i}: {e}")  # 예외 발생 시 에러 메시지 출력
 
         time.sleep(1)  # 다음 요청 전 대기

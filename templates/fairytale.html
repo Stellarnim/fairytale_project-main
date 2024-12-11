@@ -6,7 +6,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/static/main.css"/>
-    <title></title>
+    <link rel="shortcut icon" href="/static/icon/fairytaleicon.png">
+    <title>동화 생성기</title>
 </head>
 <body>
 <div id="loading-modal"
@@ -57,6 +58,7 @@
                     </button>
                     <button class="icon-button bg-transparent" id="left-tts">
                         <img src="./static/icon/tts.png"/>
+                        <audio style="display: none;" id="left_audio"></audio>
                     </button>
                     <textarea readonly class="h-full w-4 bg-transparent resize-none button-size text-center"
                               id="left_page_number"></textarea>
@@ -71,6 +73,7 @@
                               id="right_page_number"></textarea>
                     <button class="icon-button bg-transparent" id="right-tts">
                         <img src="./static/icon/tts.png"/>
+                        <audio style="display: none;" id="right_audio"></audio>
                     </button>
                     <button class="icon-button bg-transparent" id="next-btn">
                         <img src="./static/icon/right-arrow.png"/>
@@ -118,6 +121,7 @@
     let storyTitle = [];
     let storyParts = []; // 전체 동화의 문장 그룹
     let currentIndex = 0; // 현재 표시 중인 첫 번째 문장 그룹의 인덱스
+    let playingAudio = [];
 
     socket.on("gen_run_done", (message) => {
         console.log("동화 생성 준비 완료:", message);
@@ -132,6 +136,20 @@
         displayStory();
     });
 
+    function start_onclick() {
+        const keywordsTextarea = document.querySelector('#keyword-area');
+        const keywords = keywordsTextarea.value;
+        // 'readage' 값을 선택된 값으로 가져옵니다. 예를 들어, 'readage'는 radio button이나 dropdown에서 선택된 값일 수 있습니다.
+        const readage = document.querySelector('input[name="option"]:checked')?.value;  // radio 버튼에서 선택된 값 가져오기
+        if (!readage) {
+            alert('연령을 입력해주세요.');
+            return;
+        }
+        showLoadingModal();
+        socket.emit('start_story', {keywords: keywords, readage: readage});
+        keywordsTextarea.value = '';
+    }
+
     socket.on('story_error', function (errorMessage) {
         hideLoadingModal();
         const storybox = document.getElementById('story-box_left');
@@ -144,7 +162,7 @@
     socket.on('load_lists', function (data) {
         const lists = document.getElementById('sidebar-content-list');
 
-        data.file_names.forEach(title => {
+        data.file_names.reverse().forEach(title => {
             // 새 버튼 생성
             const button = document.createElement('button');
 
@@ -153,7 +171,7 @@
 
             // 버튼 클릭 시 동작 정의
             button.addEventListener('click', () => {
-                socket.emit('load_fairytale', {title: button.textContent});
+                socket.emit('load_request', {title: button.textContent});
                 alert(button.textContent);
             });
 
@@ -235,6 +253,44 @@
         }
     });
 
+    document.getElementById('left-tts').addEventListener('click', () => {
+        const left_audio = document.getElementById("left_audio");
+        const story_title = storyTitle;
+        const left_page_number = document.getElementById("left_page_number");
+        const audioSrc = "/static/audio/" + story_title + "_" + left_page_number.value + ".mp3";
+       if (playingAudio === story_title) {
+            if(!left_audio.paused) {
+                left_audio.pause();
+            } else {
+                left_audio.play();
+            }
+        } else {
+            playingAudio = story_title + "_" + left_page_number;
+            left_audio.src = audioSrc;
+            left_audio.load();
+            left_audio.play();
+        }
+    })
+
+    document.getElementById('right-tts').addEventListener('click', () => {
+        const right_audio = document.getElementById("right_audio");
+        const story_title = storyTitle;
+        const right_page_number = document.getElementById("right_page_number");
+        const audioSrc = "/static/audio/" + story_title + "_" + right_page_number.value + ".mp3";
+        if (playingAudio === audioSrc) {
+            if(!right_audio.paused) {
+                right_audio.pause();
+            } else {
+                right_audio.play();
+            }
+        } else {
+            playingAudio = story_title + "_" + right_page_number;
+            right_audio.src = audioSrc;
+            right_audio.load();
+            right_audio.play();
+        }
+    })
+
     document.querySelector('#keyword-area').addEventListener('keydown', function (event) {
         if (event.key === 'Enter') {  // Enter 키 확인
             if (event.shiftKey) {
@@ -249,20 +305,6 @@
         storyTitle = [];
         storyParts = [];
         currentIndex = 0;
-    }
-
-    function start_onclick() {
-        const keywordsTextarea = document.querySelector('#keyword-area');
-        const keywords = keywordsTextarea.value;
-        // 'readage' 값을 선택된 값으로 가져옵니다. 예를 들어, 'readage'는 radio button이나 dropdown에서 선택된 값일 수 있습니다.
-        const readage = document.querySelector('input[name="option"]:checked')?.value;  // radio 버튼에서 선택된 값 가져오기
-        if (!readage) {
-            alert('연령을 입력해주세요.');
-            return;
-        }
-        showLoadingModal();
-        socket.emit('start_story', {keywords: keywords, readage: readage});
-        keywordsTextarea.value = '';
     }
 
     function showMenu() {
