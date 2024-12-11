@@ -233,11 +233,10 @@
     document.getElementById('prev-btn').addEventListener('click', () => {
         if (currentIndex > 0) {
             currentIndex -= 2;
-            displayStory();
             displayPageNumber();
+            displayStory();
         } else {
             alert('첫 페이지입니다.');
-            imgtest();
         }
     });
 
@@ -245,11 +244,10 @@
     document.getElementById('next-btn').addEventListener('click', () => {
         if (currentIndex + 2 > storyParts.length) {
             alert('마지막 페이지입니다.');
-            imgtest();
         } else {
             currentIndex += 2;
-            displayStory();
             displayPageNumber();
+            displayStory();
         }
     });
 
@@ -383,16 +381,8 @@
         const leftPageNumber = document.getElementById('left_page_number');
         const rightPageNumber = document.getElementById('right_page_number');
 
-        leftStoryBox.style.backgroundImage = "url('/static/illustrations/" + encodeURIComponent("지각하지 않는 초콜릿 사랑의 비밀_1") + ".png')";
-        rightStoryBox.style.backgroundImage = "url('static/illustrations/" + encodeURIComponent(storyTitle) + "_2.png')";
-    }
-
-    function imgtest() {
-        const leftStoryBox = document.getElementById('left-container');
-        const rightStoryBox = document.getElementById('right-container');
-
-        leftStoryBox.style.backgroundImage = "url('/static/illustrations/" + encodeURIComponent("지각하지 않는 초콜릿 사랑의 비밀_1") + ".png')";
-        rightStoryBox.style.backgroundImage = "url('static/illustrations/" + encodeURIComponent(storyTitle) + "_2.png')";
+        leftStoryBox.style.backgroundImage = "url('/static/illustrations/" + encodeURIComponent(storyTitle) + "_" + leftPageNumber.value +".png')";
+        rightStoryBox.style.backgroundImage = "url('static/illustrations/" + encodeURIComponent(storyTitle) + "_" + rightPageNumber.value +".png')";
     }
 </script>
 </body>

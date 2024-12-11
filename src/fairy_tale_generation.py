@@ -6,6 +6,7 @@ import threading
 import time
 import torch
 import asyncio
+import requests
 from deep_translator import GoogleTranslator
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
@@ -14,8 +15,6 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.schema import Document
-from diffusers import DiffusionPipeline
-from huggingface_hub import login
 from tts import generate_and_play_audio
 
 # 싱글톤 관련 글로벌 변수
@@ -250,9 +249,8 @@ def generate_story(keywords, readage, socketio):
         logging.info("동화가 " + str(story_title) + ".json에 저장되었습니다.")
 
         logging.info("이미지와 TTS 생성중...")
-        asyncio.run(generate_and_play_audio(story_title, story_parts))
+        asyncio.run(generate_and_play_audio(story_title, contents))
         generate_illustrations_from_story(story_title, story_parts)
-
 
         socketio.emit('generate_story', {"story_title": story_title, "story_parts": story_parts})
 
@@ -266,26 +264,18 @@ def generate_illustrations_from_story(story_title, story_parts):
     """
     각 문단마다 품질 높은 삽화를 생성하는 함수
     """
-    os.makedirs("illustrations", exist_ok=True)  # 삽화를 저장할 디렉토리 생성
+    os.makedirs("../static/illustrations", exist_ok=True)  # 삽화를 저장할 디렉토리 생성
 
     hf_api_key = os.getenv("HUGGINGFACE_API_KEY")
     if not hf_api_key:
         logging.error("HUGGINGFACE_API_KEY 환경 변수를 설정해야 합니다.")
         return
 
-    try:
-        login(token=hf_api_key)
-    except Exception as e:
-        logging.error(f"Hugging Face 로그인 중 오류 발생: {e}")
-        return
-
-    try:
-        pipe = DiffusionPipeline.from_pretrained("black-forest-labs/FLUX.1-dev")
-        pipe.load_lora_weights("Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template")
-        pipe.to("cuda" if torch.cuda.is_available() else "cpu")
-    except Exception as e:
-        logging.error(f"모델 로드 중 오류 발생: {e}")
-        return
+    # Hugging Face Inference API URL
+    api_url = "https://api-inference.huggingface.co/models/Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template"
+    headers = {
+        "Authorization": f"Bearer {hf_api_key}"
+    }
 
     translated_paragraphs = []  # 번역된 문단 저장
 
@@ -300,6 +290,7 @@ def generate_illustrations_from_story(story_title, story_parts):
     except Exception as e:
         logging.error(f"번역 중 오류 발생: {e}")
         return
+    max_retries = 3  # Max retries for API calls
 
     for i, paragraph in enumerate(translated_paragraphs, start=1):
         # 각 문단을 기반으로 한 삽화 생성 프롬프트 설정
@@ -314,12 +305,24 @@ def generate_illustrations_from_story(story_title, story_parts):
         )
 
         print(f"Generating illustration {i} with prompt: {prompt}") # 삽화 생성 시작 메시지
-        try:
-            image = pipe(prompt).images[0]
-            image_path = f"../static/illustrations/{story_title}_{i}.png"
-            image.save(image_path)
-            print(f"Generated illustration saved as {image_path}")
-        except Exception as e:
-            print(f"Illustration generation error for part {i}: {e}")  # 예외 발생 시 에러 메시지 출력
+        attempt = 0
+        while attempt < max_retries:
+            try:
+                # API 호출
+                response = requests.post(api_url, headers=headers, json={"inputs": prompt})
 
-        time.sleep(1)  # 다음 요청 전 대기
+                # API 응답 확인
+                if response.status_code == 200:
+                    image_path = f"../static/illustrations/{story_title}_{i}.png"
+                    with open(image_path, "wb") as f:
+                        f.write(response.content)
+                    print(f"Generated illustration saved as {image_path}")
+                else:
+                    logging.error(f"API 호출 실패: {response.status_code}, {response.text}")
+
+            except Exception as e:
+                print(f"Illustration generation error for part {i}: {e}")  # 예외 발생 시 에러 메시지 출력
+
+            time.sleep(1)  # 다음 요청 전 대기
+        if attempt == max_retries:
+            logging.error(f"Failed to generate illustration {i} after {max_retries} attempts.")
